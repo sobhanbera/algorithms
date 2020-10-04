@@ -138,7 +138,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Data Structure                  | CPP             | Java             | Python           | JavaScript       | Golang  | C#     |  Other   |
 | :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  |  :---:   |
 | AVL Tree                        |                 |                  |                  |                  |         |        |	   |
-| Binary Search Tree              |                 |                  |                  |                  |         |        |	   |
+| Binary Search Tree              |:white_check_mark:|                  |                  |                  |         |        |	   |
 | Binary Tree                     |                 |                  |                  |                  |         |        |	   |
 | Doubly Linked List              |                 |                  |                  |                  |         |        |	   |
 | Graph                           |                 |                  |                  |                  |         |        |	   |
