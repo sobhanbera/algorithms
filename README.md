@@ -65,3 +65,105 @@ The only exception would be if the project maintainer chooses to mark your pull 
 Any pull request made to a public repo on GitHub will count. The pull request must contain commits you personally made yourself — not automated commits from bots.
 
 You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
+
+
+
+## Implemented Algorithms
+
+| Algorithm                       | CPP             | Java             | Python           | JavaScript       | Golang  | C#     |
+| :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  |
+| Binary Search                   |                 |                  |                  |                  |         |        |
+| Breadth First Search            |                 |                  |                  |                  |         |        |
+| Breadth First Traversal         |                 |                  |                  |                  |         |        |
+| Bubble sort                     |                 |                  |                  |                  |         |        |
+| Counting Sort                   |                 |                  |                  |                  |         |        |
+| Depth First Traversal           |                 |                  |                  |                  |         |        |
+| Dijkstra Algorithm              |                 |                  |                  |                  |         |        |
+| Finite Automata                 |                 |                  |                  |                  |         |        |
+| Heap Sort                       |                 |                  |                  |                  |         |        |
+| Huffman Coding                  |                 |                  |                  |                  |         |        |
+| Insertion Sort                  |                 |                  |                  |                  |         |        |
+| K-NN                            |                 |                  |                  |                  |         |        |
+| K Centers Problem               |                 |                  |                  |                  |         |        |
+| KMP Algorithm                   |                 |                  |                  |                  |         |        |
+| Kruskal’s Minimum Spanning Tree Algorithm |                 |                  |                  |                  |         |        |
+| Linear Search                   |                 |                  |                  |                  |         |        |
+| Longest Common Subsequence      |                 |                  |                  |                  |         |        |
+| Longest Increasing Subsequence  |                 |                  |                  |                  |         |        |
+| Longest Palindromic Substring   |                 |                  |                  |                  |         |        |
+| Merge Sort                      |                 |                  |                  |                  |         |        |
+| Naive Search                    |                 |                  |                  |                  |         |        |
+| Quick Sort                      |                 |                  |                  |                  |         |        |
+| Radix Sort                      |                 |                  |                  |                  |         |        |
+| Selection Sort                  |                 |                  |                  |                  |         |        |
+| Sieve of Eratosthenes           |                 |                  |                  |                  |         |        |
+| Shell Sort                      |                 |                  |                  |                  |         |        |
+| Suffix Array                    |                 |                  |                  |                  |         |        |
+
+
+
+## Some CP Question
+
+| Questions                       | CPP             | Java             | Python           | JavaScript       | Golang  | C#     |
+| :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  |
+| Binomial Coefficient            |                 |                  |                  |                  |         |        |
+| Bellman–Ford Algorithm          |                 |                  |                  |                  |         |        |
+| Coin Change                     |                 |                  |                  |                  |         |        |
+| Count ways to reach the n’th stair |                 |                  |                  |                  |         |        |
+| Cutting a Rod                   |                 |                  |                  |                  |         |        |
+| Edit Distance                   |                 |                  |                  |                  |         |        |
+| Egg Droping Puzzle              |                 |                  |                  |                  |         |        |
+| Four Sum                        |                 |                  |                  |                  |         |        |
+| Knapsack Problem                |                 |                  |                  |                  |         |        |
+| Largest Sum Contiguous Subarray |                 |                  |                  |                  |         |        |
+| m Coloring Problem              |                 |                  |                  |                  |         |        |
+| Pascal’s Triangle               |                 |                  |                  |                  |         |        |
+| Matrix Chain Multiplication     |                 |                  |                  |                  |         |        |
+| Maximum sum rectangle in a 2D matrix |                 |                  |                  |                  |         |        |
+| Min Cost Path                   |                 |                  |                  |                  |         |        |
+| Palindrome Partitioning         |                 |                  |                  |                  |         |        |
+| Partition problem               |                 |                  |                  |                  |         |        |
+| Subset Sum                      |                 |                  |                  |                  |         |        |
+| Tiling Problem                  |                 |                  |                  |                  |         |        |
+| The Knight’s tour problem       |                 |                  |                  |                  |         |        |
+| Three Sum                       |                 |                  |                  |                  |         |        |
+| Two Sum                         |                 |                  |                  |                  |         |        |
+| Variations of LIS               |                 |                  |                  |                  |         |        |
+| Word Wrap Problem               |                 |                  |                  |                  |         |        |
+
+
+## Data Structures Implementations.
+
+| Data Structure                  | CPP             | Java             | Python           | JavaScript       | Golang  | C#     |
+| :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  |
+| AVL Tree                        |                 |                  |                  |                  |         |        |
+| Binary Search Tree              |                 |                  |                  |                  |         |        |
+| Binary Tree                     |                 |                  |                  |                  |         |        |
+| Doubly Linked List              |                 |                  |                  |                  |         |        |
+| Graph                           |                 |                  |                  |                  |         |        |
+| Heap                            |                 |                  |                  |                  |         |        |
+| Linked List                     |                 |                  |                  |                  |         |        |
+| Queue                           |                 |                  |                  |                  |         |        |
+| Stack                           |                 |                  |                  |                  |         |        |
+| Trie                         |                 |                  |                  |                  |         |        |
+
+`you can add more algorithms, data-structure and cp problems if you like to in the readme file`
+
+## How to run them
+
+| Language   | Steps                                                              |
+| :---       | :---                                                               |
+| C++        | <pre>g++ <filename.cpp><br>./a.out # unix<br>a.exe # windows</pre> |
+| Java       | <pre>javac <filename.java><br>java <filename></pre>                |
+| Python     | <pre>python <filename.py></pre>                                    |
+| JavaScript | <pre>node <filename.js></pre>                                      |
+| Golang     | <pre>go run <filename.go></pre>                                    |
+| C#         | <pre>mcs <filename.cs><br/>mono <filename.exe></pre>               |
+
+
+
+##### Request:-
+- `please provide some explanation to the code you write in form of comments.`
+- `add at least any one among whatever(algoritms, ds, questions) you know.`
+
+#### Thanks Everyone For Contributing.
