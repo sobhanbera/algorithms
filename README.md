@@ -170,4 +170,5 @@ You can contribute to any open source project hosted on Github.com and contribut
 <a href="https://github.com/SobhanBera/algorithms/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=SobhanBera/algorithms" />
 </a>
-Generated using [contributors-img](https://contributors-img.web.app).
+
+<!--Generated using [contributors-img](https://contributors-img.web.app).-->
