@@ -1,0 +1,3 @@
+Add any algorithms in this folder you want in any other language language,
+which is not mentioned as a folder for more info read the readme in the main repository directory
+Thanks...
