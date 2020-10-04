@@ -168,8 +168,11 @@ You can contribute to any open source project hosted on Github.com and contribut
 - `add at least any one among whatever(algoritms, ds, questions) you know.`
 
 ### Thanks Everyone For Contributing.
-<a href="https://github.com/SobhanBera/algorithms/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SobhanBera/algorithms" />
-</a>
-
-<!--Generated using [contributors-img](https://contributors-img.web.app).-->
+<table>
+    <tr>
+    <td align="center"><a href="https://github.com/SobhanBera"><img src="https://avatars3.githubusercontent.com/u/50291544?v=4" width="100px;" alt=""/><br /><sub><b>SobhanBera</b></sub></a><br /><a href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" title="Coding">💻</a>
+    <td align="center"><a href="https://github.com/AlanJereb"><img src="https://avatars2.githubusercontent.com/u/24469472?s=460&v=4" width="100px;" alt=""/><br /><sub><b>
+Alan Jereb</b></sub></a><br /><a href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" title="Coding">💻</a>
+    </td>
+    </tr>
+</table>
