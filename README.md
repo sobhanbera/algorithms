@@ -1,6 +1,6 @@
 # HACKTOBERFEST 2020
 
-![image](hacktoberfest2020.png)
+![image](hacktoberfest2020.jpeg)
 
 # Algorithms and Data-Structures.
 This is a repository to get Algorithms and data-structures in many languages.
