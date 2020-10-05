@@ -75,34 +75,34 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 | Algorithm                       | CPP             | Java             | Python           | JavaScript       | Golang  | C#     | Other    |
 | :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  | :---:    | 
-| Binary Search                   | ✔               | ✔                | ✔                 |                  |         |        |	   |
-| Bogo Sort                   |                 |                  |                  |                  |         |        | TS ✔    |
+| Binary Search                   | ✔               | ✔               | ✔                |                  |         |        |	        |
+| Bogo Sort                       |                 |                  |                  |                  |         |        | TS ✔     |
 | Breadth First Search            |                 |                  |                  |                  |         |        |          |
 | Breadth First Traversal         |                 |                  |                  |                  |         |        |          |
-| Bubble sort                     | ✔                |                  |                  |                  |         |        |	   |
-| Counting Sort                   |                 |                  |                  |                  |         |        |	   |
-| Depth First Traversal           |                 |                  |                  |                  |         |        |	   |
-| Dijkstra Algorithm              |                 |                  |                  |                  |         |        |	   |
-| Finite Automata                 |                 |                  |                  |                  |         |        |	   |
-| Heap Sort                       |                 |                  |                  |                  |         |        |	   |
-| Huffman Coding                  |                 |                  |                  |                  |         |        |	   |
-| Insertion Sort                  | ✔                |                  |                  |                  |         |        |	   |
-| K-NN                            |                 |                  |                  |                  |         |        |	   |
-| K Centers Problem               |                 |                  |                  |                  |         |        |	   |
-| KMP Algorithm                   |                 |                  |                  |                  |         |        |
-| Kruskal’s Minimum Spanning Tree Algorithm |   ✔               |                  |                  |                  |         |        |	   |
-| Linear Search                   |                 |                  |✔                 |                  |         |        |	   |
-| Longest Common Subsequence      |                 |                  |                  |                  |         |        |	   |
-| Longest Increasing Subsequence  |                 |                  |                  |                  |         |        |	   |
-| Longest Palindromic Substring   |                 |                  |                  |                  |         |        |	   |
-| Merge Sort                      |✔                 |                  |                  |                  |         |        |	   |
-| Naive Search                    |                 |                  |                  |                  |         |        |	   |
-| Quick Sort                      |                 |                  |                  |                  |         |        |	   |
-| Radix Sort                      |                 |                  |                  |                  |         |        |	   |
-| Selection Sort                  | ✔                |                  |                  |                  |         |        |	   |
-| Sieve of Eratosthenes           |                 |                  |                  |                  |         |        |	   |
-| Shell Sort                      |                 |                  |                  |                  |         |        |	   |
-| Suffix Array                    |                 |                  |                  |                  |         |        |	   |
+| Bubble sort                     | ✔               |                  |                  |                  |         |        |	         |
+| Counting Sort                   |                 |                  |                  |                  |         |        |	         |
+| Depth First Traversal           |                 |                  |                  |                  |         |        |	         |
+| Dijkstra Algorithm              |                 |                  |                  |                  |         |        |	         |
+| Finite Automata                 |                 |                  |                  |                  |         |        |	         |
+| Heap Sort                       |                 |                  |                  |                  |         |        |	         |
+| Huffman Coding                  |                 |                  |                  |                  |         |        |	         |
+| Insertion Sort                  | ✔               |                  |                  |                  |         |        |      	   |
+| K-NN                            |                 |                  |                  |                  |         |        |	         |
+| K Centers Problem               |                 |                  |                  |                  |         |        |	         |
+| KMP Algorithm                   |                 |                  |                  |                  |         |        |          |
+| Kruskal’s Minimum Spanning Tree Algorithm |   ✔   |                  |                  |                  |         |        |	         |
+| Linear Search                   |                 |                  |✔                 | ✔               |         |        |	         |
+| Longest Common Subsequence      |                 |                  |                  |                  |         |        |	         |
+| Longest Increasing Subsequence  |                 |                  |                  |                  |         |        |	         |
+| Longest Palindromic Substring   |                 |                  |                  |                  |         |        |	         |
+| Merge Sort                      |✔                |                  |                  |                  |         |        |      	   |
+| Naive Search                    |                 |                  |                  |                  |         |        |	         |
+| Quick Sort                      |                 |                  |                  |                  |         |        |	         |
+| Radix Sort                      |                 |                  |                  |                  |         |        |	         |
+| Selection Sort                  | ✔               |                  |                  |                  |         |        |      	   |
+| Sieve of Eratosthenes           |                 |                  |                  |                  |         |        |	         |
+| Suffix Array                    |                 |                  |                  |                  |         |        |	         |
+| Shell Sort                      |                 |                  |                  |                  |         |        |	         |
 
 
 
@@ -110,46 +110,46 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 | Questions                       | CPP             | Java             | Python           | JavaScript       | Golang  | C#     | Other	   |
 | :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  | :---:    |
-| Binomial Coefficient            |                 |                  |                  |                  |         |        |	   |
-| Bellman–Ford Algorithm          |                 |                  |                  |                  |         |        |	   |
-| Coin Change                     |                 |                  |                  |                  |         |        |	   |
-| Count ways to reach the n’th stair |                 |                  |                  |                  |         |        |	   |
-| Cutting a Rod                   |                 |                  |                  |                  |         |        |	   |
-| Edit Distance                   |    ✔              |                  |                  |                  |         |        |	   |
-| Egg Droping Puzzle              |                 |                  |                  |                  |         |        |	   |
-| Four Sum                        |                 |                  |                  |                  |         |        |	   |
-| Knapsack Problem                |                 |                  |                  |                  |         |        |	   |
-| Largest Sum Contiguous Subarray |                 |                  |                  |                  |         |        |	   |
-| m Coloring Problem              |                 |                  |                  |                  |         |        |	   |
-| Pascal’s Triangle               |                 |                  |                  |                  |         |        |	   |
-| Matrix Chain Multiplication     |                 |                  |                  |                  |         |        |	   |
-| Maximum sum rectangle in a 2D matrix |                 |                  |                  |                  |         |        |	   |
-| Min Cost Path                   |                 |                  |                  |                  |         |        |	   |
-| Palindrome Partitioning         |                 |                  |                  |                  |         |        |	   |
-| Partition problem               |                 |                  |                  |                  |         |        |	   |
-| Subset Sum                      |                 |                  |                  |                  |         |        |	   |
-| Tiling Problem                  |                 |                  |                  |                  |         |        |	   |
-| The Knight’s tour problem       |                 |                  |                  |                  |         |        |	   |
-| Three Sum                       |                 |                  |                  |                  |         |        |	   |
-| Two Sum                         |                 |                  |                  |                  |         |        |	   |
-| Variations of LIS               |                 |                  |                  |                  |         |        |	   |
-| Word Wrap Problem               |                 |                  |                  |                  |         |        |	   |
+| Binomial Coefficient            |                 |                  |                  |                  |         |        |	         |
+| Bellman–Ford Algorithm          |                 |                  |                  |                  |         |        |	         |
+| Coin Change                     |                 |                  |                  |                  |         |        |	         |
+| Count ways to reach the n’th stair |              |                  |                  |                  |         |        |	         |
+| Cutting a Rod                   |                 |                  |                  |                  |         |        |	         |
+| Edit Distance                   |    ✔            |                  |                  |                  |         |        |	         |
+| Egg Droping Puzzle              |                 |                  |                  |                  |         |        |	         |
+| Four Sum                        |                 |                  |                  |                  |         |        |	         |
+| Knapsack Problem                |                 |                  |                  |                  |         |        |	         |
+| Largest Sum Contiguous Subarray |                 |                  |                  |                  |         |        |	         |
+| m Coloring Problem              |                 |                  |                  |                  |         |        |	         |
+| Pascal’s Triangle               |                 |                  |                  |                  |         |        |	         |
+| Matrix Chain Multiplication     |                 |                  |                  |                  |         |        |	         |
+| Maximum sum rectangle in a 2D matrix |            |                  |                  |                  |         |        |	         |
+| Min Cost Path                   |                 |                  |                  |                  |         |        |	         |
+| Palindrome Partitioning         |                 |                  |                  |                  |         |        |	         |
+| Partition problem               |                 |                  |                  |                  |         |        |	         |
+| Subset Sum                      |                 |                  |                  |                  |         |        |	         |
+| Tiling Problem                  |                 |                  |                  |                  |         |        |	         |
+| The Knight’s tour problem       |                 |                  |                  |                  |         |        |	         |
+| Three Sum                       |                 |                  |                  |                  |         |        |	         |
+| Two Sum                         |                 |                  |                  |                  |         |        |	         |
+| Variations of LIS               |                 |                  |                  |                  |         |        |	         |
+| Word Wrap Problem               |                 |                  |                  |                  |         |        |	         |
 
 
 ## Data Structures Implementations.
 
 | Data Structure                  | CPP             | Java             | Python           | JavaScript       | Golang  | C#     |  Other   |
 | :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  |  :---:   |
-| AVL Tree                        |                 |                  |                  |                  |         |        |	   |
-| Binary Search Tree              |:white_check_mark:|                  |                  |                  |         |        |	   |
-| Binary Tree                     |                 |                  |                  |                  |         |        |	   |
-| Doubly Linked List              |                 |                  |                  |                  |         |        |	   |
-| Graph                           |                 |                  |                  |                  |         |        |	   |
-| Heap                            |                 |                  |                  |                  |         |        |	   |
-| Linked List                     |                 |                  |                  |                  |         |        |	   |
-| Queue                           |                 |                  |                  |                  |         |        |	   |
-| Stack                           |                 |                  |                  |                  |         |        |	   |
-| Trie                            |                 |                  |                  |                  |         |        |	   |
+| AVL Tree                        |                 |                  |                  |                  |         |        |	         |
+| Binary Search Tree              |:white_check_mark:|                 |                  |                  |         |        |	         |
+| Binary Tree                     |                 |                  |                  |                  |         |        |	         |
+| Doubly Linked List              |                 |                  |                  |                  |         |        |	         |
+| Graph                           |                 |                  |                  |                  |         |        |	         |
+| Heap                            |                 |                  |                  |                  |         |        |	         |
+| Linked List                     |                 |                  |                  |                  |         |        |	         |
+| Queue                           |                 |                  |                  |                  |         |        |	         |
+| Stack                           |                 |                  |                  |                  |         |        |	         |
+| Trie                            |                 |                  |                  |                  |         |        |	         |
 
 `you can add more algorithms, data-structure and cp problems if you like to in the readme file`
 
