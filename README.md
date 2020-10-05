@@ -73,7 +73,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 | Algorithm                       | CPP             | Java             | Python           | JavaScript       | Golang  | C#     | Other    |
 | :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  | :---:    | 
-| Binary Search                   | ✔              |                  | ✔                 |                  |         |        |	   |
+| Binary Search                   | ✔               | ✔                | ✔                 |                  |         |        |	   |
 | Bogo Sort                   |                 |                  |                  |                  |         |        | TS ✔    |
 | Breadth First Search            |                 |                  |                  |                  |         |        |          |
 | Breadth First Traversal         |                 |                  |                  |                  |         |        |          |
