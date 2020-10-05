@@ -88,7 +88,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | K-NN                            |                 |                  |                  |                  |         |        |	   |
 | K Centers Problem               |                 |                  |                  |                  |         |        |	   |
 | KMP Algorithm                   |                 |                  |                  |                  |         |        |
-| Kruskal’s Minimum Spanning Tree Algorithm |                 |                  |                  |                  |         |        |	   |
+| Kruskal’s Minimum Spanning Tree Algorithm |   ✔               |                  |                  |                  |         |        |	   |
 | Linear Search                   |                 |                  |✔                 |                  |         |        |	   |
 | Longest Common Subsequence      |                 |                  |                  |                  |         |        |	   |
 | Longest Increasing Subsequence  |                 |                  |                  |                  |         |        |	   |
@@ -113,7 +113,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Coin Change                     |                 |                  |                  |                  |         |        |	   |
 | Count ways to reach the n’th stair |                 |                  |                  |                  |         |        |	   |
 | Cutting a Rod                   |                 |                  |                  |                  |         |        |	   |
-| Edit Distance                   |                 |                  |                  |                  |         |        |	   |
+| Edit Distance                   |    ✔              |                  |                  |                  |         |        |	   |
 | Egg Droping Puzzle              |                 |                  |                  |                  |         |        |	   |
 | Four Sum                        |                 |                  |                  |                  |         |        |	   |
 | Knapsack Problem                |                 |                  |                  |                  |         |        |	   |
