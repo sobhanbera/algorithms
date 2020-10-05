@@ -76,7 +76,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Algorithm                       | CPP             | Java             | Python           | JavaScript       | Golang  | C#     | Other    |
 | :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  | :---:    | 
 | Binary Search                   | ✔               | ✔               | ✔                |                  |         |        |	        |
-| Bogo Sort                       |                 |                  |                  |                  |         |        | TS ✔     |
+| Bogo Sort                       |                 |                  | ✔                |                  |         |        | TS ✔     |
 | Breadth First Search            |                 |                  |                  |                  |         |        |          |
 | Breadth First Traversal         |                 |                  |                  |                  |         |        |          |
 | Bubble sort                     | ✔               |                  |                  |                  |         |        |	         |
@@ -95,7 +95,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Longest Common Subsequence      |                 |                  |                  |                  |         |        |	         |
 | Longest Increasing Subsequence  |✔                |                  |                  |                  |         |        |	         |
 | Longest Palindromic Substring   |                 |                  |                  |                  |         |        |	         |
-| Merge Sort                      |✔                |                  |                  |                  |         |        |      	   |
+| Merge Sort                      |✔                |                  | ✔                |                  |         |        |      	   |
 | Naive Search                    |                 |                  |                  |                  |         |        |	         |
 | Quick Sort                      |                 |                  |                  |                  |         |        |	         |
 | Radix Sort                      |                 |                  |                  |                  |         |        |	         |
