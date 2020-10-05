@@ -92,7 +92,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Longest Common Subsequence      |                 |                  |                  |                  |         |        |	   |
 | Longest Increasing Subsequence  |                 |                  |                  |                  |         |        |	   |
 | Longest Palindromic Substring   |                 |                  |                  |                  |         |        |	   |
-| Merge Sort                      |                 |                  |                  |                  |         |        |	   |
+| Merge Sort                      |✔                 |                  |                  |                  |         |        |	   |
 | Naive Search                    |                 |                  |                  |                  |         |        |	   |
 | Quick Sort                      |                 |                  |                  |                  |         |        |	   |
 | Radix Sort                      |                 |                  |                  |                  |         |        |	   |
