@@ -93,7 +93,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Kruskal’s Minimum Spanning Tree Algorithm |   ✔   |                  |                  |                  |         |        |	         |
 | Linear Search                   |                 |                  |✔                 | ✔               |         |        |	         |
 | Longest Common Subsequence      |                 |                  |                  |                  |         |        |	         |
-| Longest Increasing Subsequence  |                 |                  |                  |                  |         |        |	         |
+| Longest Increasing Subsequence  |✔                |                  |                  |                  |         |        |	         |
 | Longest Palindromic Substring   |                 |                  |                  |                  |         |        |	         |
 | Merge Sort                      |✔                |                  |                  |                  |         |        |      	   |
 | Naive Search                    |                 |                  |                  |                  |         |        |	         |
@@ -229,6 +229,18 @@ You can contribute to any open source project hosted on Github.com and contribut
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=dbarnwal" 
+          title="Coding">💻</a>
+      <br />
+      <td align="center">
+        <a href="https://github.com/waridrox">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/26463272?s=400&u=fa542e98c4b46191288a30eae34b855632d3a730&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>ng29</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=ng29" 
           title="Coding">💻</a>
       <br />
     </tr>
