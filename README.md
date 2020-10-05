@@ -45,6 +45,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 Contributing to open-source is easy.
 
+- Please read the contributing guideline before any PR.
 - Fork the repository
 - Improve current program by
   - improving codes and features
