@@ -314,5 +314,3 @@ You can contribute to any open source project hosted on Github.com and contribut
       </td>
     </tr>
 </table>
-
-anuranjanpandey
