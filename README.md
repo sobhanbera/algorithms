@@ -45,6 +45,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 Contributing to open-source is easy.
 
+- Please read the contributing guideline before any PR.
 - Fork the repository
 - Improve current program by
   - improving codes and features
@@ -72,23 +73,23 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 | Algorithm                       | CPP             | Java             | Python           | JavaScript       | Golang  | C#     | Other    |
 | :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  | :---:    | 
-| Binary Search                   | ✔              |                  |                  |                  |         |        |	   |
+| Binary Search                   | ✔               | ✔                | ✔                 |                  |         |        |	   |
 | Bogo Sort                   |                 |                  |                  |                  |         |        | TS ✔    |
 | Breadth First Search            |                 |                  |                  |                  |         |        |          |
 | Breadth First Traversal         |                 |                  |                  |                  |         |        |          |
-| Bubble sort                     |                 |                  |                  |                  |         |        |	   |
+| Bubble sort                     | ✔                |                  |                  |                  |         |        |	   |
 | Counting Sort                   |                 |                  |                  |                  |         |        |	   |
 | Depth First Traversal           |                 |                  |                  |                  |         |        |	   |
 | Dijkstra Algorithm              |                 |                  |                  |                  |         |        |	   |
 | Finite Automata                 |                 |                  |                  |                  |         |        |	   |
 | Heap Sort                       |                 |                  |                  |                  |         |        |	   |
 | Huffman Coding                  |                 |                  |                  |                  |         |        |	   |
-| Insertion Sort                  |                 |                  |                  |                  |         |        |	   |
+| Insertion Sort                  | ✔                |                  |                  |                  |         |        |	   |
 | K-NN                            |                 |                  |                  |                  |         |        |	   |
 | K Centers Problem               |                 |                  |                  |                  |         |        |	   |
 | KMP Algorithm                   |                 |                  |                  |                  |         |        |
 | Kruskal’s Minimum Spanning Tree Algorithm |   ✔               |                  |                  |                  |         |        |	   |
-| Linear Search                   |                 |                  |                  |                  |         |        |	   |
+| Linear Search                   |                 |                  |✔                 |                  |         |        |	   |
 | Longest Common Subsequence      |                 |                  |                  |                  |         |        |	   |
 | Longest Increasing Subsequence  |                 |                  |                  |                  |         |        |	   |
 | Longest Palindromic Substring   |                 |                  |                  |                  |         |        |	   |
@@ -96,7 +97,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Naive Search                    |                 |                  |                  |                  |         |        |	   |
 | Quick Sort                      |                 |                  |                  |                  |         |        |	   |
 | Radix Sort                      |                 |                  |                  |                  |         |        |	   |
-| Selection Sort                  |                 |                  |                  |                  |         |        |	   |
+| Selection Sort                  | ✔                |                  |                  |                  |         |        |	   |
 | Sieve of Eratosthenes           |                 |                  |                  |                  |         |        |	   |
 | Shell Sort                      |                 |                  |                  |                  |         |        |	   |
 | Suffix Array                    |                 |                  |                  |                  |         |        |	   |
@@ -170,9 +171,51 @@ You can contribute to any open source project hosted on Github.com and contribut
 ### Thanks Everyone For Contributing.
 <table>
     <tr>
-    <td align="center"><a href="https://github.com/SobhanBera"><img src="https://avatars3.githubusercontent.com/u/50291544?v=4" width="100px;" alt=""/><br /><sub><b>SobhanBera</b></sub></a><br /><a href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" title="Coding">💻</a>
-    <td align="center"><a href="https://github.com/AlanJereb"><img src="https://avatars2.githubusercontent.com/u/24469472?s=460&v=4" width="100px;" alt=""/><br /><sub><b>
-Alan Jereb</b></sub></a><br /><a href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" title="Coding">💻</a>
+    <td align="center">
+      <a href="https://github.com/SobhanBera">
+        <img 
+          src="https://avatars3.githubusercontent.com/u/50291544?v=4"   width="100px;" 
+          alt=""/>
+          <br />
+          <sub><b>SobhanBera</b></sub>
+      </a>
+      <br />
+      <a 
+        href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" 
+        title="Coding">💻</a>
+    <td align="center">
+      <a href="https://github.com/Kavyapriyakp">
+        <img 
+          src="https://avatars3.githubusercontent.com/u/54388796?s=400&u=2d4a93b2a3b05af18d9571fe4e74d9cab9b5111a&v=4" 
+          width="100px;" 
+          alt=""/>
+          <br /><sub><b>Kavyapriyakp</b></sub>
+      </a><br />
+      <a 
+        href="https://github.com/SobhanBera/algorithms/commits?author=Kavyapriyakp" 
+        title="Coding">💻</a>
+    <td align="center">
+      <a href="https://github.com/3t8">
+        <img 
+          src="https://avatars2.githubusercontent.com/u/62209650?s=400&u=d94c7860c2ae3ea1ef0bc512013983b44054fef5&v=4" 
+          width="100px;" 
+          alt=""/>
+          <br /><sub><b>3t8</b></sub>
+      </a><br />
+      <a 
+        href="https://github.com/SobhanBera/algorithms/commits?author=3t8" 
+        title="Coding">💻</a>
+    <td align="center">
+      <a href="https://github.com/waridrox">
+        <img 
+          src="https://avatars2.githubusercontent.com/u/58583793?s=400&u=d401f589203b86bdae509a8899a1f1285ff45ab0&v=4" 
+          width="100px;" 
+          alt=""/>
+          <br /><sub><b>waridrox</b></sub>
+      </a><br />
+      <a 
+        href="https://github.com/SobhanBera/algorithms/commits?author=waridrox" 
+        title="Coding">💻</a>
     </td>
     </tr>
 </table>
