@@ -255,6 +255,17 @@ You can contribute to any open source project hosted on Github.com and contribut
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=pranavkhapra" 
           title="Coding">💻</a>
+      <td align="center">
+        <a href="https://github.com/waridrox">
+          <img 
+            src="https://avatars3.githubusercontent.com/u/24294596?s=400&u=3f0bea99531f5d9c31a60b66fff02b490f9024b3&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>jhudsonsg</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=jhudsonsg" 
+          title="Coding">💻</a>
       </td>
     </tr>
 </table>
