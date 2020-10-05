@@ -2,6 +2,8 @@
 
 ![image](hacktoberfest2020.jpeg)
 
+###### Star The Repository if it helped you in any direction.
+
 # Algorithms and Data-Structures.
 This is a repository to get Algorithms and data-structures in many languages.
 
