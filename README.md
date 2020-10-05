@@ -289,6 +289,30 @@ You can contribute to any open source project hosted on Github.com and contribut
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=Croustys" 
           title="Coding">💻</a>
+      <td align="center">
+        <a href="https://github.com/anuranjanpandey">
+          <img 
+            src="https://avatars0.githubusercontent.com/u/53137708?s=400&u=88f891101c0a4b62095e5b8733f7670ebd8ee73d&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>anuranjanpandey</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=anuranjanpandey" 
+          title="Coding">💻</a>
+      <td align="center">
+        <a href="https://github.com/YuvrajSHAD">
+          <img 
+            src="https://avatars0.githubusercontent.com/u/71546888?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>YuvrajSHAD</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=YuvrajSHAD" 
+          title="Coding">💻</a>
       </td>
     </tr>
 </table>
+
+anuranjanpandey
