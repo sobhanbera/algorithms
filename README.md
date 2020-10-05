@@ -220,7 +220,7 @@ You can contribute to any open source project hosted on Github.com and contribut
           href="https://github.com/SobhanBera/algorithms/commits?author=waridrox" 
           title="Coding">💻</a>
       <td align="center">
-        <a href="https://github.com/waridrox">
+        <a href="https://github.com/dbarnwal">
           <img 
             src="https://avatars3.githubusercontent.com/u/56596211?s=400&u=273786d051a691b98766bab9cfa3cc34a99b589a&v=4" 
             width="100px;" 
@@ -232,7 +232,7 @@ You can contribute to any open source project hosted on Github.com and contribut
           title="Coding">💻</a>
       <br />
       <td align="center">
-        <a href="https://github.com/waridrox">
+        <a href="https://github.com/ng29">
           <img 
             src="https://avatars1.githubusercontent.com/u/26463272?s=400&u=fa542e98c4b46191288a30eae34b855632d3a730&v=4" 
             width="100px;" 
@@ -246,7 +246,7 @@ You can contribute to any open source project hosted on Github.com and contribut
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/waridrox">
+        <a href="https://github.com/Manav1">
           <img 
             src="https://avatars0.githubusercontent.com/u/43696727?s=400&u=47a60ed5594125ed9679d08aa99514deddec46f8&v=4" 
             width="100px;" 
@@ -257,7 +257,7 @@ You can contribute to any open source project hosted on Github.com and contribut
           href="https://github.com/SobhanBera/algorithms/commits?author=Manav1" 
           title="Coding">💻</a>
       <td align="center">
-        <a href="https://github.com/waridrox">
+        <a href="https://github.com/pranavkhapra">
           <img 
             src="https://avatars0.githubusercontent.com/u/66990090?s=400&u=66f5386d8cc12307725e6eb3da0027aa092a3770&v=4" 
             width="100px;" 
@@ -268,7 +268,7 @@ You can contribute to any open source project hosted on Github.com and contribut
           href="https://github.com/SobhanBera/algorithms/commits?author=pranavkhapra" 
           title="Coding">💻</a>
       <td align="center">
-        <a href="https://github.com/waridrox">
+        <a href="https://github.com/jhudsonsg">
           <img 
             src="https://avatars3.githubusercontent.com/u/24294596?s=400&u=3f0bea99531f5d9c31a60b66fff02b490f9024b3&v=4" 
             width="100px;" 
@@ -277,6 +277,17 @@ You can contribute to any open source project hosted on Github.com and contribut
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=jhudsonsg" 
+          title="Coding">💻</a>
+      <td align="center">
+        <a href="https://github.com/Croustys">
+          <img 
+            src="https://avatars2.githubusercontent.com/u/51267148?s=400&u=c6bab26728db1c35d618fa66d642125408b4247c&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Croustys</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Croustys" 
           title="Coding">💻</a>
       </td>
     </tr>
