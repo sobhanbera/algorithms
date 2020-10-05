@@ -1,5 +1,5 @@
 ##########################################################
-Linear Search Algorithm in Python - Code by Kavyapriya R
+#Linear Search Algorithm in Python - Code by Kavyapriya R
 ##########################################################
 def linear_search(alist, key):
     """Return index of key in alist. Return -1 if key not present."""
