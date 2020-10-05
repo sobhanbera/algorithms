@@ -171,9 +171,63 @@ You can contribute to any open source project hosted on Github.com and contribut
 ### Thanks Everyone For Contributing.
 <table>
     <tr>
-    <td align="center"><a href="https://github.com/SobhanBera"><img src="https://avatars3.githubusercontent.com/u/50291544?v=4" width="100px;" alt=""/><br /><sub><b>SobhanBera</b></sub></a><br /><a href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" title="Coding">💻</a>
-    <td align="center"><a href="https://github.com/AlanJereb"><img src="https://avatars2.githubusercontent.com/u/24469472?s=460&v=4" width="100px;" alt=""/><br /><sub><b>
-Alan Jereb</b></sub></a><br /><a href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" title="Coding">💻</a>
+    <td align="center">
+      <a href="https://github.com/SobhanBera">
+        <img 
+          src="https://avatars3.githubusercontent.com/u/50291544?v=4"   width="100px;" 
+          alt=""/>
+          <br />
+          <sub><b>SobhanBera</b></sub>
+      </a>
+      <br />
+      <a 
+        href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" 
+        title="Coding">💻</a>
+    <td align="center">
+      <a href="https://github.com/AlanJereb">
+        <img 
+          src="https://avatars2.githubusercontent.com/u/24469472?s=460&v=4" 
+          width="100px;" 
+          alt=""/>
+          <br /><sub><b>Alan Jereb</b></sub>
+      </a>
+      <br />
+      <a 
+        href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" 
+        title="Coding">💻</a>
+    <td align="center">
+      <a href="https://github.com/Kavyapriyakp">
+        <img 
+          src="https://avatars3.githubusercontent.com/u/54388796?s=400&u=2d4a93b2a3b05af18d9571fe4e74d9cab9b5111a&v=4" 
+          width="100px;" 
+          alt=""/>
+          <br /><sub><b>Kavyapriyakp</b></sub>
+      </a><br />
+      <a 
+        href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" 
+        title="Coding">💻</a>
+    <td align="center">
+      <a href="https://github.com/3t8">
+        <img 
+          src="https://avatars2.githubusercontent.com/u/62209650?s=400&u=d94c7860c2ae3ea1ef0bc512013983b44054fef5&v=4" 
+          width="100px;" 
+          alt=""/>
+          <br /><sub><b>3t8</b></sub>
+      </a><br />
+      <a 
+        href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" 
+        title="Coding">💻</a>
+    <td align="center">
+      <a href="https://github.com/waridrox">
+        <img 
+          src="https://avatars2.githubusercontent.com/u/58583793?s=400&u=d401f589203b86bdae509a8899a1f1285ff45ab0&v=4" 
+          width="100px;" 
+          alt=""/>
+          <br /><sub><b>waridrox</b></sub>
+      </a><br />
+      <a 
+        href="https://github.com/SobhanBera/algorithms/commits?author=SobhanBera" 
+        title="Coding">💻</a>
     </td>
     </tr>
 </table>
