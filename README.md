@@ -89,7 +89,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | K Centers Problem               |                 |                  |                  |                  |         |        |	   |
 | KMP Algorithm                   |                 |                  |                  |                  |         |        |
 | Kruskal’s Minimum Spanning Tree Algorithm |                 |                  |                  |                  |         |        |	   |
-| Linear Search                   |                 |                  |                  |                  |         |        |	   |
+| Linear Search                   |                 |                  |✔                 |                  |         |        |	   |
 | Longest Common Subsequence      |                 |                  |                  |                  |         |        |	   |
 | Longest Increasing Subsequence  |                 |                  |                  |                  |         |        |	   |
 | Longest Palindromic Substring   |                 |                  |                  |                  |         |        |	   |
