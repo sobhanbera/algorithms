@@ -1,3 +1,6 @@
+### WARNING!
+-   Please don't copy and paste any code from any website or any documentation.
+
 ## How to contribute an implementation (code)?
 
 *   Have a look at open issues. They contain the list of algorithms/DS we plan to be implemented. Pick an unassigned issue.
