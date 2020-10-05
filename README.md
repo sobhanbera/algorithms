@@ -77,14 +77,14 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Bogo Sort                   |                 |                  |                  |                  |         |        | TS ✔    |
 | Breadth First Search            |                 |                  |                  |                  |         |        |          |
 | Breadth First Traversal         |                 |                  |                  |                  |         |        |          |
-| Bubble sort                     |                 |                  |                  |                  |         |        |	   |
+| Bubble sort                     | ✔                |                  |                  |                  |         |        |	   |
 | Counting Sort                   |                 |                  |                  |                  |         |        |	   |
 | Depth First Traversal           |                 |                  |                  |                  |         |        |	   |
 | Dijkstra Algorithm              |                 |                  |                  |                  |         |        |	   |
 | Finite Automata                 |                 |                  |                  |                  |         |        |	   |
 | Heap Sort                       |                 |                  |                  |                  |         |        |	   |
 | Huffman Coding                  |                 |                  |                  |                  |         |        |	   |
-| Insertion Sort                  |                 |                  |                  |                  |         |        |	   |
+| Insertion Sort                  | ✔                |                  |                  |                  |         |        |	   |
 | K-NN                            |                 |                  |                  |                  |         |        |	   |
 | K Centers Problem               |                 |                  |                  |                  |         |        |	   |
 | KMP Algorithm                   |                 |                  |                  |                  |         |        |
@@ -97,7 +97,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Naive Search                    |                 |                  |                  |                  |         |        |	   |
 | Quick Sort                      |                 |                  |                  |                  |         |        |	   |
 | Radix Sort                      |                 |                  |                  |                  |         |        |	   |
-| Selection Sort                  |                 |                  |                  |                  |         |        |	   |
+| Selection Sort                  | ✔                |                  |                  |                  |         |        |	   |
 | Sieve of Eratosthenes           |                 |                  |                  |                  |         |        |	   |
 | Shell Sort                      |                 |                  |                  |                  |         |        |	   |
 | Suffix Array                    |                 |                  |                  |                  |         |        |	   |
