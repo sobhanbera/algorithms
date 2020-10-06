@@ -535,18 +535,6 @@ algorithms/
           href="https://github.com/SobhanBera/algorithms/commits?author=Adigoo" 
           title="Coding">💻</a>
       </td>
-      <td align="center">
-        <a href="https://github.com/Avantikaa">
-          <img 
-            src="https://avatars2.githubusercontent.com/u/6816705?s=400&v=4" 
-            width="100px;" 
-            alt=""/>
-            <br /><sub><b>Avantikaa</b></sub>
-        </a><br />
-        <a 
-          href="https://github.com/SobhanBera/algorithms/commits?author=Avantikaa" 
-          title="Coding">💻</a>
-      </td>
     </tr>
 </table>
 
