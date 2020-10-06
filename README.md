@@ -73,36 +73,37 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 ## Implemented Algorithms
 
-| Algorithm                       | CPP             | Java             | Python           | JavaScript       | Golang  | C#     | Other    |
-| :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  | :---:    | 
-| Binary Search                   | ✔               | ✔               | ✔                |                  |         |        |	        |
-| Bogo Sort                       |                 |                  |                  |                  |         |        | TS ✔     |
-| Breadth First Search            |                 |                  | ✔                |                  |         |        |          |
-| Breadth First Traversal         |                 |                  |                  |                  |         |        |          |
-| Bubble sort                     | ✔               |                  |                  |                  |         |        |	         |
-| Counting Sort                   |                 |                  |                  |                  |         |        |	         |
-| Depth First Traversal           |                 |                  |                  |                  |         |        |	         |
-| Dijkstra Algorithm              |                 |                  |                  |                  |         |        |	         |
-| Finite Automata                 |                 |                  |                  |                  |         |        |	         |
-| Heap Sort                       |                 |                  |                  |                  |         |        |	         |
-| Huffman Coding                  |                 |                  |                  |                  |         |        |	         |
-| Insertion Sort                  | ✔               |                  |                  |                  |         |        |      	   |
-| K-NN                            |                 |                  |                  |                  |         |        |	         |
-| K Centers Problem               |                 |                  |                  |                  |         |        |	         |
-| KMP Algorithm                   |                 |                  |                  |                  |         |        |          |
-| Kruskal’s Minimum Spanning Tree Algorithm |   ✔   |                  |                  |                  |         |        |	         |
-| Linear Search                   |                 |                  |✔                 | ✔               |         |        |	         |
-| Longest Common Subsequence      |                 |                  |                  |                  |         |        |	         |
-| Longest Increasing Subsequence  |✔                |                  |                  |                  |         |        |	         |
-| Longest Palindromic Substring   |                 |                  |                  |                  |         |        |	         |
-| Merge Sort                      |✔                |                  | ✔                |                  |         |        |      	   |
-| Naive Search                    |                 |                  |                  |                  |         |        |	         |
-| Quick Sort                      |                 |                  |                  |                  |         |        |	         |
-| Radix Sort                      |                 |                  |                  |                  |         |        |	         |
-| Selection Sort                  | ✔               |                  |                  |                  |         |        |      	   |
-| Sieve of Eratosthenes           |                 |                  |                  |                  |         |        |	         |
-| Suffix Array                    |                 |                  |                  |                  |         |        |	         |
-| Shell Sort                      |                 |                  |                  |                  |         |        |	         |
+| Algorithm                       | CPP           | Java       | Python    | JavaScript | Golang  | C#     | Other    |
+| :---                            | :---:         | :---:      | :---:     | :---:      | :---    | :---:  | :---:    | 
+| Binary Search                   | ✔             | ✔         | ✔         |            |         |        |	        |
+| Bogo Sort                       |               |            |           |            |         |        | TS ✔     |
+| Breadth First Search            |               |            | ✔         |            |         |        |          |
+| Breadth First Traversal         |               |            |           |            |         |        |          |
+| Bubble sort                     | ✔             |            |           |            |         |        |	         |
+| Counting Sort                   |               |            |           |            |         |        |	         |
+| Depth First Traversal           |               |            |           |            |         |        |	         |
+| Dijkstra Algorithm              |               |            |           |            |         |        |	         |
+| Finite Automata                 |               |            |           |            |         |        |	         |
+| Heap Sort                       | ✔              |            |           |            |         |        |	         |
+| Huffman Coding                  |               |            |           |            |         |        |	         |
+| Insertion Sort                  | ✔             |            |           |            |         |        |      	   |
+| Interpolation Search            |               | ✔          |           |            |         |        |	         |
+| K-NN                            |               |            |           |            |         |        |	         |
+| K Centers Problem               |               |            |           |            |         |        |	         |
+| KMP Algorithm                   |               |            |           |            |         |        |          |
+| Kruskal’s Minimum Spanning Tree Algorithm |   ✔ |            |           |            |         |        |	         |
+| Linear Search                   |               |            |✔          | ✔         |         |        |	         |
+| Longest Common Subsequence      |               |            |           |            |         |        |	         |
+| Longest Increasing Subsequence  |✔              |            |           |            |         |        |	         |
+| Longest Palindromic Substring   |               |            |           |            |         |        |	         |
+| Merge Sort                      |✔              |            | ✔         |            |         |        |      	   |
+| Naive Search                    |               |            |           |            |         |        |	         |
+| Quick Sort                      |               |            |           |            |         |        |	         |
+| Radix Sort                      |               |            |           |            |         |        |	         |
+| Selection Sort                  | ✔             |            |           |            |         |        |      	   |
+| Sieve of Eratosthenes           |               |            |           |            |         |        |	         |
+| Suffix Array                    |               |            |           |            |         |        |	         |
+| Shell Sort                      |               |            |           |            |         |        |	         |
 
 
 
