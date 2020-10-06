@@ -184,6 +184,90 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 `you can add more algorithms, data-structure and cp problems if you like to in the readme file`
 
+<details>
+<summary><b>Directory Tree</b></summary>
+
+```
+algorithms/
+├── algorithms/
+│   ├── c-sharp/
+│   │   └── algorithmsInfo.md
+│   ├── cpp/
+│   │   ├── BinarySearch.cpp
+│   │   ├── BubbleSort.cpp
+│   │   ├── HeapSort.cpp
+│   │   ├── InsertionSort.cpp
+│   │   ├── kadane's Algorithm.cpp
+│   │   ├── Kruskal's Minimum Spanning Tree.cpp
+│   │   ├── LongestIncreasingSubsequence.cpp
+│   │   ├── MergeSort.cpp
+│   │   ├── SelectionSort.cpp
+│   │   └── algorithmsInfo.md
+│   ├── java/
+│   │   ├── BinarySearch.java
+│   │   ├── BubbleSort.java
+│   │   ├── DFS.java
+│   │   ├── InterpolationSort.java
+│   │   └── algorithmsInfo.md
+│   ├── javascript/
+│   │   ├── BubbleSort.js
+│   │   ├── LinearSearch.js
+│   │   └── algorithmsInfo.md
+│   ├── other/
+|   |   ├── TypeScript/
+|   │   │   └── BogoSort.ts
+│   │   └── algorithmsInfo.md
+│   └── python/
+│       ├── BinarySearch.py
+│       ├── BreadthFirstSearch.py
+│       ├── BubbleSort.py
+│       ├── LinearSearch.py
+│       ├── MergeSort.py
+│       └── algorithmsInfo.md
+├── data structures/
+│   ├── c-sharp/
+|   |   └── dsInfo.md
+│   ├── cpp/
+|   |   ├── BST.cpp
+|   |   └── dsInfo.md
+│   ├── java/
+|   |   └── dsInfo.md
+│   ├── javascript/
+|   |   └── dsInfo.md
+│   ├── other/
+|   |   └── dsInfo.md
+│   └── python/
+|       └── dsInfo.md
+├── others/
+|   ├── PythonSMTP_Skeleton.py
+|   └── SnakeGame.py
+├── questions/
+│   ├── c-sharp/
+|   |   └── queInfo.md
+│   ├── cpp/
+|   |   ├── Edit Distance.cpp
+|   |   └── queInfo.md
+│   ├── java/
+|   |   └── queInfo.md
+│   ├── javascript/
+|   |   └── queInfo.md
+│   ├── other/
+|   |   └── queInfo.md
+│   └── python/
+|       └── queInfo.md
+└── templates/
+    ├── cpp/
+    |   └── templateHelp.md
+    ├── java/
+    |   └── templateHelp.md
+    ├── other/
+    |   └── templateHelp.md
+    ├── python/
+    |   └── templateHelp.md
+    └── templateHelp.md
+```
+</details>
+<!-- ├── -->
 
 ## How to run them
 
