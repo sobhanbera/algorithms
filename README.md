@@ -59,7 +59,7 @@ Contributing to open-source is easy.
   - you can also optimise somebody's code
 - Push your work and Create a Pull Request
 
-[Click here for more explanation](/Contribute.md)
+[Click here for more explanation](https://github.com/SobhanBera/algorithms/blob/main/docs/CONTRIBUTING.md)
 
 ## What if my pull requests aren’t accepted?
 
