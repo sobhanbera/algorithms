@@ -58,7 +58,7 @@ def Dijkstra(vert,edg):
     " from the source vertex a is:",distance[1])
     i = i + 1
 
-#for graph[(a,b),(a,c),(b,c),(c,d)] where a is the source node
+print("\nFor graph[(a,b),(a,c),(b,c),(c,d)] where a is the source vertex:\n")
 Dijkstra(vert = [[0, 1, 1, 0],
                 [0, 0, 1, 0],
                 [0, 0, 0, 1],
@@ -69,3 +69,16 @@ Dijkstra(vert = [[0, 1, 1, 0],
               [0, 0, 0, 1],
               [0, 0, 0, 0]])    
 
+
+print("\nFor graph[(a,b),(b,c),(b,d),(c,d),(d,e),(c,e)] where a is the source vertex:\n")
+Dijkstra(vert = [[0,1,0,0,0],
+                [0,0,1,1,0],
+                [0,0,0,1,1],
+                [0,0,0,0,1],
+                [0,0,0,0,0]],
+
+        edg = [[0,4,0,0,0],
+              [0,0,2,3,0],
+              [0,0,0,1.5,0.5],
+              [0,0,0,0,3],
+              [0,0,0,0,0]])  
