@@ -257,20 +257,20 @@ algorithms/
 
 ## Data Structures Implementations.
 
-| Data Structure                  | CPP             | Java             | Python           | JavaScript       | Golang  | C#     |  Other   |
-| :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  |  :---:   |
-| AVL Tree                        |                 |                  |                  |                  |         |        |	         |
-| Binary Search Tree              |:white_check_mark:|                 |                  |                  |         |        |	         |
-| Binary Tree                     |                 |                  |                  |                  |         |        |	         |
-| Doubly Linked List              |                 |                  |                  |                  |         |        |	         |
-| Graph                           |                 |                  |                  |                  |         |        |	         |
-| Heap                            |                 |                  |                  |                  |         |        |	         |
-| Linked List                     |                 |                  |                  |                  |         |        |	         |
-| Queue                           |                 |                  |                  |                  |         |        |	         |
-| Stack                           |                 |                  |                  |                  |         |        |	         |
-| Trie                            |                 |                  |                  |                  |         |        |	         |
+| Data Structure         | CPP               | Java               | Python            | JavaScript       | Golang            | C#               |  Other   |
+| :---                   | :---:             | :---:              | :---:             | :---:            | :---              | :---:            |  :---:   |
+| AVL Tree               |                   |                    |                   |                  |                   |                  |	         |
+| Binary Search Tree     |:white_check_mark: |                    |                   |                  |                   |                  |	         |
+| Binary Tree            |                   |                    |                   |                  |                   |                  |	         |
+| Doubly Linked List     |                   |                    |                   |                  |                   |                  |	         |
+| Graph                  |                   |                    |                   |                  |                   |                  |	         |
+| Heap                   |                   |                    |                   |                  |                   |                  |	         |
+| Linked List            |:white_check_mark: |                    |                   |                  |                   |                  |	         |
+| Queue                  |                   |                    |                   |                  |                   |                  |	         |
+| Stack                  |                   |                    |                   |                  |                   |                  |	         |
+| Trie                   |                   |                    |                   |                  |                   |                  |	         |
 
-`you can add more algorithms, data-structure and cp problems if you like to in the readme file`
+`you can add more algorithms, data-structure and cp problems if you like to in the readme file, after you have been assigned to any issue`
 
 
 ## How to run them 👨🏻‍💻
@@ -502,6 +502,20 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=Aryan-dev007" 
+          title="Coding">💻</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abdzitter">
+          <img 
+            src="https://avatars0.githubusercontent.com/u/72396688?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>abdzitter</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=abdzitter" 
           title="Coding">💻</a>
       </td>
     </tr>
