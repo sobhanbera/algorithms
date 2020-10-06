@@ -36,7 +36,7 @@ You can choose atleast any one option below or can add any algorithm or data-str
 ## Quick Start
 - You must be assigned to an issue before this steps.
 - Fork this repo.
-- Clone the repo and type this commands.
+- Clone the repo or type this commands.
   ```bash
   git clone https://github.com/<your_username_here>/algorithms.git
   cd design-blocks
