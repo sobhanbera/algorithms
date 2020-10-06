@@ -109,6 +109,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Breadth First Traversal         |               |            |           |            |         |        |          |
 | Bubble sort                     | ✔             | ✔          | ✔         | ✔         |         |        |	         |
 | Counting Sort                   |               |            |           |            |         |        |	         |
+| Depth First Search              |               | ✔          |           |            |         |        |	         |
 | Depth First Traversal           |               |            |           |            |         |        |	         |
 | Dijkstra Algorithm              |               |            |           |            |         |        |	         |
 | Finite Automata                 |               |            |           |            |         |        |	         |
