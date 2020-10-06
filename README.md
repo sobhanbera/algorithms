@@ -535,4 +535,6 @@ algorithms/
     </tr>
 </table>
 
+###### Please do a comment if you are a contributor and your name is not in the above list in issue code #86.
+
 <!-- [![Run on Repl.it](https://repl.it/badge/github/SobhanBera/algorithms)](https://repl.it/github/SobhanBera/algorithms) -->
