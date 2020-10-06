@@ -33,6 +33,7 @@ Hacktoberfest is a month long virtual festival event to celebrate open source co
 
 During the entire month of October 2020, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions.
 
+
 ## Why Should I Contribute?
 
 The Hacktoberfest’s simple plain objective is:
