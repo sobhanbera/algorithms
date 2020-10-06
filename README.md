@@ -79,7 +79,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Bogo Sort                       |               |            |           |            |         |        | TS ✔     |
 | Breadth First Search            |               |            | ✔         |            |         |        |          |
 | Breadth First Traversal         |               |            |           |            |         |        |          |
-| Bubble sort                     | ✔             | ✔          | ✔         |            |         |        |	         |
+| Bubble sort                     | ✔             | ✔          | ✔         | ✔         |         |        |	         |
 | Counting Sort                   |               |            |           |            |         |        |	         |
 | Depth First Traversal           |               |            |           |            |         |        |	         |
 | Dijkstra Algorithm              |               |            |           |            |         |        |	         |
