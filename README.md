@@ -116,6 +116,7 @@ algorithms/
 │   │   ├── kadane's Algorithm.cpp
 │   │   ├── Kruskal's Minimum Spanning Tree.cpp
 │   │   ├── LongestIncreasingSubsequence.cpp
+│   │   ├── LongestPalindromeSubstring.cpp
 │   │   ├── MergeSort.cpp
 │   │   ├── SelectionSort.cpp
 │   │   └── algorithmsInfo.md
@@ -164,6 +165,7 @@ algorithms/
 |   |   └── queInfo.md
 │   ├── cpp/
 |   |   ├── Edit Distance.cpp
+|   |   ├── TwoSum.cpp
 |   |   └── queInfo.md
 │   ├── java/
 |   |   └── queInfo.md
