@@ -90,6 +90,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Interpolation Search            |               | ✔          |           |            |         |        |	         |
 | K-NN                            |               |            |           |            |         |        |	         |
 | K Centers Problem               |               |            |           |            |         |        |	         |
+| Kadane's Algorithms             | ✔             |            |           |            |         |        |	         |
 | KMP Algorithm                   |               |            |           |            |         |        |          |
 | Kruskal’s Minimum Spanning Tree Algorithm |   ✔ |            |           |            |         |        |	         |
 | Linear Search                   |               |            |✔          | ✔         |         |        |	         |
