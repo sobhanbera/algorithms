@@ -2,6 +2,8 @@
 
 ![image](hacktoberfest2020.jpeg)
 
+<iframe src="https://giphy.com/embed/QTh7EOokCpPTg42R4y" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-hacktoberfest-QTh7EOokCpPTg42R4y"></a></p>
+
 ##### Star The Repository if it helped you in any direction.
 
 # Algorithms and Data-Structures.
