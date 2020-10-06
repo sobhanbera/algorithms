@@ -184,8 +184,9 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 `you can add more algorithms, data-structure and cp problems if you like to in the readme file`
 
+### Directory Tree 👇🏻
 <details>
-<summary><b>Directory Tree</b></summary>
+<summary><strong>Directory Tree</strong></summary>
 
 ```
 algorithms/
@@ -268,6 +269,8 @@ algorithms/
 ```
 </details>
 <!-- ├── -->
+
+</br>
 
 ## How to run them
 
