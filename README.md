@@ -191,7 +191,7 @@ algorithms/
 | Algorithm                       | CPP           | Java       | Python    | JavaScript | Golang  | C#     | Other    |
 | :---                            | :---:         | :---:      | :---:     | :---:      | :---    | :---:  | :---:    | 
 | Binary Search                   | ✔             | ✔         | ✔         |            |         |        |	        |
-| Bogo Sort                       |               |            |           |            |         |        | TS ✔     |
+| Bogo Sort                       | ✔             |            |           |            |         |        | TS ✔     |
 | Breadth First Search            |               |            | ✔         |            |         |        |          |
 | Breadth First Traversal         |               |            |           |            |         |        |          |
 | Bubble sort                     | ✔             | ✔          | ✔         | ✔         |         |        |	         |
@@ -492,6 +492,18 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=ShadowFax1731" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Aryan-dev007">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/61882780?s=400&u=0e7ba82cab9f7da3cb3cf08a26d96ae8316ae3ac&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Aryan-dev007</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Aryan-dev007" 
           title="Coding">💻</a>
       </td>    
     </tr>
