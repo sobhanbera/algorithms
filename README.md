@@ -109,6 +109,7 @@ algorithms/
 │   │   └── algorithmsInfo.md
 │   ├── cpp/
 │   │   ├── BinarySearch.cpp
+│   │   ├── bogosort.cpp
 │   │   ├── BubbleSort.cpp
 │   │   ├── HeapSort.cpp
 │   │   ├── InsertionSort.cpp
