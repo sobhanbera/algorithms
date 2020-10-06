@@ -349,9 +349,6 @@ algorithms/
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=dbarnwal" 
           title="Coding">💻</a>
-      <br />
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/ng29">
           <img 
@@ -363,6 +360,8 @@ algorithms/
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=ng29" 
           title="Coding">💻</a>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/Manav1">
           <img 
@@ -408,8 +407,6 @@ algorithms/
           href="https://github.com/SobhanBera/algorithms/commits?author=Croustys" 
           title="Coding">💻</a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/anuranjanpandey">
           <img 
@@ -432,6 +429,8 @@ algorithms/
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=YuvrajSHAD" 
           title="Coding">💻</a>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/erikrios">
           <img 
@@ -468,8 +467,6 @@ algorithms/
           href="https://github.com/SobhanBera/algorithms/commits?author=SuryaSekhar14" 
           title="Coding">💻</a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/sunnybhandari02">
           <img 
@@ -505,7 +502,7 @@ algorithms/
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=Aryan-dev007" 
           title="Coding">💻</a>
-      </td>    
+      </td>
     </tr>
 </table>
 
