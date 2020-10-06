@@ -547,18 +547,6 @@ algorithms/
           href="https://github.com/SobhanBera/algorithms/commits?author=Avantikaa" 
           title="Coding">💻</a>
       </td>
-      <td align="center">
-        <a href="https://github.com/vasudevsall">
-          <img 
-            src="https://avatars2.githubusercontent.com/u/48145200?s=400&u=c431047b2463b100e649c91b925759cef83b461e&v=4" 
-            width="100px;" 
-            alt=""/>
-            <br /><sub><b>vasudevsall</b></sub>
-        </a><br />
-        <a 
-          href="https://github.com/SobhanBera/algorithms/commits?author=vasudevsall" 
-          title="Coding">💻</a>
-      </td>
     </tr>
 </table>
 
