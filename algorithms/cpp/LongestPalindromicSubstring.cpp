@@ -1,38 +1,53 @@
-class Solution {
-public:
-    ////https://www.youtube.com/watch?v=omIP6yrVaJg
-    string longestPalindrome(string s) {
-        int n=s.length(),l=INT_MIN;
-        if(n==0)    return "";
-        string t;
-        bool d[n+1][n+1];
-        
-        for(int i=0;i<n;i++){
-            d[i][i]=true;
-            t=s.substr(i,1);
-        }
-        
-        for(int j=1;j<n;j++){
-            for(int  i=0;i<j;i++){
-                if(s[i]==s[j] && j-i<=2){
-                    d[i][j]=true;
-                    if(l<j-i+1){
-                        t=s.substr(i, j-i+1);
-                        l=max(l,j-i+1);
-                    }
-                }    
-                else if(s[i]==s[j] && j-i>2){
-                    if(d[i+1][j-1]==true){
-                        d[i][j]=true;
-                        if(l<j-i+1){
-                        t=s.substr(i, j-i+1);
-                        l=max(l,j-i+1);
-                    }
-                    }
-                    else    d[i][j]=false;
-                }else d[i][j]=false;
-            }
-        }
-        return t;
-    }
-};
+#include <bits/stdc++.h> 
+using namespace std; 
+  
+// Function to print a substring str[low..high] 
+void printSubStr(string str, int low, int high) 
+{ 
+    for (int i = low; i <= high; ++i) 
+        cout << str[i]; 
+} 
+  
+
+int longestPalSubstr(string str) 
+{ 
+    // get length of input string 
+    int n = str.size(); 
+  
+    // All substrings of length 1 
+    // are palindromes 
+    int maxLength = 1, start = 0; 
+  
+    // Nested loop to mark start and end index 
+    for (int i = 0; i < str.length(); i++) { 
+        for (int j = i; j < str.length(); j++) { 
+            int flag = 1; 
+  
+            // Check palindrome 
+            for (int k = 0; k < (j - i + 1) / 2; k++) 
+                if (str[i + k] != str[j - k]) 
+                    flag = 0; 
+  
+            // Palindrome 
+            if (flag && (j - i + 1) > maxLength) { 
+                start = i; 
+                maxLength = j - i + 1; 
+            } 
+        } 
+    } 
+  
+    cout << "Longest palindrome substring is: "; 
+    printSubStr(str, start, start + maxLength - 1); 
+  
+    // return length of LPS 
+    return maxLength; 
+} 
+  
+// Driver Code 
+int main() 
+{ 
+    string str = "forgeeksskeegfor"; 
+    cout << "\nLength is: "
+         << longestPalSubstr(str); 
+    return 0; 
+} 
