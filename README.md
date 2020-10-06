@@ -394,6 +394,18 @@ You can contribute to any open source project hosted on Github.com and contribut
           href="https://github.com/SobhanBera/algorithms/commits?author=sunnybhandari02" 
           title="Coding">💻</a>
       </td>
+      <td align="center">
+        <a href="https://github.com/ShadowFax1731">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/55938330?s=400&u=0e0d244716a9f0b92bfc29a77840f20f606235b0&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>ShadowFax1731</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=ShadowFax1731" 
+          title="Coding">💻</a>
+      </td>
     </tr>
 </table>
 
