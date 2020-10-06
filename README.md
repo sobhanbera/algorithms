@@ -111,6 +111,7 @@ algorithms/
 │   │   ├── BinarySearch.cpp
 │   │   ├── bogosort.cpp
 │   │   ├── BubbleSort.cpp
+│   │   ├── DFT.cpp
 │   │   ├── HeapSort.cpp
 │   │   ├── InsertionSort.cpp
 │   │   ├── kadane's Algorithm.cpp
@@ -202,7 +203,7 @@ algorithms/
 | Bubble sort                     | ✔             | ✔          | ✔         | ✔         |         |        |	         |
 | Counting Sort                   |               |            |           |            |         |        |	         |
 | Depth First Search              |               | ✔          |           |            |         |        |	         |
-| Depth First Traversal           |               |            |           |            |         |        |	         |
+| Depth First Traversal           | ✔             |            |           |            |         |        |	         |
 | Dijkstra Algorithm              |               | ✔          |           |            |         |        |	         |
 | Finite Automata                 |               |            |           |            |         |        |	         |
 | Heap Sort                       | ✔              |            |           |            |         |        |	         |
@@ -532,6 +533,30 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=Adigoo" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Avantikaa">
+          <img 
+            src="https://avatars2.githubusercontent.com/u/6816705?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Avantikaa</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Avantikaa" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vasudevsall">
+          <img 
+            src="https://avatars2.githubusercontent.com/u/48145200?s=400&u=c431047b2463b100e649c91b925759cef83b461e&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>vasudevsall</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=vasudevsall" 
           title="Coding">💻</a>
       </td>
     </tr>
