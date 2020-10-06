@@ -26,7 +26,31 @@ You can choose atleast any one option below or can add any algorithm or data-str
 	- Add any game in your favorite programming language!
   - Add any Hard Problem from competitve programming website.
   - Add any interview question as comment and solution in any language.
-  
+
+## Implementations
+
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" height="60" />](https://github.com/SobhanBera/algorithms)
+
+
+
+## Quick Start
+- You must be assigned to an issue before this steps.
+- Fork this repo.
+- Clone the repo and type this commands.
+  ```bash
+  git clone https://github.com/<your_username_here>/algorithms.git
+  cd design-blocks
+  ```
+- Start writing you code, when done with the code part type this commands.
+  ```bash
+  git add .
+  git commit -m "<what_you_have_contributed>"
+  git push
+  ```
+- Then make a PR to this repo and wait for the merge.
+- That's it you have contributed to open source.
+- If you enjoyed this you can do it again with another code.
+
 ## What is Hacktoberfest?
 
 Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by Digital Ocean and DEV. It is the easiest way to get into open source!
@@ -73,7 +97,6 @@ The only exception would be if the project maintainer chooses to mark your pull 
 Any pull request made to a public repo on GitHub will count. The pull request must contain commits you personally made yourself — not automated commits from bots.
 
 You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
-
 
 
 ## Implemented Algorithms
@@ -159,6 +182,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Trie                            |                 |                  |                  |                  |         |        |	         |
 
 `you can add more algorithms, data-structure and cp problems if you like to in the readme file`
+
 
 ## How to run them
 
