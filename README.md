@@ -123,6 +123,7 @@ algorithms/
 │   │   ├── BinarySearch.java
 │   │   ├── BubbleSort.java
 │   │   ├── DFS.java
+│   │   ├── DijkstraAlgorithm.java
 │   │   ├── InterpolationSort.java
 │   │   └── algorithmsInfo.md
 │   ├── javascript/
@@ -200,7 +201,7 @@ algorithms/
 | Counting Sort                   |               |            |           |            |         |        |	         |
 | Depth First Search              |               | ✔          |           |            |         |        |	         |
 | Depth First Traversal           |               |            |           |            |         |        |	         |
-| Dijkstra Algorithm              |               |            |           |            |         |        |	         |
+| Dijkstra Algorithm              |               | ✔          |           |            |         |        |	         |
 | Finite Automata                 |               |            |           |            |         |        |	         |
 | Heap Sort                       | ✔              |            |           |            |         |        |	         |
 | Huffman Coding                  |               |            |           |            |         |        |	         |
@@ -517,6 +518,18 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=abdzitter" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Adigoo">
+          <img 
+            src="https://avatars0.githubusercontent.com/u/26068367?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Adigoo</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Adigoo" 
           title="Coding">💻</a>
       </td>
     </tr>
