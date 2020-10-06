@@ -215,7 +215,7 @@ algorithms/
 | Linear Search                   |               |            |✔          | ✔         |         |        |	         |
 | Longest Common Subsequence      |               |            |           |            |         |        |	         |
 | Longest Increasing Subsequence  |✔              |            |           |            |         |        |	         |
-| Longest Palindromic Substring   |               |            |           |            |         |        |	         |
+| Longest Palindromic Substring   |✔              |            |           |            |         |        |	         |
 | Merge Sort                      |✔              |            | ✔         |            |         |        |      	   |
 | Naive Search                    |               |            |           |            |         |        |	         |
 | Quick Sort                      |               |            |           |            |         |        |	         |
@@ -252,7 +252,7 @@ algorithms/
 | Tiling Problem                  |                 |                  |                  |                  |         |        |	         |
 | The Knight’s tour problem       |                 |                  |                  |                  |         |        |	         |
 | Three Sum                       |                 |                  |                  |                  |         |        |	         |
-| Two Sum                         |                 |                  |                  |                  |         |        |	         |
+| Two Sum                         | ✔               |                  |                  |                  |         |        |	         |
 | Variations of LIS               |                 |                  |                  |                  |         |        |	         |
 | Word Wrap Problem               |                 |                  |                  |                  |         |        |	         |
 
