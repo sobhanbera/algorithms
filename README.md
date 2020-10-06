@@ -314,4 +314,42 @@ You can contribute to any open source project hosted on Github.com and contribut
           title="Coding">💻</a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/erikrios">
+          <img 
+            src="https://avatars3.githubusercontent.com/u/42199285?s=400&u=d3ba2914fd4516de5c6aadc99d512d6097edbb43&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>erikrios</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=erikrios" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Djay1407">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/43728219?s=400&u=12b4482d2f87ef8bb2f6ac4a7d05d65999bde522&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Djay1407</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Djay1407" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/SuryaSekhar14">
+          <img 
+            src="https://avatars2.githubusercontent.com/u/62787659?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>SuryaSekhar14</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=SuryaSekhar14" 
+          title="Coding">💻</a>
+      </td>
+    </tr>
 </table>
