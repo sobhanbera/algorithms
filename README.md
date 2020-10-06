@@ -2,8 +2,6 @@
 
 ![image](hacktoberfest2020.jpeg)
 
-<iframe src="https://giphy.com/embed/QTh7EOokCpPTg42R4y" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-hacktoberfest-QTh7EOokCpPTg42R4y"></a></p>
-
 ##### Star The Repository if it helped you in any direction.
 
 # Algorithms and Data-Structures.
@@ -34,6 +32,8 @@ You can choose atleast any one option below or can add any algorithm or data-str
 Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by Digital Ocean and DEV. It is the easiest way to get into open source!
 
 During the entire month of October 2020, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions.
+
+<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/QTh7EOokCpPTg42R4y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coding-programming-hacktoberfest-QTh7EOokCpPTg42R4y"></a></p>
 
 ## Why Should I Contribute?
 
