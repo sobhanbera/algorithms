@@ -34,8 +34,8 @@ Hacktoberfest is a month long virtual festival event to celebrate open source co
 During the entire month of October 2020, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions.
 
 <p align='center'>
-  <a href="https://github.com/SobhanBera/SobhanBera">
-    <img src="https://github.com/SobhanBera/SobhanBera/blob/master/sobhan.gif" width="600" height="74" /></a>
+  <a href="https://github.com/SobhanBera/algorithms">
+    <img src="https://github.com/SobhanBera/algorithms/blob/main/hacktoberfest.gif" /></a>
 </p>
 
 ## Why Should I Contribute?
