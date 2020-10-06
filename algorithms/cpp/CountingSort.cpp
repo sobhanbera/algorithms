@@ -6,7 +6,6 @@ int  main()
     int n; 
     cin>>n;
     int a[n];
-    int output[n];
 	
     int max_ele = 0;
 
@@ -18,6 +17,7 @@ int  main()
    
     int size = max_ele + 1;
     int c[size];
+    int output[n];
 
     for(int i=0;i<size;i++){
       c[i] = 0;
