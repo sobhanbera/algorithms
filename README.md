@@ -122,11 +122,16 @@ algorithms/
 │   │   ├── SelectionSort.cpp
 │   │   └── algorithmsInfo.md
 │   ├── java/
+|   |   └── bst
+|   |       ├── BST.java
+|   |       ├── BSTNode.java
+|   |       └── BSTree.java
 │   │   ├── BinarySearch.java
 │   │   ├── BubbleSort.java
 │   │   ├── DFS.java
 │   │   ├── DijkstraAlgorithm.java
 │   │   ├── InterpolationSort.java
+│   │   ├── KruskalAlgorithm.java
 │   │   └── algorithmsInfo.md
 │   ├── javascript/
 │   │   ├── BubbleSort.js
@@ -140,6 +145,7 @@ algorithms/
 │       ├── BinarySearch.py
 │       ├── BreadthFirstSearch.py
 │       ├── BubbleSort.py
+│       ├── Dijkstra's_algorithm.py
 │       ├── LinearSearch.py
 │       ├── MergeSort.py
 │       └── algorithmsInfo.md
@@ -199,7 +205,7 @@ algorithms/
 | Binary Search                   | ✔             | ✔         | ✔         |            |         |        |	        |
 | Bogo Sort                       | ✔             |            |           |            |         |        | TS ✔     |
 | Breadth First Search            |               |            | ✔         |            |         |        |          |
-| Breadth First Traversal         |               |            |           |            |         |        |          |
+| Breadth First Traversal         |               | ✔          |           |            |         |        |          |
 | Bubble sort                     | ✔             | ✔          | ✔         | ✔         |         |        |	         |
 | Counting Sort                   |               |            |           |            |         |        |	         |
 | Depth First Search              |               | ✔          |           |            |         |        |	         |
@@ -214,7 +220,7 @@ algorithms/
 | K Centers Problem               |               |            |           |            |         |        |	         |
 | Kadane's Algorithms             | ✔             |            |           |            |         |        |	         |
 | KMP Algorithm                   |               |            |           |            |         |        |          |
-| Kruskal’s Minimum Spanning Tree Algorithm |   ✔ |            |           |            |         |        |	         |
+| Kruskal’s Minimum Spanning Tree Algorithm |   ✔ | ✔          |           |            |         |        |	         |
 | Linear Search                   |               |            |✔          | ✔         |         |        |	         |
 | Longest Common Subsequence      |               |            |           |            |         |        |	         |
 | Longest Increasing Subsequence  |✔              |            |           |            |         |        |	         |
@@ -556,7 +562,19 @@ algorithms/
             <br /><sub><b>vasudevsall</b></sub>
         </a><br />
         <a 
-          href="https://github.com/SobhanBera/algorithms/commits?author=vasudevsall" 
+          href="https://github.com/SobhanBera/algorithms/commits?author=laurairene785" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vasudevsall">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/49923511?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>laurairene785</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=laurairene785" 
           title="Coding">💻</a>
       </td>
     </tr>
