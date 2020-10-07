@@ -119,7 +119,9 @@ algorithms/
 │   │   ├── LongestIncreasingSubsequence.cpp
 │   │   ├── LongestPalindromeSubstring.cpp
 │   │   ├── MergeSort.cpp
+│   │   ├── QuickSort.cpp
 │   │   ├── SelectionSort.cpp
+│   │   ├── Sieve-Of-Eratosthenes.cpp
 │   │   └── algorithmsInfo.md
 │   ├── java/
 |   |   └── bst
