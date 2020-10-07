@@ -109,6 +109,8 @@ algorithms/
 │   │   └── algorithmsInfo.md
 │   ├── cpp/
 │   │   ├── BinarySearch.cpp
+│   │   ├── BFS.cpp
+│   │   ├── BFS_Modified.cpp
 │   │   ├── bogosort.cpp
 │   │   ├── BubbleSort.cpp
 │   │   ├── DFT.cpp
@@ -589,6 +591,20 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=AkankshaJolly" 
+          title="Coding">💻</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/iamkumar-gaurav">
+          <img 
+            src="https://avatars3.githubusercontent.com/u/35976211?s=400&u=a8dc2d347776f11ef390a32058e64ad4d09631e3&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>iamkumar-gaurav</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=iamkumar-gaurav" 
           title="Coding">💻</a>
       </td>
     </tr>
