@@ -223,14 +223,14 @@ algorithms/
 | Kruskal’s Minimum Spanning Tree Algorithm |   ✔ | ✔          |           |            |         |        |	         |
 | Linear Search                   |               |            |✔          | ✔         |         |        |	         |
 | Longest Common Subsequence      |               |            |           |            |         |        |	         |
-| Longest Increasing Subsequence  |✔              |            |           |            |         |        |	         |
-| Longest Palindromic Substring   |✔              |            |           |            |         |        |	         |
-| Merge Sort                      |✔              |            | ✔         |            |         |        |      	   |
+| Longest Increasing Subsequence  | ✔             |            |           |            |         |        |	         |
+| Longest Palindromic Substring   | ✔             |            |           |            |         |        |	         |
+| Merge Sort                      | ✔             |            | ✔         |            |         |        |      	   |
 | Naive Search                    |               |            |           |            |         |        |	         |
-| Quick Sort                      |               |            |           |            |         |        |	         |
+| Quick Sort                      | ✔             |            |           |            |         |        |	         |
 | Radix Sort                      |               |            |           |            |         |        |	         |
 | Selection Sort                  | ✔             |            |           |            |         |        |      	   |
-| Sieve of Eratosthenes           |               |            |           |            |         |        |	         |
+| Sieve of Eratosthenes           | ✔             |            |           |            |         |        |	         |
 | Suffix Array                    |               |            |           |            |         |        |	         |
 | Shell Sort                      |               |            |           |            |         |        |	         |
 
@@ -574,7 +574,19 @@ algorithms/
             <br /><sub><b>laurairene785</b></sub>
         </a><br />
         <a 
-          href="https://github.com/SobhanBera/algorithms/commits?author=laurairene785" 
+          href="https://github.com/SobhanBera/algorithms/commits?author=AkankshaJolly" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vasudevsall">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/29164198?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>AkankshaJolly</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=AkankshaJolly" 
           title="Coding">💻</a>
       </td>
     </tr>
