@@ -204,7 +204,7 @@ algorithms/
 | Counting Sort                   |               |            |           |            |         |        |	         |
 | Depth First Search              |               | ✔          |           |            |         |        |	         |
 | Depth First Traversal           | ✔             |            |           |            |         |        |	         |
-| Dijkstra Algorithm              |               | ✔          |           |            |         |        |	         |
+| Dijkstra Algorithm              |               | ✔          | ✔         |            |         |        |	         |
 | Finite Automata                 |               |            |           |            |         |        |	         |
 | Heap Sort                       | ✔              |            |           |            |         |        |	         |
 | Huffman Coding                  |               |            |           |            |         |        |	         |
@@ -533,6 +533,30 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=Adigoo" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Jay206-Programmer">
+          <img 
+            src="https://avatars2.githubusercontent.com/u/62549240?s=400&u=fff03efc397f557117520b6d5cc54e45073546d1&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Jay206-Programmer</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Jay206-Programmer" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vasudevsall">
+          <img 
+            src="https://avatars2.githubusercontent.com/u/48145200?s=400&u=c431047b2463b100e649c91b925759cef83b461e&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>vasudevsall</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=vasudevsall" 
           title="Coding">💻</a>
       </td>
     </tr>
