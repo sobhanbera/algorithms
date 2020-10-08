@@ -139,6 +139,7 @@ algorithms/
 │   │   └── algorithmsInfo.md
 │   ├── javascript/
 │   │   ├── BubbleSort.js
+│   │   ├── CountingSort.js
 │   │   ├── LinearSearch.js
 │   │   └── algorithmsInfo.md
 │   ├── other/
@@ -211,7 +212,7 @@ algorithms/
 | Breadth First Search            |               |            | ✔         |            |         |        |          |
 | Breadth First Traversal         |               | ✔          |           |            |         |        |          |
 | Bubble sort                     | ✔             | ✔          | ✔         | ✔         |         |        |	         |
-| Counting Sort                   |               |            |           |            |         |        |	         |
+| Counting Sort                   |               |            |           | ✔         |         |        |	         |
 | Depth First Search              |               | ✔          |           |            |         |        |	         |
 | Depth First Traversal           | ✔             |            |           |            |         |        |	         |
 | Dijkstra Algorithm              |               | ✔          | ✔         |            |         |        |	         |
@@ -605,6 +606,18 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=iamkumar-gaurav" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/thieleju">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/41455100?s=460&u=19ebb3d492c015c5679813797b8685941674778c" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>thieleju</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=thieleju" 
           title="Coding">💻</a>
       </td>
     </tr>
