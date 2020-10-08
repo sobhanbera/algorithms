@@ -109,6 +109,8 @@ algorithms/
 │   │   └── algorithmsInfo.md
 │   ├── cpp/
 │   │   ├── BinarySearch.cpp
+│   │   ├── BFS.cpp
+│   │   ├── BFS_Modified.cpp
 │   │   ├── bogosort.cpp
 │   │   ├── BubbleSort.cpp
 │   │   ├── DFT.cpp
@@ -119,17 +121,25 @@ algorithms/
 │   │   ├── LongestIncreasingSubsequence.cpp
 │   │   ├── LongestPalindromeSubstring.cpp
 │   │   ├── MergeSort.cpp
+│   │   ├── QuickSort.cpp
 │   │   ├── SelectionSort.cpp
+│   │   ├── Sieve-Of-Eratosthenes.cpp
 │   │   └── algorithmsInfo.md
 │   ├── java/
+|   |   └── bst
+|   |       ├── BST.java
+|   |       ├── BSTNode.java
+|   |       └── BSTree.java
 │   │   ├── BinarySearch.java
 │   │   ├── BubbleSort.java
 │   │   ├── DFS.java
 │   │   ├── DijkstraAlgorithm.java
 │   │   ├── InterpolationSort.java
+│   │   ├── KruskalAlgorithm.java
 │   │   └── algorithmsInfo.md
 │   ├── javascript/
 │   │   ├── BubbleSort.js
+│   │   ├── CountingSort.js
 │   │   ├── LinearSearch.js
 │   │   └── algorithmsInfo.md
 │   ├── other/
@@ -140,6 +150,7 @@ algorithms/
 │       ├── BinarySearch.py
 │       ├── BreadthFirstSearch.py
 │       ├── BubbleSort.py
+│       ├── Dijkstra's_algorithm.py
 │       ├── LinearSearch.py
 │       ├── MergeSort.py
 │       └── algorithmsInfo.md
@@ -199,12 +210,12 @@ algorithms/
 | Binary Search                   | ✔             | ✔         | ✔         |            |         |        |	        |
 | Bogo Sort                       | ✔             |            |           |            |         |        | TS ✔     |
 | Breadth First Search            |               |            | ✔         |            |         |        |          |
-| Breadth First Traversal         |               |            |           |            |         |        |          |
+| Breadth First Traversal         |               | ✔          |           |            |         |        |          |
 | Bubble sort                     | ✔             | ✔          | ✔         | ✔         |         |        |	         |
-| Counting Sort                   |               |            |           |            |         |        |	         |
+| Counting Sort                   |               |            |           | ✔         |         |        |	         |
 | Depth First Search              |               | ✔          |           |            |         |        |	         |
 | Depth First Traversal           | ✔             |            |           |            |         |        |	         |
-| Dijkstra Algorithm              |               | ✔          |           |            |         |        |	         |
+| Dijkstra Algorithm              |               | ✔          | ✔         |            |         |        |	         |
 | Finite Automata                 |               |            |           |            |         |        |	         |
 | Heap Sort                       | ✔              |            |           |            |         |        |	         |
 | Huffman Coding                  |               |            |           |            |         |        |	         |
@@ -214,17 +225,17 @@ algorithms/
 | K Centers Problem               |               |            |           |            |         |        |	         |
 | Kadane's Algorithms             | ✔             |            |           |            |         |        |	         |
 | KMP Algorithm                   |               |            |           |            |         |        |          |
-| Kruskal’s Minimum Spanning Tree Algorithm |   ✔ |            |           |            |         |        |	         |
+| Kruskal’s Minimum Spanning Tree Algorithm |   ✔ | ✔          |           |            |         |        |	         |
 | Linear Search                   |               |            |✔          | ✔         |         |        |	         |
 | Longest Common Subsequence      |               |            |           |            |         |        |	         |
-| Longest Increasing Subsequence  |✔              |            |           |            |         |        |	         |
-| Longest Palindromic Substring   |✔              |            |           |            |         |        |	         |
-| Merge Sort                      |✔              |            | ✔         |            |         |        |      	   |
+| Longest Increasing Subsequence  | ✔             |            |           |            |         |        |	         |
+| Longest Palindromic Substring   | ✔             |            |           |            |         |        |	         |
+| Merge Sort                      | ✔             |            | ✔         |            |         |        |      	   |
 | Naive Search                    |               |            |           |            |         |        |	         |
-| Quick Sort                      |               |            |           |            |         |        |	         |
+| Quick Sort                      | ✔             |            |           |            |         |        |	         |
 | Radix Sort                      |               |            |           |            |         |        |	         |
 | Selection Sort                  | ✔             |            |           |            |         |        |      	   |
-| Sieve of Eratosthenes           |               |            |           |            |         |        |	         |
+| Sieve of Eratosthenes           | ✔             |            |           |            |         |        |	         |
 | Suffix Array                    |               |            |           |            |         |        |	         |
 | Shell Sort                      |               |            |           |            |         |        |	         |
 
@@ -536,15 +547,15 @@ algorithms/
           title="Coding">💻</a>
       </td>
       <td align="center">
-        <a href="https://github.com/Avantikaa">
+        <a href="https://github.com/Jay206-Programmer">
           <img 
-            src="https://avatars2.githubusercontent.com/u/6816705?s=400&v=4" 
+            src="https://avatars2.githubusercontent.com/u/62549240?s=400&u=fff03efc397f557117520b6d5cc54e45073546d1&v=4" 
             width="100px;" 
             alt=""/>
-            <br /><sub><b>Avantikaa</b></sub>
+            <br /><sub><b>Jay206-Programmer</b></sub>
         </a><br />
         <a 
-          href="https://github.com/SobhanBera/algorithms/commits?author=Avantikaa" 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Jay206-Programmer" 
           title="Coding">💻</a>
       </td>
       <td align="center">
@@ -556,7 +567,57 @@ algorithms/
             <br /><sub><b>vasudevsall</b></sub>
         </a><br />
         <a 
-          href="https://github.com/SobhanBera/algorithms/commits?author=vasudevsall" 
+          href="https://github.com/SobhanBera/algorithms/commits?author=laurairene785" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vasudevsall">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/49923511?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>laurairene785</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=AkankshaJolly" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vasudevsall">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/29164198?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>AkankshaJolly</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=AkankshaJolly" 
+          title="Coding">💻</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/iamkumar-gaurav">
+          <img 
+            src="https://avatars3.githubusercontent.com/u/35976211?s=400&u=a8dc2d347776f11ef390a32058e64ad4d09631e3&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>iamkumar-gaurav</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=iamkumar-gaurav" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/thieleju">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/41455100?s=460&u=19ebb3d492c015c5679813797b8685941674778c" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>thieleju</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=thieleju" 
           title="Coding">💻</a>
       </td>
     </tr>
