@@ -151,6 +151,7 @@ algorithms/
 │       ├── BreadthFirstSearch.py
 │       ├── BubbleSort.py
 │       ├── Dijkstra's_algorithm.py
+│       ├── Kruskal's Minimum Spanning Tree.py
 │       ├── LinearSearch.py
 │       ├── MergeSort.py
 │       └── algorithmsInfo.md
@@ -176,7 +177,15 @@ algorithms/
 │   ├── c-sharp/
 |   |   └── queInfo.md
 │   ├── cpp/
+|   |   ├── all_sol_of_n_queen.cpp
 |   |   ├── Edit Distance.cpp
+|   |   ├── knapsack_with_large_weight.cpp
+|   |   ├── knapsack.cpp
+|   |   ├── knight_tour_backtracking.cpp
+|   |   ├── Matrix_chain_mult.cpp
+|   |   ├── n_queen.cpp
+|   |   ├── rod_cutting_prob.cpp
+|   |   ├── sub_matrix_with_all_1s.cpp
 |   |   ├── TwoSum.cpp
 |   |   └── queInfo.md
 │   ├── java/
@@ -252,21 +261,20 @@ algorithms/
 | Cutting a Rod                   |                 |                  |                  |                  |         |        |	         |
 | Edit Distance                   |    ✔            |                  |                  |                  |         |        |	         |
 | Egg Droping Puzzle              |                 |                  |                  |                  |         |        |	         |
-| Four Sum                        |                 |                  |                  |                  |         |        |	         |
-| Knapsack Problem                |                 |                  |                  |                  |         |        |	         |
+| Knapsack Problem                |    ✔            |                  |                  |                  |         |        |	         |
 | Largest Sum Contiguous Subarray |                 |                  |                  |                  |         |        |	         |
 | m Coloring Problem              |                 |                  |                  |                  |         |        |	         |
 | Pascal’s Triangle               |                 |                  |                  |                  |         |        |	         |
-| Matrix Chain Multiplication     |                 |                  |                  |                  |         |        |	         |
+| Matrix Chain Multiplication     |    ✔            |                  |                  |                  |         |        |	         |
 | Maximum sum rectangle in a 2D matrix |            |                  |                  |                  |         |        |	         |
 | Min Cost Path                   |                 |                  |                  |                  |         |        |	         |
-| Palindrome Partitioning         |                 |                  |                  |                  |         |        |	         |
+| Rod Cutting                     |    ✔            |                  |                  |                  |         |        |	         |
 | Partition problem               |                 |                  |                  |                  |         |        |	         |
 | Subset Sum                      |                 |                  |                  |                  |         |        |	         |
 | Tiling Problem                  |                 |                  |                  |                  |         |        |	         |
 | The Knight’s tour problem       |                 |                  |                  |                  |         |        |	         |
 | Three Sum                       |                 |                  |                  |                  |         |        |	         |
-| Two Sum                         | ✔               |                  |                  |                  |         |        |	         |
+| Two Sum                         |    ✔            |                  |                  |                  |         |        |	         |
 | Variations of LIS               |                 |                  |                  |                  |         |        |	         |
 | Word Wrap Problem               |                 |                  |                  |                  |         |        |	         |
 
@@ -618,6 +626,18 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=thieleju" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Rishav139">
+          <img 
+            src="https://avatars2.githubusercontent.com/u/43817483?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Rishav139</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Rishav139" 
           title="Coding">💻</a>
       </td>
     </tr>
