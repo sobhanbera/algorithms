@@ -41,7 +41,6 @@ jobs:
           sudo apt-get install -y g++-9 g++-9-multilib
           echo "::set-env name=CC::gcc-9"
           echo "::set-env name=CXX::g++-9"
-
       - name: compile all c files
         run: for i in $(find . -type f -iname *.c); do gcc $i; done;
       - name: compile all c++ files
