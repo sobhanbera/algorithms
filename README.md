@@ -225,7 +225,7 @@ algorithms/
 | K Centers Problem               |               |            |           |            |         |        |	         |
 | Kadane's Algorithms             | ✔             |            |           |            |         |        |	         |
 | KMP Algorithm                   |               |            |           |            |         |        |          |
-| Kruskal’s Minimum Spanning Tree Algorithm |   ✔ | ✔          |           |            |         |        |	         |
+| Kruskal’s Minimum Spanning Tree Algorithm |   ✔ | ✔          | ✔         |            |         |        |	         |
 | Linear Search                   |               |            |✔          | ✔         |         |        |	         |
 | Longest Common Subsequence      |               |            |           |            |         |        |	         |
 | Longest Increasing Subsequence  | ✔             |            |           |            |         |        |	         |
