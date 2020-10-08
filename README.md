@@ -132,6 +132,7 @@ algorithms/
 |   |       ├── BSTNode.java
 |   |       └── BSTree.java
 │   │   ├── BinarySearch.java
+│   │   ├── BreadthFirstSearch.java
 │   │   ├── BubbleSort.java
 │   │   ├── DFS.java
 │   │   ├── DijkstraAlgorithm.java
@@ -219,7 +220,7 @@ algorithms/
 | :---                            | :---:         | :---:      | :---:     | :---:      | :---    | :---:  | :---:    | 
 | Binary Search                   | ✔             | ✔         | ✔         |            |         |        |	        |
 | Bogo Sort                       | ✔             |            |           |            |         |        | TS ✔     |
-| Breadth First Search            |               |            | ✔         |            |         |        |          |
+| Breadth First Search            |               | ✔          | ✔         |            |         |        |          |
 | Breadth First Traversal         |               | ✔          |           |            |         |        |          |
 | Bubble sort                     | ✔             | ✔          | ✔         | ✔         |         |        |	         |
 | Counting Sort                   |               |            |           | ✔         |         |        |	         |
