@@ -653,6 +653,18 @@ algorithms/
           href="https://github.com/SobhanBera/algorithms/commits?author=Alisha-Ahmed" 
           title="Coding">💻</a>
       </td>
+      <td align="center">
+        <a href="https://github.com/PranayChauhan2516">
+          <img 
+            src="https://avatars0.githubusercontent.com/u/52269813?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>PranayChauhan2516</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=PranayChauhan2516" 
+          title="Coding">💻</a>
+      </td>
     </tr>
 </table>
 
