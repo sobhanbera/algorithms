@@ -153,6 +153,7 @@ algorithms/
 │       ├── BreadthFirstSearch.py
 │       ├── BubbleSort.py
 │       ├── Dijkstra's_algorithm.py
+│       ├── heapsort.py
 │       ├── Kruskal's Minimum Spanning Tree.py
 │       ├── LinearSearch.py
 │       ├── MergeSort.py
@@ -163,6 +164,7 @@ algorithms/
 │   ├── cpp/
 |   |   ├── BST.cpp
 |   |   ├── LinkedList.cpp
+|   |   ├── Trie.cpp
 |   |   └── dsInfo.md
 │   ├── java/
 |   |   └── dsInfo.md
@@ -228,7 +230,7 @@ algorithms/
 | Depth First Traversal           | ✔             |            |           |            |         |        |	         |
 | Dijkstra Algorithm              |               | ✔          | ✔         |            |         |        |	         |
 | Finite Automata                 |               |            |           |            |         |        |	         |
-| Heap Sort                       | ✔              |            |           |            |         |        |	         |
+| Heap Sort                       | ✔              |           | ✔        |            |         |        |	         |
 | Huffman Coding                  |               |            |           |            |         |        |	         |
 | Insertion Sort                  | ✔             |            |           |            |         |        |      	   |
 | Interpolation Search            |               | ✔          |           |            |         |        |	         |
@@ -294,7 +296,7 @@ algorithms/
 | Linked List            |:white_check_mark: |                    |                   |                  |                   |                  |	         |
 | Queue                  |                   |                    |                   |                  |                   |                  |	         |
 | Stack                  |                   |                    |                   |                  |                   |                  |	         |
-| Trie                   |                   |                    |                   |                  |                   |                  |	         |
+| Trie                   |:white_check_mark: |                    |                   |                  |                   |                  |	         |
 
 `you can add more algorithms, data-structure and cp problems if you like to in the readme file, after you have been assigned to any issue`
 
@@ -664,6 +666,30 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=PranayChauhan2516" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/TrushaT">
+          <img 
+            src="https://avatars0.githubusercontent.com/u/48546578?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>TrushaT</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=TrushaT" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/raj-sahu">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/57115538?s=400&u=916cb675cab3df5e7acc700b81cfdaa0222ed480&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>raj-sahu</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=raj-sahu" 
           title="Coding">💻</a>
       </td>
     </tr>
