@@ -680,6 +680,8 @@ algorithms/
           href="https://github.com/SobhanBera/algorithms/commits?author=TrushaT" 
           title="Coding">💻</a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/raj-sahu">
           <img 
