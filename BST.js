@@ -62,7 +62,7 @@ function insert(data) {
 
 
 function inOrder(node) {
-    if (!(node == null)) {
+    if (node != null) {
         inOrder(node.left);
         putstr(node.show() + " ");
         inOrder(node.right);
@@ -88,7 +88,7 @@ function postOrder(node) {
 
 function getMin() {
     var current = this.root;
-    while (!(current.left == null)) {
+    while (current.left != null) {
         current = current.left;
     }
     return current.data;
@@ -188,12 +188,12 @@ function getHeight(node) {
 
 }
 
-function getDeph() {
-    var deph = 0;
+function getDepth() {
+    var depth = 0;
     node = this.parent;
     while (node != null) {
-        deph++;
+        depth++;
         node = node.parent;
     }
-    return deph;
+    return depth;
 }
