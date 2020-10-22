@@ -51,7 +51,7 @@ public class HuffmanCoding {
 		result = new HashMap<>();
 		preOrder(queue.poll(), "");
 
-		System.out.println("Encodings for each character:");
+		System.out.println("\nEncodings for each character:");
 		for (Map.Entry<Character, String> pair : result.entrySet())
 		    	System.out.println(pair.getKey() + ": " + pair.getValue());
 
