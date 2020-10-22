@@ -98,6 +98,8 @@ Any pull request made to a public repo on GitHub will count. The pull request mu
 
 You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
 
+___
+
 ### Directory Tree 👇🏻
 <details>
 <summary><strong>Directory Tree</strong></summary>
@@ -153,7 +155,6 @@ algorithms/
 │       ├── BreadthFirstSearch.py
 │       ├── BubbleSort.py
 │       ├── Dijkstra's_algorithm.py
-│       ├── heapsort.py
 │       ├── Kruskal's Minimum Spanning Tree.py
 │       ├── LinearSearch.py
 │       ├── MergeSort.py
@@ -164,7 +165,6 @@ algorithms/
 │   ├── cpp/
 |   |   ├── BST.cpp
 |   |   ├── LinkedList.cpp
-|   |   ├── Trie.cpp
 |   |   └── dsInfo.md
 │   ├── java/
 |   |   └── dsInfo.md
@@ -214,6 +214,8 @@ algorithms/
 </details>
 <!-- ├── -->
 
+---
+
 </br>
 
 ## Implemented Algorithms
@@ -230,7 +232,7 @@ algorithms/
 | Depth First Traversal           | ✔             |            |           |            |         |        |	         |
 | Dijkstra Algorithm              |               | ✔          | ✔         |            |         |        |	         |
 | Finite Automata                 |               |            |           |            |         |        |	         |
-| Heap Sort                       | ✔              |           | ✔        |            |         |        |	         |
+| Heap Sort                       | ✔              |            |           |            |         |        |	         |
 | Huffman Coding                  |               |            |           |            |         |        |	         |
 | Insertion Sort                  | ✔             |            |           |            |         |        |      	   |
 | Interpolation Search            |               | ✔          |           |            |         |        |	         |
@@ -251,7 +253,6 @@ algorithms/
 | Sieve of Eratosthenes           | ✔             |            |           |            |         |        |	         |
 | Suffix Array                    |               |            |           |            |         |        |	         |
 | Shell Sort                      |               |            |           |            |         |        |	         |
-
 
 
 ## Some CP Question
@@ -283,6 +284,7 @@ algorithms/
 | Word Wrap Problem               |                 |                  |                  |                  |         |        |	         |
 
 
+
 ## Data Structures Implementations.
 
 | Data Structure         | CPP               | Java               | Python            | JavaScript       | Golang            | C#               |  Other   |
@@ -296,7 +298,7 @@ algorithms/
 | Linked List            |:white_check_mark: |                    |                   |                  |                   |                  |	         |
 | Queue                  |                   |                    |                   |                  |                   |                  |	         |
 | Stack                  |                   |                    |                   |                  |                   |                  |	         |
-| Trie                   |:white_check_mark: |                    |                   |                  |                   |                  |	         |
+| Trie                   |                   |                    |                   |                  |                   |                  |	         |
 
 `you can add more algorithms, data-structure and cp problems if you like to in the readme file, after you have been assigned to any issue`
 
@@ -313,10 +315,10 @@ algorithms/
 | C#         | <pre>mcs <filename.cs><br/>mono <filename.exe></pre>               |
 
 
-
 ##### Request:-
 - `please provide some explanation to the code you write in form of comments.`
 - `add at least any one among whatever(algoritms, ds, questions) you know.`
+
 
 ### Thanks Everyone For Contributing.
 
@@ -668,35 +670,9 @@ algorithms/
           href="https://github.com/SobhanBera/algorithms/commits?author=PranayChauhan2516" 
           title="Coding">💻</a>
       </td>
-      <td align="center">
-        <a href="https://github.com/TrushaT">
-          <img 
-            src="https://avatars0.githubusercontent.com/u/48546578?s=400&v=4" 
-            width="100px;" 
-            alt=""/>
-            <br /><sub><b>TrushaT</b></sub>
-        </a><br />
-        <a 
-          href="https://github.com/SobhanBera/algorithms/commits?author=TrushaT" 
-          title="Coding">💻</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/raj-sahu">
-          <img 
-            src="https://avatars1.githubusercontent.com/u/57115538?s=400&u=916cb675cab3df5e7acc700b81cfdaa0222ed480&v=4" 
-            width="100px;" 
-            alt=""/>
-            <br /><sub><b>raj-sahu</b></sub>
-        </a><br />
-        <a 
-          href="https://github.com/SobhanBera/algorithms/commits?author=raj-sahu" 
-          title="Coding">💻</a>
-      </td>
     </tr>
 </table>
 
-###### Please do a comment if you are a contributor and your name is not in the above list in issue with code #86.
+> Please do a comment if you are a contributor and your name is not in the above list in issue with code #86.
 
 <!-- [![Run on Repl.it](https://repl.it/badge/github/SobhanBera/algorithms)](https://repl.it/github/SobhanBera/algorithms) -->
