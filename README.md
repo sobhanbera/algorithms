@@ -233,7 +233,7 @@ algorithms/
 | Dijkstra Algorithm              |               | ✔          | ✔         |            |         |        |	         |
 | Finite Automata                 |               |            |           |            |         |        |	         |
 | Heap Sort                       | ✔              |            |           |            |         |        |	         |
-| Huffman Coding                  |               |            |           |            |         |        |	         |
+| Huffman Coding                  |               | ✔          |           |            |         |        |	         |
 | Insertion Sort                  | ✔             |            |           |            |         |        |      	   |
 | Interpolation Search            |               | ✔          |           |            |         |        |	         |
 | K-NN                            |               |            |           |            |         |        |	         |
@@ -247,7 +247,7 @@ algorithms/
 | Longest Palindromic Substring   | ✔             |            |           |            |         |        |	         |
 | Merge Sort                      | ✔             |            | ✔         |            |         |        |      	   |
 | Naive Search                    |               |            |           |            |         |        |	         |
-| Quick Sort                      | ✔             |            |           |            |         |        |	         |
+| Quick Sort                      | ✔             | ✔         |           |            |         |        |	         |
 | Radix Sort                      |               |            |           |            |         |        |	         |
 | Selection Sort                  | ✔             |            |           |            |         |        |      	   |
 | Sieve of Eratosthenes           | ✔             |            |           |            |         |        |	         |
@@ -670,6 +670,20 @@ algorithms/
           href="https://github.com/SobhanBera/algorithms/commits?author=PranayChauhan2516" 
           title="Coding">💻</a>
       </td>
+      <td align="center">
+        <a href="https://github.com/Bagekari">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/47973537?s=460&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Bagekari</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Bagekari" 
+          title="Coding">💻</a>
+      </td>
+    </tr>
+    <tr>
     </tr>
 </table>
 
