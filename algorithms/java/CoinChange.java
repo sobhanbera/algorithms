@@ -47,9 +47,9 @@ public class CoinChange {
                         combinations[amt] = -1;
                         for (int c : coins)
                                 if (c <= amt && combinations[amt-c] != -1) {
-                                minCoins = Math.min(minCoins, 1 + combinations[amt - c]);
-                                combinations[amt] = minCoins;
-                        }
+                                        minCoins = Math.min(minCoins, 1 + combinations[amt - c]);
+                                        combinations[amt] = minCoins;
+                                }
                 }
 
                 return combinations[amount];
