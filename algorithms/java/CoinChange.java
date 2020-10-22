@@ -23,35 +23,35 @@ import java.util.Arrays;
  */
 
 public class CoinChange {
-    public static void main(String[] args) throws IOException {
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        public static void main(String[] args) throws IOException {
+                BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        System.out.println("\nEnter the coin denominations separated with spaces: ");
-        int[] coins = Arrays.stream(reader.readLine().trim().split("\\s+")).mapToInt(Integer::parseInt).toArray();
+                System.out.println("\nEnter the coin denominations separated with spaces:");
+                int[] coins = Arrays.stream(reader.readLine().trim().split("\\s+")).mapToInt(Integer::parseInt).toArray();
 
-        System.out.println("\nEnter the amount: ");
-        int amount = Integer.parseInt(reader.readLine().trim());
-        
-        reader.close();
+                System.out.println("\nEnter the amount:");
+                int amount = Integer.parseInt(reader.readLine().trim());
 
-        System.out.println("\nMinimum " + coinChange(coins, amount) + " coins are required to make the amount.");
-    }
+                reader.close();
 
-    public static int coinChange(int[] coins, int amount) {
-        int[] combinations = new int[amount + 1];
-
-        combinations[0] = 0;
-
-        for (int amt = 1; amt <= amount; amt++) {
-            int minCoins = Integer.MAX_VALUE;
-            combinations[amt] = -1;
-            for (int c : coins)
-                if (c <= amt && combinations[amt-c] != -1) {
-                    minCoins = Math.min(minCoins, 1 + combinations[amt - c]);
-                    combinations[amt] = minCoins;
-                }
+                System.out.println("\nMinimum " + coinChange(coins, amount) + " coins are required to make the amount.");
         }
 
-        return combinations[amount];
-    }
+        public static int coinChange(int[] coins, int amount) {
+                int[] combinations = new int[amount + 1];
+
+                combinations[0] = 0;
+
+                for (int amt = 1; amt <= amount; amt++) {
+                        int minCoins = Integer.MAX_VALUE;
+                        combinations[amt] = -1;
+                        for (int c : coins)
+                                if (c <= amt && combinations[amt-c] != -1) {
+                                minCoins = Math.min(minCoins, 1 + combinations[amt - c]);
+                                combinations[amt] = minCoins;
+                        }
+                }
+
+                return combinations[amount];
+        }
 }
