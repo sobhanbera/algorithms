@@ -42,7 +42,7 @@ public class CoinChange {
 
                 combinations[0] = 0;
 
-                for (int amt = 1; amt <= amount; amt++) {
+                for (int amt = 1; amt <= amount; ++amt) {
                         int minCoins = Integer.MAX_VALUE;
                         combinations[amt] = -1;
                         for (int c : coins)
