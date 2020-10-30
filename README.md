@@ -121,6 +121,7 @@ algorithms/
 │   │   ├── InsertionSort.cpp
 │   │   ├── kadane's Algorithm.cpp
 │   │   ├── Kruskal's Minimum Spanning Tree.cpp
+│   │   ├── linear search.cpp
 │   │   ├── LongestIncreasingSubsequence.cpp
 │   │   ├── LongestPalindromeSubstring.cpp
 │   │   ├── MergeSort.cpp
@@ -143,6 +144,7 @@ algorithms/
 │   │   ├── KruskalAlgorithm.java
 │   │   └── algorithmsInfo.md
 │   ├── javascript/
+│   │   ├── BST.js
 │   │   ├── bubbleSort_visualized.js
 │   │   ├── BubbleSort.js
 │   │   ├── CountingSort.js
@@ -296,7 +298,7 @@ algorithms/
 | Data Structure         | CPP               | Java               | Python            | JavaScript       | Golang            | C#               |  Other   |
 | :---                   | :---:             | :---:              | :---:             | :---:            | :---              | :---:            |  :---:   |
 | AVL Tree               |                   |                    |                   |                  |                   |                  |	         |
-| Binary Search Tree     |:white_check_mark: |                    |                   |                  |                   |                  |	         |
+| Binary Search Tree     |:white_check_mark: | :white_check_mark: |                   |                  |                   |                  |	         |
 | Binary Tree            |                   |                    |                   |                  |                   |                  |	         |
 | Doubly Linked List     |                   |                    |                   |                  |                   |                  |	         |
 | Graph                  |                   |                    |                   |                  |                   |                  |	         |
