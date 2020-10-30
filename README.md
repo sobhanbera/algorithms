@@ -171,6 +171,7 @@ algorithms/
 |   |   ├── LinkedList.cpp
 |   |   └── dsInfo.md
 │   ├── java/
+|   |   ├── BST.java
 |   |   ├── DynamicList.java
 |   |   ├── queue_using_stack.java
 |   |   └── dsInfo.md
@@ -182,6 +183,7 @@ algorithms/
 |       └── dsInfo.md
 ├── others/
 |   ├── PythonSMTP_Skeleton.py
+|   ├── HangManSY.py
 |   └── SnakeGame.py
 ├── questions/
 │   ├── c-sharp/
@@ -738,6 +740,30 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=Shivam026" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/meghanagottapu">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/43183125?s=400&u=566a27115b65ec3fb546e448c8f755615b09a633&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>meghanagottapu</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=meghanagottapu" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/SatyamYadav-cmd">
+          <img 
+            src="https://avatars2.githubusercontent.com/u/72488628?s=400&u=d06d1020a36a26b427508ca69430677bb5c33080&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>SatyamYadav-cmd</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=SatyamYadav-cmd" 
           title="Coding">💻</a>
       </td>
     </tr>
