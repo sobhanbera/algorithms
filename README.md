@@ -136,12 +136,14 @@ algorithms/
 │   │   ├── BinarySearch.java
 │   │   ├── BreadthFirstSearch.java
 │   │   ├── BubbleSort.java
+|   |   ├── CoinChange.java
 │   │   ├── DFS.java
 │   │   ├── DijkstraAlgorithm.java
 │   │   ├── InterpolationSort.java
 │   │   ├── KruskalAlgorithm.java
 │   │   └── algorithmsInfo.md
 │   ├── javascript/
+│   │   ├── bubbleSort_visualized.js
 │   │   ├── BubbleSort.js
 │   │   ├── CountingSort.js
 │   │   ├── LinearSearch.js
@@ -167,6 +169,8 @@ algorithms/
 |   |   ├── LinkedList.cpp
 |   |   └── dsInfo.md
 │   ├── java/
+|   |   ├── DynamicList.java
+|   |   ├── queue_using_stack.java
 |   |   └── dsInfo.md
 │   ├── javascript/
 |   |   └── dsInfo.md
@@ -199,6 +203,8 @@ algorithms/
 │   ├── other/
 |   |   └── queInfo.md
 │   └── python/
+|   |   ├── coin_change1.py
+|   |   ├── coin_change2.py
 |       └── queInfo.md
 └── templates/
     ├── cpp/
@@ -241,7 +247,7 @@ algorithms/
 | Kadane's Algorithms             | ✔             |            |           |            |         |        |	         |
 | KMP Algorithm                   |               |            |           |            |         |        |          |
 | Kruskal’s Minimum Spanning Tree Algorithm |   ✔ | ✔          | ✔         |            |         |        |	         |
-| Linear Search                   |               |            |✔          | ✔         |         |        |	         |
+| Linear Search                   | ✔             |            |✔          | ✔         |         |        |	         |
 | Longest Common Subsequence      |               |            |           |            |         |        |	         |
 | Longest Increasing Subsequence  | ✔             |            |           |            |         |        |	         |
 | Longest Palindromic Substring   | ✔             |            |           |            |         |        |	         |
@@ -297,7 +303,7 @@ algorithms/
 | Heap                   |                   |                    |                   |                  |                   |                  |	         |
 | Linked List            |:white_check_mark: |                    |                   |                  |                   |                  |	         |
 | Queue                  |                   |                    |                   |                  |                   |                  |	         |
-| Stack                  |                   |                    |                   |                  |                   |                  |	         |
+| Stack                  |                   | :white_check_mark: |                   |                  |                   |                  |	         |
 | Trie                   |                   |                    |                   |                  |                   |                  |	         |
 
 `you can add more algorithms, data-structure and cp problems if you like to in the readme file, after you have been assigned to any issue`
@@ -684,6 +690,54 @@ algorithms/
       </td>
     </tr>
     <tr>
+      <td align="center">
+        <a href="https://github.com/LauraCozzi">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/59834354?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>LauraCozzi</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=LauraCozzi" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ritiksingh8">
+          <img 
+            src="https://avatars2.githubusercontent.com/u/54301802?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>ritiksingh8</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=ritiksingh8" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/laurairene785">
+          <img 
+            src="https://avatars1.githubusercontent.com/u/49923511?s=400&u=98ee85d9a8f7ad133478ddfdee1ba2afd7b342e8&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>laurairene785</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=laurairene785" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Shivam026">
+          <img 
+            src="https://avatars0.githubusercontent.com/u/72380429?s=400&v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Shivam026</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Shivam026" 
+          title="Coding">💻</a>
+      </td>
     </tr>
 </table>
 
