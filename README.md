@@ -5,51 +5,52 @@
 ##### Star The Repository if it helped you in any direction.
 
 # Algorithms and Data-Structures.
+
 This is a repository to get Algorithms and data-structures in many languages.
 
 Everybody is welcomed to contribute to this repo.
 
 # Overview
+
 The goal of this project is to help the beginners with their contributions in Open Source. We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines.
 You can contribute to it in either of the following ways:
 You can choose atleast any one option below or can add any algorithm or data-structure you like:
 
-- Beginners:
-	- A simple algorithm you know in any language.
-  - Add any easy comptitive programming question you like.
-- Intermediate:
-	- Add any algorithm you like.
-  - Add any data-structure implementation.
-  - Add any interview question as comment and solution in any language.
-- Experienced:
-  - Add any important algorithm in any language.
-	- Add any game in your favorite programming language!
-  - Add any Hard Problem from competitve programming website.
-  - Add any interview question as comment and solution in any language.
+-   Beginners:
+    -   A simple algorithm you know in any language.
+    -   Add any easy comptitive programming question you like.
+-   Intermediate:
+    -   Add any algorithm you like.
+    -   Add any data-structure implementation.
+    -   Add any interview question as comment and solution in any language.
+-   Experienced:
+    -   Add any important algorithm in any language.
+    -   Add any game in your favorite programming language!
+    -   Add any Hard Problem from competitve programming website.
+    -   Add any interview question as comment and solution in any language.
 
 ## Implementations ⚙
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" height="60" />](https://github.com/SobhanBera/algorithms)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" height="60" />](https://github.com/SobhanBera/algorithms)
-
-
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height="60" />](https://github.com/SobhanBera/algorithms) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="60" />](https://github.com/SobhanBera/algorithms) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="60" />](https://github.com/SobhanBera/algorithms) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="60" />](https://github.com/SobhanBera/algorithms) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="60" />](https://github.com/SobhanBera/algorithms) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" height="60" />](https://github.com/SobhanBera/algorithms) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" height="60" />](https://github.com/SobhanBera/algorithms)
 
 ## Quick Start 🌟
-- You must be assigned to an issue before this steps.
-- Fork this repo.
-- Clone the repo or type this commands.
-  ```bash
-  git clone https://github.com/<your_username_here>/algorithms.git
-  cd design-blocks
-  ```
-- Start writing you code, when done with the code part type this commands.
-  ```bash
-  git add .
-  git commit -m "<what_you_have_contributed>"
-  git push
-  ```
-- Then make a PR to this repo and wait for the merge.
-- That's it you have contributed to open source.
-- If you enjoyed this you can do it again with another code.
+
+-   You must be assigned to an issue before this steps.
+-   Fork this repo.
+-   Clone the repo or type this commands.
+    ```bash
+    git clone https://github.com/<your_username_here>/algorithms.git
+    cd design-blocks
+    ```
+-   Start writing you code, when done with the code part type this commands.
+    ```bash
+    git add .
+    git commit -m "<what_you_have_contributed>"
+    git push
+    ```
+-   Then make a PR to this repo and wait for the merge.
+-   That's it you have contributed to open source.
+-   If you enjoyed this you can do it again with another code.
 
 ## What is Hacktoberfest?
 
@@ -76,16 +77,16 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 Contributing to open-source is easy.
 
-- Please read the contributing guideline before any PR.
-- Fork the repository
-- Improve current program by
-  - improving codes and features
-  - adding new feature
-  - add any algorithm you like
-  - by adding any data-structure implementation yout like.
-  - improving the documentation
-  - you can also optimise somebody's code
-- Push your work and Create a Pull Request
+-   Please read the contributing guideline before any PR.
+-   Fork the repository
+-   Improve current program by
+    -   improving codes and features
+    -   adding new feature
+    -   add any algorithm you like
+    -   by adding any data-structure implementation yout like.
+    -   improving the documentation
+    -   you can also optimise somebody's code
+-   Push your work and Create a Pull Request
 
 [Click here for more explanation](https://github.com/SobhanBera/algorithms/blob/main/docs/CONTRIBUTING.md)
 
@@ -94,13 +95,15 @@ Contributing to open-source is easy.
 The only exception would be if the project maintainer chooses to mark your pull request as “invalid”. Even if your pull requests aren’t accepted, they should still count toward your 4 pull requests necessary to earn the shirt.
 
 ## What kinds of pull requests count toward earning the Hacktoberfest shirt?
+
 Any pull request made to a public repo on GitHub will count. The pull request must contain commits you personally made yourself — not automated commits from bots.
 
 You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
 
-___
+---
 
 ### Directory Tree 👇🏻
+
 <details>
 <summary><strong>Directory Tree</strong></summary>
 
@@ -221,6 +224,7 @@ algorithms/
     |   └── templateHelp.md
     └── templateHelp.md
 ```
+
 </details>
 <!-- ├── -->
 
@@ -230,93 +234,89 @@ algorithms/
 
 ## Implemented Algorithms
 
-| Algorithm                       | CPP           | Java       | Python    | JavaScript | Golang  | C#     | Other    |
-| :---                            | :---:         | :---:      | :---:     | :---:      | :---    | :---:  | :---:    | 
-| Binary Search                   | ✔             | ✔         | ✔         |            |         |        |	        |
-| Bogo Sort                       | ✔             |            |           |            |         |        | TS ✔     |
-| Breadth First Search            |               | ✔          | ✔         |            |         |        |          |
-| Breadth First Traversal         |               | ✔          |           |            |         |        |          |
-| Bubble sort                     | ✔             | ✔          | ✔         | ✔         |         |        |	         |
-| Counting Sort                   |               |            |           | ✔         |         |        |	         |
-| Depth First Search              |               | ✔          |           |            |         |        |	         |
-| Depth First Traversal           | ✔             |            |           |            |         |        |	         |
-| Dijkstra Algorithm              |               | ✔          | ✔         |            |         |        |	         |
-| Finite Automata                 |               |            |           |            |         |        |	         |
-| Heap Sort                       | ✔              |            |           |            |         |        |	         |
-| Huffman Coding                  |               | ✔          |           |            |         |        |	         |
-| Insertion Sort                  | ✔             |            |           |            |         |        |      	   |
-| Interpolation Search            |               | ✔          |           |            |         |        |	         |
-| K-NN                            |               |            |           |            |         |        |	         |
-| K Centers Problem               |               |            |           |            |         |        |	         |
-| Kadane's Algorithms             | ✔             |            |           |            |         |        |	         |
-| KMP Algorithm                   |               |            |           |            |         |        |          |
-| Kruskal’s Minimum Spanning Tree Algorithm |   ✔ | ✔          | ✔         |            |         |        |	         |
-| Linear Search                   | ✔             |            |✔          | ✔         |         |        |	         |
-| Longest Common Subsequence      |               |            |           |            |         |        |	         |
-| Longest Increasing Subsequence  | ✔             |            |           |            |         |        |	         |
-| Longest Palindromic Substring   | ✔             |            |           |            |         |        |	         |
-| Merge Sort                      | ✔             |            | ✔         |            |         |        |      	   |
-| Naive Search                    |               |            |           |            |         |        |	         |
-| Quick Sort                      | ✔             | ✔         |           |            |         |        |	         |
-| Radix Sort                      |               |            |           |            |         |        |	         |
-| Selection Sort                  | ✔             |            |           |            |         |        |      	   |
-| Sieve of Eratosthenes           | ✔             |            |           |            |         |        |	         |
-| Suffix Array                    |               |            |           |            |         |        |	         |
-| Shell Sort                      |               |            |           |            |         |        |	         |
-
+| Algorithm                                 | CPP | Java | Python | JavaScript | Golang | C#  | Other |
+| :---------------------------------------- | :-: | :--: | :----: | :--------: | :----- | :-: | :---: |
+| Binary Search                             |  ✔  |  ✔   |   ✔    |            |        |     |       |
+| Bogo Sort                                 |  ✔  |      |        |            |        |     | TS ✔  |
+| Breadth First Search                      |     |  ✔   |   ✔    |            |        |     |       |
+| Breadth First Traversal                   |     |  ✔   |        |            |        |     |       |
+| Bubble sort                               |  ✔  |  ✔   |   ✔    |     ✔      |        |     |       |
+| Counting Sort                             |     |      |        |     ✔      |        |     | TS ✔  |
+| Depth First Search                        |     |  ✔   |        |            |        |     |       |
+| Depth First Traversal                     |  ✔  |      |        |            |        |     |       |
+| Dijkstra Algorithm                        |     |  ✔   |   ✔    |            |        |     |       |
+| Finite Automata                           |     |      |        |            |        |     |       |
+| Heap Sort                                 |  ✔  |      |        |            |        |     |       |
+| Huffman Coding                            |     |  ✔   |        |            |        |     |       |
+| Insertion Sort                            |  ✔  |      |        |            |        |     |       |
+| Interpolation Search                      |     |  ✔   |        |            |        |     |       |
+| K-NN                                      |     |      |        |            |        |     |       |
+| K Centers Problem                         |     |      |        |            |        |     |       |
+| Kadane's Algorithms                       |  ✔  |      |        |            |        |     |       |
+| KMP Algorithm                             |     |      |        |            |        |     |       |
+| Kruskal’s Minimum Spanning Tree Algorithm |  ✔  |  ✔   |   ✔    |            |        |     |       |
+| Linear Search                             |  ✔  |      |   ✔    |     ✔      |        |     |       |
+| Longest Common Subsequence                |     |      |        |            |        |     |       |
+| Longest Increasing Subsequence            |  ✔  |      |        |            |        |     |       |
+| Longest Palindromic Substring             |  ✔  |      |        |            |        |     |       |
+| Merge Sort                                |  ✔  |      |   ✔    |            |        |     | TS ✔  |
+| Naive Search                              |     |      |        |            |        |     |       |
+| Quick Sort                                |  ✔  |  ✔   |        |            |        |     |       |
+| Radix Sort                                |     |      |        |            |        |     |       |
+| Selection Sort                            |  ✔  |      |        |            |        |     |       |
+| Sieve of Eratosthenes                     |  ✔  |      |        |            |        |     |       |
+| Suffix Array                              |     |      |        |            |        |     |       |
+| Shell Sort                                |     |      |        |            |        |     |       |
 
 ## Some CP Question
 
-| Questions                       | CPP             | Java             | Python           | JavaScript       | Golang  | C#     | Other	   |
-| :---                            | :---:           | :---:            | :---:            | :---:            | :---    | :---:  | :---:    |
-| Binomial Coefficient            |                 |                  |                  |                  |         |        |	         |
-| Bellman–Ford Algorithm          |                 |                  |                  |                  |         |        |	         |
-| Coin Change                     |                 |                  |                  |                  |         |        |	         |
-| Count ways to reach the n’th stair |              |                  |                  |                  |         |        |	         |
-| Cutting a Rod                   |                 |                  |                  |                  |         |        |	         |
-| Edit Distance                   |    ✔            |                  |                  |                  |         |        |	         |
-| Egg Droping Puzzle              |                 |                  |                  |                  |         |        |	         |
-| Knapsack Problem                |    ✔            |                  |                  |                  |         |        |	         |
-| Largest Sum Contiguous Subarray |                 |                  |                  |                  |         |        |	         |
-| m Coloring Problem              |                 |                  |                  |                  |         |        |	         |
-| Pascal’s Triangle               |                 |                  |                  |                  |         |        |	         |
-| Matrix Chain Multiplication     |    ✔            |                  |                  |                  |         |        |	         |
-| Maximum sum rectangle in a 2D matrix |            |                  |                  |                  |         |        |	         |
-| Min Cost Path                   |                 |                  |                  |                  |         |        |	         |
-| Rod Cutting                     |    ✔            |                  |                  |                  |         |        |	         |
-| Partition problem               |                 |                  |                  |                  |         |        |	         |
-| Subset Sum                      |                 |                  |                  |                  |         |        |	         |
-| Tiling Problem                  |                 |                  |                  |                  |         |        |	         |
-| The Knight’s tour problem       |                 |                  |                  |                  |         |        |	         |
-| Three Sum                       |                 |                  |                  |                  |         |        |	         |
-| Two Sum                         |    ✔            |                  |                  |                  |         |        |	         |
-| Variations of LIS               |                 |                  |                  |                  |         |        |	         |
-| Word Wrap Problem               |                 |                  |                  |                  |         |        |	         |
-
-
+| Questions                            | CPP | Java | Python | JavaScript | Golang | C#  | Other |
+| :----------------------------------- | :-: | :--: | :----: | :--------: | :----- | :-: | :---: |
+| Binomial Coefficient                 |     |      |        |            |        |     |       |
+| Bellman–Ford Algorithm               |     |      |        |            |        |     |       |
+| Coin Change                          |     |      |        |            |        |     |       |
+| Count ways to reach the n’th stair   |     |      |        |            |        |     |       |
+| Cutting a Rod                        |     |      |        |            |        |     |       |
+| Edit Distance                        |  ✔  |      |        |            |        |     |       |
+| Egg Droping Puzzle                   |     |      |        |            |        |     |       |
+| Knapsack Problem                     |  ✔  |      |        |            |        |     |       |
+| Largest Sum Contiguous Subarray      |     |      |        |            |        |     |       |
+| m Coloring Problem                   |     |      |        |            |        |     |       |
+| Pascal’s Triangle                    |     |      |        |            |        |     |       |
+| Matrix Chain Multiplication          |  ✔  |      |        |            |        |     |       |
+| Maximum sum rectangle in a 2D matrix |     |      |        |            |        |     |       |
+| Min Cost Path                        |     |      |        |            |        |     |       |
+| Rod Cutting                          |  ✔  |      |        |            |        |     |       |
+| Partition problem                    |     |      |        |            |        |     |       |
+| Subset Sum                           |     |      |        |            |        |     |       |
+| Tiling Problem                       |     |      |        |            |        |     |       |
+| The Knight’s tour problem            |     |      |        |            |        |     |       |
+| Three Sum                            |     |      |        |            |        |     |       |
+| Two Sum                              |  ✔  |      |        |            |        |     |       |
+| Variations of LIS                    |     |      |        |            |        |     |       |
+| Word Wrap Problem                    |     |      |        |            |        |     |       |
 
 ## Data Structures Implementations.
 
-| Data Structure         | CPP               | Java               | Python            | JavaScript       | Golang            | C#               |  Other   |
-| :---                   | :---:             | :---:              | :---:             | :---:            | :---              | :---:            |  :---:   |
-| AVL Tree               |                   |                    |                   |                  |                   |                  |	         |
-| Binary Search Tree     |:white_check_mark: | :white_check_mark: |                   |                  |                   |                  |	         |
-| Binary Tree            |                   |                    |                   |                  |                   |                  |	         |
-| Doubly Linked List     |                   |                    |                   |                  |                   |                  |	         |
-| Graph                  |                   |                    |                   |                  |                   |                  |	         |
-| Heap                   |                   |                    |                   |                  |                   |                  |	         |
-| Linked List            |:white_check_mark: |                    |                   |                  |                   |                  |	         |
-| Queue                  |                   |                    |                   |                  |                   |                  |	         |
-| Stack                  |                   | :white_check_mark: |                   |                  |                   |                  |	         |
-| Trie                   |                   |                    |                   |                  |                   |                  |	         |
+| Data Structure     |        CPP         |        Java        | Python | JavaScript | Golang | C#  | Other |
+| :----------------- | :----------------: | :----------------: | :----: | :--------: | :----- | :-: | :---: |
+| AVL Tree           |                    |                    |        |            |        |     |       |
+| Binary Search Tree | :white_check_mark: | :white_check_mark: |        |            |        |     |       |
+| Binary Tree        |                    |                    |        |            |        |     |       |
+| Doubly Linked List |                    |                    |        |            |        |     |       |
+| Graph              |                    |                    |        |            |        |     |       |
+| Heap               |                    |                    |        |            |        |     |       |
+| Linked List        | :white_check_mark: |                    |        |            |        |     |       |
+| Queue              |                    |                    |        |            |        |     |       |
+| Stack              |                    | :white_check_mark: |        |            |        |     |       |
+| Trie               |                    |                    |        |            |        |     |       |
 
 `you can add more algorithms, data-structure and cp problems if you like to in the readme file, after you have been assigned to any issue`
-
 
 ## How to run them 👨🏻‍💻
 
 | Language   | Steps                                                              |
-| :---       | :---                                                               |
+| :--------- | :----------------------------------------------------------------- |
 | C++        | <pre>g++ <filename.cpp><br>./a.out # unix<br>a.exe # windows</pre> |
 | Java       | <pre>javac <filename.java><br>java <filename></pre>                |
 | Python     | <pre>python <filename.py></pre>                                    |
@@ -324,11 +324,10 @@ algorithms/
 | Golang     | <pre>go run <filename.go></pre>                                    |
 | C#         | <pre>mcs <filename.cs><br/>mono <filename.exe></pre>               |
 
-
 ##### Request:-
-- `please provide some explanation to the code you write in form of comments.`
-- `add at least any one among whatever(algoritms, ds, questions) you know.`
 
+-   `please provide some explanation to the code you write in form of comments.`
+-   `add at least any one among whatever(algoritms, ds, questions) you know.`
 
 ### Thanks Everyone For Contributing.
 
@@ -764,6 +763,18 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=SatyamYadav-cmd" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/AlanJereb">
+          <img 
+            src="https://avatars.githubusercontent.com/u/24469472?v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Alan Jereb</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=Alan Jereb" 
           title="Coding">💻</a>
       </td>
     </tr>
