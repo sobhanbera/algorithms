@@ -252,7 +252,7 @@ algorithms/
 | Interpolation Search                      |     |  ✔   |        |            |        |     |       |
 | K-NN                                      |     |      |        |            |        |     |       |
 | K Centers Problem                         |     |      |        |            |        |     |       |
-| Kadane's Algorithms                       |  ✔  |      |        |            |        |     |       |
+| Kadane's Algorithms                       |  ✔  |      |   ✔    |            |        |     |       |
 | KMP Algorithm                             |     |      |        |            |        |     |       |
 | Kruskal’s Minimum Spanning Tree Algorithm |  ✔  |  ✔   |   ✔    |            |        |     |       |
 | Linear Search                             |  ✔  |      |   ✔    |     ✔      |        |     |       |
@@ -774,7 +774,19 @@ algorithms/
             <br /><sub><b>Alan Jereb</b></sub>
         </a><br />
         <a 
-          href="https://github.com/SobhanBera/algorithms/commits?author=Alan Jereb" 
+          href="https://github.com/SobhanBera/algorithms/commits?author=AlanJereb" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/AkshatBhat">
+          <img 
+            src="https://avatars.githubusercontent.com/u/47973761?v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>Akshat Bhat</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=AkshatBhat" 
           title="Coding">💻</a>
       </td>
     </tr>
