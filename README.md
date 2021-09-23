@@ -108,121 +108,145 @@ You can contribute to any open source project hosted on Github.com and contribut
 <summary><strong>Directory Tree</strong></summary>
 
 ```
-algorithms/
-├── algorithms/
-│   ├── c-sharp/
-│   │   └── algorithmsInfo.md
-│   ├── cpp/
-│   │   ├── BinarySearch.cpp
-│   │   ├── BFS.cpp
-│   │   ├── BFS_Modified.cpp
-│   │   ├── bogosort.cpp
-│   │   ├── BubbleSort.cpp
-│   │   ├── DFT.cpp
-│   │   ├── Dijkstra.cpp
-│   │   ├── HeapSort.cpp
-│   │   ├── InsertionSort.cpp
-│   │   ├── kadane's Algorithm.cpp
-│   │   ├── Kruskal's Minimum Spanning Tree.cpp
-│   │   ├── linear search.cpp
-│   │   ├── LongestIncreasingSubsequence.cpp
-│   │   ├── LongestPalindromeSubstring.cpp
-│   │   ├── MergeSort.cpp
-│   │   ├── QuickSort.cpp
-│   │   ├── SelectionSort.cpp
-│   │   ├── Sieve-Of-Eratosthenes.cpp
-│   │   └── algorithmsInfo.md
-│   ├── java/
-|   |   └── bst
-|   |       ├── BST.java
-|   |       ├── BSTNode.java
-|   |       └── BSTree.java
-│   │   ├── BinarySearch.java
-│   │   ├── BreadthFirstSearch.java
-│   │   ├── BubbleSort.java
-|   |   ├── CoinChange.java
-│   │   ├── DFS.java
-│   │   ├── DijkstraAlgorithm.java
-│   │   ├── InterpolationSort.java
-│   │   ├── KruskalAlgorithm.java
-│   │   └── algorithmsInfo.md
-│   ├── javascript/
-│   │   ├── BST.js
-│   │   ├── bubbleSort_visualized.js
-│   │   ├── BubbleSort.js
-│   │   ├── CountingSort.js
-│   │   ├── LinearSearch.js
-│   │   └── algorithmsInfo.md
-│   ├── other/
-|   |   ├── TypeScript/
-|   │   │   └── BogoSort.ts
-│   │   └── algorithmsInfo.md
-│   └── python/
-│       ├── BinarySearch.py
-│       ├── BreadthFirstSearch.py
-│       ├── BubbleSort.py
-│       ├── Dijkstra's_algorithm.py
-│       ├── Kruskal's Minimum Spanning Tree.py
-│       ├── LinearSearch.py
-│       ├── MergeSort.py
-│       └── algorithmsInfo.md
-├── data structures/
-│   ├── c-sharp/
-|   |   └── dsInfo.md
-│   ├── cpp/
-|   |   ├── BST.cpp
-|   |   ├── LinkedList.cpp
-|   |   └── dsInfo.md
-│   ├── java/
-|   |   ├── BST.java
-|   |   ├── DynamicList.java
-|   |   ├── queue_using_stack.java
-|   |   └── dsInfo.md
-│   ├── javascript/
-|   |   └── dsInfo.md
-│   ├── other/
-|   |   └── dsInfo.md
-│   └── python/
-|       └── dsInfo.md
-├── others/
-|   ├── PythonSMTP_Skeleton.py
-|   ├── HangManSY.py
-|   └── SnakeGame.py
-├── questions/
-│   ├── c-sharp/
-|   |   └── queInfo.md
-│   ├── cpp/
-|   |   ├── all_sol_of_n_queen.cpp
-|   |   ├── Edit Distance.cpp
-|   |   ├── knapsack_with_large_weight.cpp
-|   |   ├── knapsack.cpp
-|   |   ├── knight_tour_backtracking.cpp
-|   |   ├── Matrix_chain_mult.cpp
-|   |   ├── n_queen.cpp
-|   |   ├── rod_cutting_prob.cpp
-|   |   ├── sub_matrix_with_all_1s.cpp
-|   |   ├── TwoSum.cpp
-|   |   └── queInfo.md
-│   ├── java/
-|   |   └── queInfo.md
-│   ├── javascript/
-|   |   └── queInfo.md
-│   ├── other/
-|   |   └── queInfo.md
-│   └── python/
-|   |   ├── coin_change1.py
-|   |   ├── coin_change2.py
-|       └── queInfo.md
-└── templates/
-    ├── cpp/
-    |   └── templateHelp.md
-    ├── java/
-    |   └── templateHelp.md
-    ├── other/
-    |   └── templateHelp.md
-    ├── python/
-    |   └── templateHelp.md
-    └── templateHelp.md
+|-- CODE_OF_CONDUCT.md
+|-- LICENSE
+|-- README.md
+|-- algorithms
+|   |-- c-sharp
+|   |   `-- algorithmsInfo.md
+|   |-- cpp
+|   |   |-- BFS.cpp
+|   |   |-- BFS_Modified.cpp
+|   |   |-- BinarySearch.cpp
+|   |   |-- BubbleSort.cpp
+|   |   |-- DFT.cpp
+|   |   |-- Dijkstra.cpp
+|   |   |-- HeapSort.cpp
+|   |   |-- InsertionSort.cpp
+|   |   |-- Kruskal's\ Minimum\ Spanning\ Tree.cpp
+|   |   |-- LongestIncreasingSubsequence.cpp
+|   |   |-- LongestPalindromicSubstring.cpp
+|   |   |-- MergeSort.cpp
+|   |   |-- QuickSort.cpp
+|   |   |-- SelectionSort.cpp
+|   |   |-- Sieve-Of-Eratosthenes.cpp
+|   |   |-- algorithmsInfo.md
+|   |   |-- bogosort.cpp
+|   |   |-- kadane's\ Algorithm.cpp
+|   |   |-- linear\ search.cpp
+|   |   |-- max_xor_pair_trie.cpp
+|   |   `-- next_greater_in_o(n).cpp
+|   |-- haskell
+|   |   `-- maths
+|   |       `-- fibonacci.hs
+|   |-- java
+|   |   |-- BinarySearch.java
+|   |   |-- BreadthFirstSearch.java
+|   |   |-- BubbleSort.java
+|   |   |-- CoinChange.java
+|   |   |-- CountingSort.java
+|   |   |-- DFS.java
+|   |   |-- DijkstraAlgorithm.java
+|   |   |-- HuffmanCoding.java
+|   |   |-- InsertionSort.java
+|   |   |-- InterpolationSearch.java
+|   |   |-- KadanesAlgorithm.java
+|   |   |-- KruskalAlgorithm.java
+|   |   |-- QuickSort.java
+|   |   |-- algorithmsInfo.md
+|   |   `-- bst
+|   |       |-- BST.java
+|   |       |-- BSTNode.java
+|   |       `-- BSTree.java
+|   |-- javascript
+|   |   |-- BST.js
+|   |   |-- BubbleSort.js
+|   |   |-- CountingSort.js
+|   |   |-- algorithmsInfo.md
+|   |   |-- bubbleSort_visualized.js
+|   |   `-- linearSearch.js
+|   |-- other
+|   |   |-- algorithmsInfo.md
+|   |   `-- typescript
+|   |       |-- bogoSort.ts
+|   |       |-- countingSort.ts
+|   |       `-- mergeSort.ts
+|   `-- python
+|       |-- BinarySearch.py
+|       |-- BreadthFirstSearch.py
+|       |-- BubbleSort.py
+|       |-- Dijkstra's_algorithm.py
+|       |-- Kadane's_Algorithm.py
+|       |-- Kruskal's\ Minimum\ Spanning\ Tree.py
+|       |-- LinearSearch.py
+|       |-- MergeSort.py
+|       |-- algorithmsInfo.md
+|       `-- heapsort.py
+|-- data\ structures
+|   |-- c-sharp
+|   |   `-- dsInfo.md
+|   |-- cpp
+|   |   |-- BST.cpp
+|   |   |-- HeapImplementation.cpp
+|   |   |-- LinkedList.cpp
+|   |   |-- Trie.cpp
+|   |   `-- dsInfo.md
+|   |-- java
+|   |   |-- BST.java
+|   |   |-- DynamicList.java
+|   |   |-- dsInfo.md
+|   |   `-- queue_using_stack.java
+|   |-- javascript
+|   |   `-- dsInfo.md
+|   |-- other
+|   |   `-- dsInfo.md
+|   `-- python
+|       `-- dsInfo.md
+|-- docs
+|   `-- CONTRIBUTING.md
+|-- hacktoberfest.gif
+|-- hacktoberfest2020.jpeg
+|-- others
+|   |-- HangManSY.py
+|   |-- PythonSMTP_Skeleton.py
+|   `-- SnakeGame.py
+|-- questions
+|   |-- c-sharp
+|   |   `-- queInfo.md
+|   |-- cpp
+|   |   |-- Edit\ Distance.cpp
+|   |   |-- Matrix_chain_mult.cpp
+|   |   |-- TwoSum.cpp
+|   |   |-- all_sol_of_n_queen.cpp
+|   |   |-- knapsack.cpp
+|   |   |-- knapsack_with_large_weight.cpp
+|   |   |-- knight_tour_backtracking.cpp
+|   |   |-- n_queen.cpp
+|   |   |-- queInfo.md
+|   |   |-- rod_cutting_prob.cpp
+|   |   `-- sub_matrix_with_all_1s.cpp
+|   |-- java
+|   |   `-- queInfo.md
+|   |-- javascript
+|   |   `-- queInfo.md
+|   |-- other
+|   |   `-- queInfo.md
+|   `-- python
+|       |-- Subset.py
+|       |-- coin_change1.py
+|       |-- coin_change2.py
+|       |-- egg_dropping.py
+|       `-- queInfo.md
+`-- templates
+    |-- cpp
+    |   `-- templateHelp.md
+    |-- java
+    |   `-- templateHelp.md
+    |-- other
+    |   `-- templateHelp.md
+    |-- python
+    |   `-- templateHelp.md
+    `-- templateHelp.md
 ```
 
 </details>
@@ -241,18 +265,18 @@ algorithms/
 | Breadth First Search                      |     |  ✔   |   ✔    |            |        |     |       |
 | Breadth First Traversal                   |     |  ✔   |        |            |        |     |       |
 | Bubble sort                               |  ✔  |  ✔   |   ✔    |     ✔      |        |     |       |
-| Counting Sort                             |     |      |        |     ✔      |        |     | TS ✔  |
+| Counting Sort                             |     |  ✔   |        |     ✔      |        |     | TS ✔  |
 | Depth First Search                        |     |  ✔   |        |            |        |     |       |
 | Depth First Traversal                     |  ✔  |      |        |            |        |     |       |
 | Dijkstra Algorithm                        |     |  ✔   |   ✔    |            |        |     |       |
 | Finite Automata                           |     |      |        |            |        |     |       |
 | Heap Sort                                 |  ✔  |      |        |            |        |     |       |
 | Huffman Coding                            |     |  ✔   |        |            |        |     |       |
-| Insertion Sort                            |  ✔  |      |        |            |        |     |       |
+| Insertion Sort                            |  ✔  |  ✔   |        |            |        |     |       |
 | Interpolation Search                      |     |  ✔   |        |            |        |     |       |
 | K-NN                                      |     |      |        |            |        |     |       |
 | K Centers Problem                         |     |      |        |            |        |     |       |
-| Kadane's Algorithms                       |  ✔  |      |   ✔    |            |        |     |       |
+| Kadane's Algorithms                       |  ✔  |  ✔   |   ✔    |            |        |     |       |
 | KMP Algorithm                             |     |      |        |            |        |     |       |
 | Kruskal’s Minimum Spanning Tree Algorithm |  ✔  |  ✔   |   ✔    |            |        |     |       |
 | Linear Search                             |  ✔  |      |   ✔    |     ✔      |        |     |       |
@@ -278,7 +302,7 @@ algorithms/
 | Count ways to reach the n’th stair   |     |      |        |            |        |     |       |
 | Cutting a Rod                        |     |      |        |            |        |     |       |
 | Edit Distance                        |  ✔  |      |        |            |        |     |       |
-| Egg Droping Puzzle                   |     |      |        |            |        |     |       |
+| Egg Droping Puzzle                   |     |      |   ✔    |            |        |     |       |
 | Knapsack Problem                     |  ✔  |      |        |            |        |     |       |
 | Largest Sum Contiguous Subarray      |     |      |        |            |        |     |       |
 | m Coloring Problem                   |     |      |        |            |        |     |       |
@@ -288,7 +312,7 @@ algorithms/
 | Min Cost Path                        |     |      |        |            |        |     |       |
 | Rod Cutting                          |  ✔  |      |        |            |        |     |       |
 | Partition problem                    |     |      |        |            |        |     |       |
-| Subset Sum                           |     |      |        |            |        |     |       |
+| Subset Sum                           |     |      |   ✔    |            |        |     |       |
 | Tiling Problem                       |     |      |        |            |        |     |       |
 | The Knight’s tour problem            |     |      |        |            |        |     |       |
 | Three Sum                            |     |      |        |            |        |     |       |
@@ -787,6 +811,54 @@ algorithms/
         </a><br />
         <a 
           href="https://github.com/SobhanBera/algorithms/commits?author=AkshatBhat" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/shubhamshettyy">
+          <img 
+            src="https://avatars.githubusercontent.com/u/50539799?v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>shubhamshettyy</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=shubhamshettyy" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/viraj-v1112">
+          <img 
+            src="https://avatars.githubusercontent.com/u/53477506?v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>viraj-v1112</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=viraj-v1112" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gaurav1028">
+          <img 
+            src="https://avatars.githubusercontent.com/u/55292984?v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>gaurav1028</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=gaurav1028" 
+          title="Coding">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/MagnerSA">
+          <img 
+            src="https://avatars.githubusercontent.com/u/34272873?v=4" 
+            width="100px;" 
+            alt=""/>
+            <br /><sub><b>MagnerSA</b></sub>
+        </a><br />
+        <a 
+          href="https://github.com/SobhanBera/algorithms/commits?author=MagnerSA" 
           title="Coding">💻</a>
       </td>
     </tr>
