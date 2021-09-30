@@ -1,4 +1,4 @@
-# HACKTOBERFEST 2020
+# HACKTOBERFEST 2021
 
 ![image](hacktoberfest2020.svg)
 
@@ -56,7 +56,7 @@ You can choose atleast any one option below or can add any algorithm or data-str
 
 Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by Digital Ocean and DEV. It is the easiest way to get into open source!
 
-During the entire month of October 2020, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions.
+During the entire month of October 2021, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions.
 
 <p align='center'>
   <a href="https://github.com/SobhanBera/algorithms">
@@ -98,7 +98,7 @@ The only exception would be if the project maintainer chooses to mark your pull 
 
 Any pull request made to a public repo on GitHub will count. The pull request must contain commits you personally made yourself — not automated commits from bots.
 
-You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
+You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2021. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
 
 ---
 
