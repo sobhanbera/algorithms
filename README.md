@@ -1,6 +1,6 @@
 # HACKTOBERFEST 2020
 
-![image](hacktoberfest2020.jpeg)
+![image](hacktoberfest2020.svg)
 
 ##### Star The Repository if it helped you in any direction.
 
