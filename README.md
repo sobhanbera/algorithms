@@ -14,11 +14,11 @@ Everybody is welcomed to contribute to this repo.
 
 The goal of this project is to help the beginners with their contributions in Open Source. We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines.
 You can contribute to it in either of the following ways:
-You can choose atleast any one option below or can add any algorithm or data-structure you like:
+You can choose at least any one option below or can add any algorithm or data-structure you like:
 
 -   Beginners:
     -   A simple algorithm you know in any language.
-    -   Add any easy comptitive programming question you like.
+    -   Add any easy competitive programming question you like.
 -   Intermediate:
     -   Add any algorithm you like.
     -   Add any data-structure implementation.
@@ -26,7 +26,7 @@ You can choose atleast any one option below or can add any algorithm or data-str
 -   Experienced:
     -   Add any important algorithm in any language.
     -   Add any game in your favorite programming language!
-    -   Add any Hard Problem from competitve programming website.
+    -   Add any Hard Problem from competitive programming website.
     -   Add any interview question as comment and solution in any language.
 
 ## Implementations ⚙
@@ -83,7 +83,7 @@ Contributing to open-source is easy.
     -   improving codes and features
     -   adding new feature
     -   add any algorithm you like
-    -   by adding any data-structure implementation yout like.
+    -   by adding any data-structure implementation you like.
     -   improving the documentation
     -   you can also optimise somebody's code
 -   Push your work and Create a Pull Request
@@ -329,11 +329,12 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Binary Tree        |                    |                    |        |            |        |     |       |
 | Doubly Linked List |                    |                    |        |            |        |     |       |
 | Graph              |                    |                    |        |            |        |     |       |
-| Heap               |                    |                    |        |            |        |     |       |
+| Heap               | :white_check_mark: |                    |        |            |        |     |       |
 | Linked List        | :white_check_mark: |                    |        |            |        |     |       |
 | Queue              |                    |                    |        |            |        |     |       |
 | Stack              |                    | :white_check_mark: |        |            |        |     |       |
-| Trie               |                    |                    |        |            |        |     |       |
+| Trie               | :white_check_mark: |                    |        |            |        |     |       |
+| DSU                | :white_check_mark: |                    |        |            |        |     |       |
 
 `you can add more algorithms, data-structure and cp problems if you like to in the readme file, after you have been assigned to any issue`
 
