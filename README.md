@@ -40,7 +40,6 @@ You can choose at least any one option below or can add any algorithm or data-st
 -   Clone the repo or type this commands.
     ```bash
     git clone https://github.com/<your_username_here>/algorithms.git
-    cd design-blocks
     ```
 -   Start writing you code, when done with the code part type this commands.
     ```bash
