@@ -271,7 +271,11 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Finite Automata                           |     |      |        |            |        |     |       |
 | Heap Sort                                 |  ✔  |      |        |            |        |     |       |
 | Huffman Coding                            |     |  ✔   |        |            |        |     |       |
-| Insertion Sort                            |  ✔  |  ✔   |        |            |        |     |       |
+<<<<<<< HEAD
+| Insertion Sort                            |  ✔  |  ✔   |  ✔      |            |        |     |       |
+=======
+| Insertion Sort                            |  ✔  |  ✔   |   ✔  |            |        |     |       |
+>>>>>>> 56236eabac52600dd8799975cd47de26a71fba24
 | Interpolation Search                      |     |  ✔   |        |            |        |     |       |
 | K-NN                                      |     |      |        |            |        |     |       |
 | K Centers Problem                         |     |      |        |            |        |     |       |
