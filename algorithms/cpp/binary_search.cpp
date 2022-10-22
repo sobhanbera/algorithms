@@ -60,3 +60,14 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+Enter the length of the Array :
+5
+Enter 5 elements :
+1 2 3 4 8
+Enter the element to be searched :
+2
+Element 2 found at index 1
+*/

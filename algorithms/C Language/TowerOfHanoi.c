@@ -27,3 +27,16 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+Enter number of disks :
+3
+1. Move one disk from 1 to 3
+2. Move one disk from 1 to 2
+3. Move one disk from 3 to 2
+4. Move one disk from 1 to 3
+5. Move one disk from 2 to 1
+6. Move one disk from 2 to 3
+7. Move one disk from 1 to 3
+*/

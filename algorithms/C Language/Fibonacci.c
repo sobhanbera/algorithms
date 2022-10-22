@@ -20,3 +20,11 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+Enter a number :
+6
+
+Fibonacci number : 8
+*/

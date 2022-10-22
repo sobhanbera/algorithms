@@ -50,3 +50,24 @@ int main()
     }
     return 0;
 }
+
+/*
+Output: Test 1:
+Enter the no of array elements: 5
+
+Enter the array elements: 3 4 8 9 12
+
+Enter the item to be searched: 6
+
+Element not found
+
+Test 2:
+Enter the no of array elements: 6
+
+Enter the array elements: 1 4 6 9 23 45
+
+Enter the item to be searched: 6
+
+Element is found at index: 2
+
+*/

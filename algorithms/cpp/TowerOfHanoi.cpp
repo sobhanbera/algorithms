@@ -24,3 +24,17 @@ int main()
     move(n, 'A', 'B', 'C'); // Move n discs from Tower A to C using B
     return 0;
 }
+
+/* Output:
+
+Enter the number of Discs :
+IP - 3
+OP -
+Transfer from Tower A to Tower C
+Transfer from Tower A to Tower B
+Transfer from Tower C to Tower B
+Transfer from Tower A to Tower C
+Transfer from Tower B to Tower A
+Transfer from Tower B to Tower C
+Transfer from Tower A to Tower C
+*/

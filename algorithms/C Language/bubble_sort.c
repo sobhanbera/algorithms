@@ -1,28 +1,28 @@
 #include <stdio.h>
 #define MAX 100
 
-/*Bubble sort is an algorithm that compares the adjacent elements and swaps 
-their positions if they are not in the intended order. 
+/*Bubble sort is an algorithm that compares the adjacent elements and swaps
+their positions if they are not in the intended order.
 The order can be ascending or descending.
 */
 
-//prototyping the bubble sort function
-void bubble_sort(int a[], int len); //utility function to sort
-void print_array(int a[], int n);   //utility function for printiong an array
-//initializing main function
+// prototyping the bubble sort function
+void bubble_sort(int a[], int len); // utility function to sort
+void print_array(int a[], int n);   // utility function for printiong an array
+// initializing main function
 
 int main(int argc, char const *argv[])
 {
-    //initial array to store elements for sorting.
+    // initial array to store elements for sorting.
     int A[MAX];
 
-    //size element to define the size of the array.
+    // size element to define the size of the array.
     int size, i, j;
 
     printf("enter the size of array you want:");
     scanf("%d", &size);
 
-    //taking the elements in the array
+    // taking the elements in the array
 
     for (i = 0; i < size; i++)
     {
@@ -73,3 +73,19 @@ void print_array(int a[], int n)
         printf(" %d ", a[i]);
     }
 }
+
+/*
+Output:
+enter the size of array you want:6
+
+enter the element of the array:8 12 2 14 3 1
+
+enter the element of the array:
+enter the element of the array:
+enter the element of the array:
+enter the element of the array:
+enter the element of the array:
+the initial unsorted array: 8  12  2  14  3  1
+
+The final sorted array: 1  2  3  8  12  14
+*/
