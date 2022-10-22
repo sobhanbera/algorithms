@@ -257,75 +257,70 @@ You can contribute to any open source project hosted on Github.com and contribut
 ```
 
 </details>
-<!-- ├── -->
-
----
-
-</br>
 
 ## Implemented Algorithms
 
-| Algorithm                                 | CPP | Java | Python | JavaScript | Golang | C#  | Other |
-| :---------------------------------------- | :-: | :--: | :----: | :--------: | :----- | :-: | :---: |
-| Binary Search                             |  ✔  |  ✔   |   ✔    |            |        |     |       |
-| Bogo Sort                                 |  ✔  |      |   ✔    |            |        |     | TS ✔  |
-| Breadth First Search                      |  ✔  |  ✔   |   ✔    |            |        |     |       |
-| Breadth First Traversal                   |     |      |   ✔    |            |        |     |       |
-| Bubble sort                               |  ✔  |  ✔   |   ✔    |     ✔      |        |     |       |
-| Counting Sort                             |     |  ✔   |        |     ✔      |        |     | TS ✔  |
-| Depth First Search                        |     |  ✔   |        |            |        |     |       |
-| Depth First Traversal                     |  ✔  |      |        |            |        |     |       |
-| Dijkstra Algorithm                        |  ✔  |  ✔   |   ✔    |            |        |     |       |
-| Finite Automata                           |     |      |        |            |        |     |       |
-| Heap Sort                                 |  ✔  |      |   ✔    |            |        |     |       |
-| Huffman Coding                            |     |  ✔   |        |            |        |     |       |
-| Insertion Sort                            |  ✔  |  ✔   |   ✔    |            |        |     |       |
-| Interpolation Search                      |     |  ✔   |        |            |        |     |       |
-| K-NN                                      |     |      |        |            |        |     |       |
-| K Centers Problem                         |     |      |        |            |        |     |       |
-| Kadane's Algorithms                       |  ✔  |  ✔   |   ✔    |            |        |     |       |
-| KMP Algorithm                             |     |      |        |            |        |     |       |
-| Kruskal’s Minimum Spanning Tree Algorithm |  ✔  |  ✔   |   ✔    |            |        |     |       |
-| Linear Search                             |  ✔  |      |   ✔    |     ✔      |        |     |       |
-| Longest Common Subsequence                |     |      |        |            |        |     |       |
-| Longest Increasing Subsequence            |  ✔  |      |        |            |        |     |       |
-| Longest Palindromic Substring             |  ✔  |      |        |            |        |     |       |
-| Merge Sort                                |  ✔  |      |   ✔    |            |        |     | TS ✔  |
-| Naive Search                              |     |      |        |            |        |     |       |
-| Quick Sort                                |  ✔  |  ✔   |   ✔    |            |        |     |       |
-| Radix Sort                                |     |      |        |            |        |     |       |
-| Selection Sort                            |  ✔  |      |        |            |        |     |       |
-| Sieve of Eratosthenes                     |  ✔  |      |        |            |        |     |       |
-| Suffix Array                              |     |      |        |            |        |     |       |
-| Shell Sort                                |     |      |        |            |        |     |       |
+| Algorithm                                 |        CPP         |        Java        |       Python       |     JavaScript     | Golang | C#  |         Other         |
+| :---------------------------------------- | :----------------: | :----------------: | :----------------: | :----------------: | :----- | :-: | :-------------------: |
+| Binary Search                             | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
+| Bogo Sort                                 | :white_check_mark: |                    | :white_check_mark: |                    |        |     | TS :white_check_mark: |
+| Breadth First Search                      | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
+| Breadth First Traversal                   |                    |                    | :white_check_mark: |                    |        |     |                       |
+| Bubble sort                               | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |        |     |                       |
+| Counting Sort                             |                    | :white_check_mark: |                    | :white_check_mark: |        |     | TS :white_check_mark: |
+| Depth First Search                        |                    | :white_check_mark: |                    |                    |        |     |                       |
+| Depth First Traversal                     | :white_check_mark: |                    |                    |                    |        |     |                       |
+| Dijkstra Algorithm                        | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
+| Finite Automata                           |                    |                    |                    |                    |        |     |                       |
+| Heap Sort                                 | :white_check_mark: |                    | :white_check_mark: |                    |        |     |                       |
+| Huffman Coding                            |                    | :white_check_mark: |                    |                    |        |     |                       |
+| Insertion Sort                            | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
+| Interpolation Search                      |                    | :white_check_mark: |                    |                    |        |     |                       |
+| K-NN                                      |                    |                    |                    |                    |        |     |                       |
+| K Centers Problem                         |                    |                    |                    |                    |        |     |                       |
+| Kadane's Algorithms                       | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
+| KMP Algorithm                             |                    |                    |                    |                    |        |     |                       |
+| Kruskal’s Minimum Spanning Tree Algorithm | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
+| Linear Search                             | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |        |     |                       |
+| Longest Common Subsequence                |                    |                    |                    |                    |        |     |                       |
+| Longest Increasing Subsequence            | :white_check_mark: |                    |                    |                    |        |     |                       |
+| Longest Palindromic Substring             | :white_check_mark: |                    |                    |                    |        |     |                       |
+| Merge Sort                                | :white_check_mark: |                    | :white_check_mark: |                    |        |     | TS :white_check_mark: |
+| Naive Search                              |                    |                    |                    |                    |        |     |                       |
+| Quick Sort                                | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
+| Radix Sort                                |                    |                    |                    |                    |        |     |                       |
+| Selection Sort                            | :white_check_mark: |                    |                    |                    |        |     |                       |
+| Sieve of Eratosthenes                     | :white_check_mark: |                    |                    |                    |        |     |                       |
+| Suffix Array                              |                    |                    |                    |                    |        |     |                       |
+| Shell Sort                                |                    |                    |                    |                    |        |     |                       |
 
 ## Some CP Question
 
-| Questions                            | CPP | Java | Python | JavaScript | Golang | C#  | Other |
-| :----------------------------------- | :-: | :--: | :----: | :--------: | :----- | :-: | :---: |
-| Binomial Coefficient                 |     |      |        |            |        |     |       |
-| Bellman–Ford Algorithm               |     |      |        |            |        |     |       |
-| Coin Change                          |     |      |        |            |        |     |       |
-| Count ways to reach the n’th stair   |     |      |        |            |        |     |       |
-| Cutting a Rod                        |     |      |        |            |        |     |       |
-| Edit Distance                        |  ✔  |      |        |            |        |     |       |
-| Egg Droping Puzzle                   |     |      |   ✔    |            |        |     |       |
-| Knapsack Problem                     |  ✔  |      |        |            |        |     |       |
-| Largest Sum Contiguous Subarray      |     |      |        |            |        |     |       |
-| m Coloring Problem                   |     |      |        |            |        |     |       |
-| Pascal’s Triangle                    |     |      |        |            |        |     |       |
-| Matrix Chain Multiplication          |  ✔  |      |        |            |        |     |       |
-| Maximum sum rectangle in a 2D matrix |     |      |        |            |        |     |       |
-| Min Cost Path                        |     |      |        |            |        |     |       |
-| Rod Cutting                          |  ✔  |      |        |            |        |     |       |
-| Partition problem                    |     |      |        |            |        |     |       |
-| Subset Sum                           |     |      |   ✔    |            |        |     |       |
-| Tiling Problem                       |     |      |        |            |        |     |       |
-| The Knight’s tour problem            |     |      |        |            |        |     |       |
-| Three Sum                            |     |      |        |            |        |     |       |
-| Two Sum                              |  ✔  |      |        |            |        |     |       |
-| Variations of LIS                    |     |      |        |            |        |     |       |
-| Word Wrap Problem                    |     |      |        |            |        |     |       |
+| Questions                            |        CPP         | Java |       Python       | JavaScript | Golang | C#  | Other |
+| :----------------------------------- | :----------------: | :--: | :----------------: | :--------: | :----- | :-: | :---: |
+| Binomial Coefficient                 |                    |      |                    |            |        |     |       |
+| Bellman–Ford Algorithm               |                    |      |                    |            |        |     |       |
+| Coin Change                          |                    |      |                    |            |        |     |       |
+| Count ways to reach the n’th stair   |                    |      |                    |            |        |     |       |
+| Cutting a Rod                        |                    |      |                    |            |        |     |       |
+| Edit Distance                        | :white_check_mark: |      |                    |            |        |     |       |
+| Egg Droping Puzzle                   |                    |      | :white_check_mark: |            |        |     |       |
+| Knapsack Problem                     | :white_check_mark: |      |                    |            |        |     |       |
+| Largest Sum Contiguous Subarray      |                    |      |                    |            |        |     |       |
+| m Coloring Problem                   |                    |      |                    |            |        |     |       |
+| Pascal’s Triangle                    |                    |      |                    |            |        |     |       |
+| Matrix Chain Multiplication          | :white_check_mark: |      |                    |            |        |     |       |
+| Maximum sum rectangle in a 2D matrix |                    |      |                    |            |        |     |       |
+| Min Cost Path                        |                    |      |                    |            |        |     |       |
+| Rod Cutting                          | :white_check_mark: |      |                    |            |        |     |       |
+| Partition problem                    |                    |      |                    |            |        |     |       |
+| Subset Sum                           |                    |      | :white_check_mark: |            |        |     |       |
+| Tiling Problem                       |                    |      |                    |            |        |     |       |
+| The Knight’s tour problem            |                    |      |                    |            |        |     |       |
+| Three Sum                            |                    |      |                    |            |        |     |       |
+| Two Sum                              | :white_check_mark: |      |                    |            |        |     |       |
+| Variations of LIS                    |                    |      |                    |            |        |     |       |
+| Word Wrap Problem                    |                    |      |                    |            |        |     |       |
 
 ## Data Structures Implementations.
 
