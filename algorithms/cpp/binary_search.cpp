@@ -1,44 +1,62 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
-//funtion to search any element present in the given array.
-bool binarySearch(int arr[], int n, int x) {
-    //two pointers left and right which would come closer to the element to find.
-    int left = 0, right = n-1, middle;
+// Function for binary search that returns index if element is found otherwise returns -1
+int BinarySearch(int array[], int length, int key)
+{
+    int high = length - 1;
+    int low = 0;
+    if (low <= high)
+    {
+        while (low <= high)
+        {
+            int mid = (low + high) / 2;
 
-    while(left <= right) {
-        //to check only the middle indexed element in the given array.
-        middle = (left + right) / 2;
-        if(arr[middle] == x) {
-            return true;
-        }else if(arr[middle] > x) {
-            right = middle - 1;
-        }else {
-            left = middle + 1;
+            if (key == array[mid])
+            {
+                return mid;
+            }
+            else if (key < array[mid])
+            {
+                high = mid - 1;
+            }
+            else
+            {
+                low = mid + 1;
+            }
         }
     }
-    //return false finally when there is no element x present in the given array.
-    return false;
+
+    return -1;
 }
 
-int main() {
-    //Example array...
-    int arr[] = {5, 10, 30, 37, 99, 239, 274, 590, 874, 1023};
-    int n = sizeof(arr) / sizeof(arr[0]), q;
-    //asking the user to provide the number of queries to do in the above array.
-    cout << "Enter number of queries: ";
-    cin >> q;
-    for(int i = 0; i < q; ++i) {
-        int x;
-        //element input by user
-        cout << "Enter number to search: ";
-        cin >> x;
-        //checking wheter it is present in the array-arr
-        if(binarySearch(arr, n, x)) {
-            cout << x << " is present in the array.\n";
-        }else {
-            cout << x << " is not present in the array.\n";
-        }
+int main()
+{
+    int n;
+
+    cout << "Enter the length of the Array : " << endl;
+    cin >> n;
+    int A[n];
+
+    cout << "Enter " << n << " elements : " << endl;
+    for (int i = 0; i < n; i++)
+    {
+        cin >> A[i];
     }
+
+    cout << "Enter the element to be searched : " << endl;
+    int key;
+    cin >> key;
+    int index = BinarySearch(A, n, key);
+
+    if (index != -1)
+    {
+        cout << "Element " << key << " found at index " << index << endl;
+    }
+    else
+    {
+        cout << "Element not found." << endl;
+    }
+
     return 0;
 }
