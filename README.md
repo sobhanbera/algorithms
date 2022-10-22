@@ -296,31 +296,31 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 ## Some CP Question
 
-| Questions                            |        CPP         | Java |       Python       | JavaScript | Golang | C#  | Other |
-| :----------------------------------- | :----------------: | :--: | :----------------: | :--------: | :----- | :-: | :---: |
-| Binomial Coefficient                 |                    |      |                    |            |        |     |       |
-| Bellman–Ford Algorithm               |                    |      |                    |            |        |     |       |
-| Coin Change                          |                    |      |                    |            |        |     |       |
-| Count ways to reach the n’th stair   |                    |      |                    |            |        |     |       |
-| Cutting a Rod                        |                    |      |                    |            |        |     |       |
-| Edit Distance                        | :white_check_mark: |      |                    |            |        |     |       |
-| Egg Droping Puzzle                   |                    |      | :white_check_mark: |            |        |     |       |
-| Knapsack Problem                     | :white_check_mark: |      |                    |            |        |     |       |
-| Largest Sum Contiguous Subarray      |                    |      |                    |            |        |     |       |
-| m Coloring Problem                   |                    |      |                    |            |        |     |       |
-| Pascal’s Triangle                    |                    |      |                    |            |        |     |       |
-| Matrix Chain Multiplication          | :white_check_mark: |      |                    |            |        |     |       |
-| Maximum sum rectangle in a 2D matrix |                    |      |                    |            |        |     |       |
-| Min Cost Path                        |                    |      |                    |            |        |     |       |
-| Rod Cutting                          | :white_check_mark: |      |                    |            |        |     |       |
-| Partition problem                    |                    |      |                    |            |        |     |       |
-| Subset Sum                           |                    |      | :white_check_mark: |            |        |     |       |
-| Tiling Problem                       |                    |      |                    |            |        |     |       |
-| The Knight’s tour problem            |                    |      |                    |            |        |     |       |
-| Three Sum                            |                    |      |                    |            |        |     |       |
-| Two Sum                              | :white_check_mark: |      |                    |            |        |     |       |
-| Variations of LIS                    |                    |      |                    |            |        |     |       |
-| Word Wrap Problem                    |                    |      |                    |            |        |     |       |
+| Questions                            |        CPP         |        Java        |       Python       | JavaScript | Golang | C#  | Other |
+| :----------------------------------- | :----------------: | :----------------: | :----------------: | :--------: | :----- | :-: | :---: |
+| Binomial Coefficient                 |                    |                    |                    |            |        |     |       |
+| Bellman–Ford Algorithm               |                    |                    |                    |            |        |     |       |
+| Coin Change                          |                    | :white_check_mark: |                    |            |        |     |       |
+| Count ways to reach the n’th stair   |                    |                    |                    |            |        |     |       |
+| Cutting a Rod                        |                    |                    |                    |            |        |     |       |
+| Edit Distance                        | :white_check_mark: |                    |                    |            |        |     |       |
+| Egg Droping Puzzle                   |                    |                    | :white_check_mark: |            |        |     |       |
+| Knapsack Problem                     | :white_check_mark: |                    |                    |            |        |     |       |
+| Largest Sum Contiguous Subarray      |                    |                    |                    |            |        |     |       |
+| m Coloring Problem                   |                    |                    |                    |            |        |     |       |
+| Pascal’s Triangle                    |                    |                    |                    |            |        |     |       |
+| Matrix Chain Multiplication          | :white_check_mark: |                    |                    |            |        |     |       |
+| Maximum sum rectangle in a 2D matrix |                    |                    |                    |            |        |     |       |
+| Min Cost Path                        |                    |                    |                    |            |        |     |       |
+| Rod Cutting                          | :white_check_mark: |                    |                    |            |        |     |       |
+| Partition problem                    |                    |                    |                    |            |        |     |       |
+| Subset Sum                           |                    |                    | :white_check_mark: |            |        |     |       |
+| Tiling Problem                       |                    |                    |                    |            |        |     |       |
+| The Knight’s tour problem            |                    |                    |                    |            |        |     |       |
+| Three Sum                            |                    |                    |                    |            |        |     |       |
+| Two Sum                              | :white_check_mark: | :white_check_mark: |                    |            |        |     |       |
+| Variations of LIS                    |                    |                    |                    |            |        |     |       |
+| Word Wrap Problem                    |                    |                    |                    |            |        |     |       |
 
 ## Data Structures Implementations.
 
