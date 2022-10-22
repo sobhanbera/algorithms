@@ -112,148 +112,147 @@ You can contribute to any open source project hosted on Github.com and contribut
 ├── LICENSE
 ├── README.md
 ├── algorithms
-│   ├── c-sharp
-│   │   └── algorithmsInfo.md
-│   ├── cpp
-│   │   ├── algorithmsInfo.md
-│   │   ├── bfs.cpp
-│   │   ├── bfs_modified.cpp
-│   │   ├── binary_search.cpp
-│   │   ├── bogo_sort.cpp
-│   │   ├── bubble_sort.cpp
-│   │   ├── dft.cpp
-│   │   ├── dijkstra.cpp
-│   │   ├── heap_sort.cpp
-│   │   ├── insertion_sort.cpp
-│   │   ├── kadane's_algorithm.cpp
-│   │   ├── krushkal's_minimum_spanning_tree.cpp
-│   │   ├── linear_search.cpp
-│   │   ├── longest_increasing_subsequence.cpp
-│   │   ├── longest_palindrome_substring.cpp
-│   │   ├── max_xor_pair_trie.cpp
-│   │   ├── merge_sort.cpp
-│   │   ├── next_greater_in_o(n).cpp
-│   │   ├── quick_sort.cpp
-│   │   ├── selection_sort.cpp
-│   │   └── sieve_of_eratosthenes.cpp
-│   ├── haskell
-│   │   └── maths
-│   │       └── fibonacci.hs
-│   ├── java
-│   │   ├── algorithmsInfo.md
-│   │   ├── amstrong.java
-│   │   ├── binary_search.java
-│   │   ├── breadth_first_search.java
-│   │   ├── bst
-│   │   │   ├── bst.java
-│   │   │   ├── bst_node.java
-│   │   │   └── bstree.java
-│   │   ├── bubble_sort.java
-│   │   ├── coin_change.java
-│   │   ├── counting_sort.java
-│   │   ├── dfs.java
-│   │   ├── dijkstra's_algorithm.java
-│   │   ├── factorial.java
-│   │   ├── huffman_coding.java
-│   │   ├── insertion_sort.java
-│   │   ├── interpolation_sort.java
-│   │   ├── kadane's_algorithm.java
-│   │   ├── krushkal's_algorithm.java
-│   │   └── quick_sort.java
-│   ├── javascript
-│   │   ├── algorithmsInfo.md
-│   │   ├── bst.js
-│   │   ├── bubble_sort.js
-│   │   ├── bubble_sort_visualized.js
-│   │   ├── counting_sort.js
-│   │   └── linear_search.js
-│   ├── other
-│   │   ├── algorithmsInfo.md
-│   │   └── typescript
-│   │       ├── bogo_sort.ts
-│   │       ├── counting_sort.ts
-│   │       └── merge_sort.ts
-│   └── python
-│       ├── algorithmsInfo.md
-│       ├── binary_search.py
-│       ├── bogo_sort.py
-│       ├── breadth_first_search.py
-│       ├── bubble_sort.py
-│       ├── dijkstra's_algorithm.py
-│       ├── heap_sort.py
-│       ├── insertion_sort.py
-│       ├── kadane's_algorithm.py
-│       ├── krushal's_minimum_spanning_tree.py
-│       ├── linear_search.py
-│       ├── merge_sort.py
-│       └── quick_sort.py
+│   ├── c-sharp
+│   │   └── algorithmsInfo.md
+│   ├── cpp
+│   │   ├── algorithmsInfo.md
+│   │   ├── bfs.cpp
+│   │   ├── bfs_modified.cpp
+│   │   ├── binary_search.cpp
+│   │   ├── bogo_sort.cpp
+│   │   ├── bubble_sort.cpp
+│   │   ├── dft.cpp
+│   │   ├── dijkstra's_algorithm.cpp
+│   │   ├── heap_sort.cpp
+│   │   ├── insertion_sort.cpp
+│   │   ├── kadane's_algorithm.cpp
+│   │   ├── krushkal's_minimum_spanning_tree.cpp
+│   │   ├── linear_search.cpp
+│   │   ├── longest_increasing_subsequence.cpp
+│   │   ├── longest_palindrome_substring.cpp
+│   │   ├── max_xor_pair_trie.cpp
+│   │   ├── merge_sort.cpp
+│   │   ├── next_greater_in_o(n).cpp
+│   │   ├── quick_sort.cpp
+│   │   ├── selection_sort.cpp
+│   │   └── sieve_of_eratosthenes.cpp
+│   ├── haskell
+│   │   └── maths
+│   │       └── fibonacci.hs
+│   ├── java
+│   │   ├── algorithmsInfo.md
+│   │   ├── amstrong.java
+│   │   ├── binary_search.java
+│   │   ├── breadth_first_search.java
+│   │   ├── bst
+│   │   │   ├── bst.java
+│   │   │   ├── bst_node.java
+│   │   │   └── bstree.java
+│   │   ├── bubble_sort.java
+│   │   ├── counting_sort.java
+│   │   ├── dfs.java
+│   │   ├── dijkstra's_algorithm.java
+│   │   ├── factorial.java
+│   │   ├── huffman_coding.java
+│   │   ├── insertion_sort.java
+│   │   ├── interpolation_sort.java
+│   │   ├── kadane's_algorithm.java
+│   │   ├── krushkal's_algorithm.java
+│   │   └── quick_sort.java
+│   ├── javascript
+│   │   ├── algorithmsInfo.md
+│   │   ├── bubble_sort.js
+│   │   ├── bubble_sort_visualized.js
+│   │   ├── counting_sort.js
+│   │   └── linear_search.js
+│   ├── other
+│   │   ├── algorithmsInfo.md
+│   │   └── typescript
+│   │       ├── bogo_sort.ts
+│   │       ├── counting_sort.ts
+│   │       └── merge_sort.ts
+│   └── python
+│       ├── algorithmsInfo.md
+│       ├── binary_search.py
+│       ├── bogo_sort.py
+│       ├── breadth_first_search.py
+│       ├── bubble_sort.py
+│       ├── dijkstra's_algorithm.py
+│       ├── heap_sort.py
+│       ├── insertion_sort.py
+│       ├── kadane's_algorithm.py
+│       ├── krushal's_minimum_spanning_tree.py
+│       ├── linear_search.py
+│       ├── merge_sort.py
+│       └── quick_sort.py
 ├── data structures
-│   ├── c-sharp
-│   │   └── dsInfo.md
-│   ├── cpp
-│   │   ├── bst in c++
-│   │   ├── bst.cpp
-│   │   ├── doubly_linked_list.cpp
-│   │   ├── dsInfo.md
-│   │   ├── heap.cpp
-│   │   ├── linkedlist.cpp
-│   │   ├── trie.cpp
-│   │   └── union_find_disjoint_sets.cpp
-│   ├── java
-│   │   ├── bst.java
-│   │   ├── dsInfo.md
-│   │   ├── dynamic_list.java
-│   │   └── queue_using_stack.java
-│   ├── javascript
-│   │   └── dsInfo.md
-│   ├── other
-│   │   └── dsInfo.md
-│   └── python
-│       └── dsInfo.md
+│   ├── c-sharp
+│   │   └── dsInfo.md
+│   ├── cpp
+│   │   ├── bst.cpp
+│   │   ├── doubly_linked_list.cpp
+│   │   ├── dsInfo.md
+│   │   ├── heap.cpp
+│   │   ├── linkedlist.cpp
+│   │   ├── trie.cpp
+│   │   └── union_find_disjoint_sets.cpp
+│   ├── java
+│   │   ├── bst.java
+│   │   ├── dsInfo.md
+│   │   ├── dynamic_list.java
+│   │   └── queue_using_stack.java
+│   ├── javascript
+│   │   ├── bst.js
+│   │   └── dsInfo.md
+│   ├── other
+│   │   └── dsInfo.md
+│   └── python
+│       └── dsInfo.md
 ├── docs
-│   └── CONTRIBUTING.md
+│   └── CONTRIBUTING.md
 ├── hacktoberfest.gif
 ├── hacktoberfest2020.svg
 ├── others
-│   ├── hang_man_sy.py
-│   ├── pythonSMTP_Skeleton.py
-│   └── snake_game.py
+│   ├── hang_man_sy.py
+│   ├── pythonSMTP_Skeleton.py
+│   └── snake_game.py
 ├── questions
-│   ├── c-sharp
-│   │   └── queInfo.md
-│   ├── cpp
-│   │   ├── all_sol_of_n_queen.cpp
-│   │   ├── edit_distance.cpp
-│   │   ├── knapsack.cpp
-│   │   ├── knapsack_with_large_weight.cpp
-│   │   ├── knight_tour_backtracking.cpp
-│   │   ├── matrix_chain_mult.cpp
-│   │   ├── n_queen.cpp
-│   │   ├── queInfo.md
-│   │   ├── rod_cutting_prob.cpp
-│   │   ├── sub_matrix_with_all_1s.cpp
-│   │   └── two_sum.cpp
-│   ├── java
-│   │   └── queInfo.md
-│   ├── javascript
-│   │   └── queInfo.md
-│   ├── other
-│   │   └── queInfo.md
-│   └── python
-│       ├── coin_change1.py
-│       ├── coin_change2.py
-│       ├── egg_dropping.py
-│       ├── queInfo.md
-│       └── subset.py
+│   ├── c-sharp
+│   │   └── queInfo.md
+│   ├── cpp
+│   │   ├── all_sol_of_n_queen.cpp
+│   │   ├── edit_distance.cpp
+│   │   ├── knapsack.cpp
+│   │   ├── knapsack_with_large_weight.cpp
+│   │   ├── knight_tour_backtracking.cpp
+│   │   ├── matrix_chain_mult.cpp
+│   │   ├── n_queen.cpp
+│   │   ├── queInfo.md
+│   │   ├── rod_cutting_prob.cpp
+│   │   ├── sub_matrix_with_all_1s.cpp
+│   │   └── two_sum.cpp
+│   ├── java
+│   │   ├── coin_change.java
+│   │   └── queInfo.md
+│   ├── javascript
+│   │   └── queInfo.md
+│   ├── other
+│   │   └── queInfo.md
+│   └── python
+│       ├── coin_change1.py
+│       ├── coin_change2.py
+│       ├── egg_dropping.py
+│       ├── queInfo.md
+│       └── subset.py
 └── templates
     ├── cpp
-    │   └── templateHelp.md
+    │   └── templateHelp.md
     ├── java
-    │   └── templateHelp.md
+    │   └── templateHelp.md
     ├── other
-    │   └── templateHelp.md
+    │   └── templateHelp.md
     ├── python
-    │   └── templateHelp.md
+    │   └── templateHelp.md
     └── templateHelp.md
 ```
 
@@ -269,16 +268,16 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Algorithm                                 | CPP | Java | Python | JavaScript | Golang | C#  | Other |
 | :---------------------------------------- | :-: | :--: | :----: | :--------: | :----- | :-: | :---: |
 | Binary Search                             |  ✔  |  ✔   |   ✔    |            |        |     |       |
-| Bogo Sort                                 |  ✔  |      |        |            |        |     | TS ✔  |
-| Breadth First Search                      |     |  ✔   |   ✔    |            |        |     |       |
-| Breadth First Traversal                   |     |  ✔   |        |            |        |     |       |
+| Bogo Sort                                 |  ✔  |      |   ✔    |            |        |     | TS ✔  |
+| Breadth First Search                      |  ✔  |  ✔   |   ✔    |            |        |     |       |
+| Breadth First Traversal                   |     |      |   ✔    |            |        |     |       |
 | Bubble sort                               |  ✔  |  ✔   |   ✔    |     ✔      |        |     |       |
 | Counting Sort                             |     |  ✔   |        |     ✔      |        |     | TS ✔  |
 | Depth First Search                        |     |  ✔   |        |            |        |     |       |
 | Depth First Traversal                     |  ✔  |      |        |            |        |     |       |
-| Dijkstra Algorithm                        |     |  ✔   |   ✔    |            |        |     |       |
+| Dijkstra Algorithm                        |  ✔  |  ✔   |   ✔    |            |        |     |       |
 | Finite Automata                           |     |      |        |            |        |     |       |
-| Heap Sort                                 |  ✔  |      |        |            |        |     |       |
+| Heap Sort                                 |  ✔  |      |   ✔    |            |        |     |       |
 | Huffman Coding                            |     |  ✔   |        |            |        |     |       |
 | Insertion Sort                            |  ✔  |  ✔   |   ✔    |            |        |     |       |
 | Interpolation Search                      |     |  ✔   |        |            |        |     |       |
@@ -293,7 +292,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Longest Palindromic Substring             |  ✔  |      |        |            |        |     |       |
 | Merge Sort                                |  ✔  |      |   ✔    |            |        |     | TS ✔  |
 | Naive Search                              |     |      |        |            |        |     |       |
-| Quick Sort                                |  ✔  |  ✔   |        |            |        |     |       |
+| Quick Sort                                |  ✔  |  ✔   |   ✔    |            |        |     |       |
 | Radix Sort                                |     |      |        |            |        |     |       |
 | Selection Sort                            |  ✔  |      |        |            |        |     |       |
 | Sieve of Eratosthenes                     |  ✔  |      |        |            |        |     |       |
@@ -330,19 +329,19 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 ## Data Structures Implementations.
 
-| Data Structure     |        CPP         |        Java        | Python | JavaScript | Golang | C#  | Other |
-| :----------------- | :----------------: | :----------------: | :----: | :--------: | :----- | :-: | :---: |
-| AVL Tree           |                    |                    |        |            |        |     |       |
-| Binary Search Tree | :white_check_mark: | :white_check_mark: |        |            |        |     |       |
-| Binary Tree        |                    |                    |        |            |        |     |       |
-| Doubly Linked List |                    |                    |        |            |        |     |       |
-| Graph              |                    |                    |        |            |        |     |       |
-| Heap               | :white_check_mark: |                    |        |            |        |     |       |
-| Linked List        | :white_check_mark: |                    |        |            |        |     |       |
-| Queue              |                    |                    |        |            |        |     |       |
-| Stack              |                    | :white_check_mark: |        |            |        |     |       |
-| Trie               | :white_check_mark: |                    |        |            |        |     |       |
-| DSU                | :white_check_mark: |                    |        |            |        |     |       |
+| Data Structure     |        CPP         |        Java        | Python |     JavaScript     | Golang | C#  | Other |
+| :----------------- | :----------------: | :----------------: | :----: | :----------------: | :----- | :-: | :---: |
+| AVL Tree           |                    |                    |        |                    |        |     |       |
+| Binary Search Tree | :white_check_mark: | :white_check_mark: |        | :white_check_mark: |        |     |       |
+| Binary Tree        |                    |                    |        |                    |        |     |       |
+| Doubly Linked List | :white_check_mark: |                    |        |                    |        |     |       |
+| Graph              |                    |                    |        |                    |        |     |       |
+| Heap               | :white_check_mark: |                    |        |                    |        |     |       |
+| Linked List        | :white_check_mark: |                    |        |                    |        |     |       |
+| Queue              |                    | :white_check_mark: |        |                    |        |     |       |
+| Stack              |                    |                    |        |                    |        |     |       |
+| Trie               | :white_check_mark: |                    |        |                    |        |     |       |
+| DSU                | :white_check_mark: |                    |        |                    |        |     |       |
 
 `you can add more algorithms, data-structure and cp problems if you like to in the readme file, after you have been assigned to any issue`
 
@@ -356,5 +355,3 @@ You can contribute to any open source project hosted on Github.com and contribut
 | JavaScript | <pre>node <filename.js></pre>                                      |
 | Golang     | <pre>go run <filename.go></pre>                                    |
 | C#         | <pre>mcs <filename.cs><br/>mono <filename.exe></pre>               |
-
-<!-- [![Run on Repl.it](https://repl.it/badge/github/SobhanBera/algorithms)](https://repl.it/github/SobhanBera/algorithms) -->
