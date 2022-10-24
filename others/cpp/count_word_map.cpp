@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
     unordered_map<string, int> map2; //count the total words
     unordered_map<string, int>::iterator itr;
 
-    string file = "test_countWord_Map.txt";
+    string file = "test_count_word_map.txt";
     fstream myfile;
 
     myfile.open(file);
