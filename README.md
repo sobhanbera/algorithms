@@ -334,7 +334,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Graph              |                    |                    |        |            |        |     |       |
 | Heap               | :white_check_mark: |                    |        |            |        |     |       |
 | Linked List        | :white_check_mark: |                    |        |            |        |     |       |
-| Queue              |                    |                    |        |            |        |     |       |
+| Queue              | :white_check_mark: |                    |        |            |        |     |       |
 | Stack              |                    | :white_check_mark: |        |            |        |     |       |
 | Trie               | :white_check_mark: |                    |        |            |        |     |       |
 | DSU                | :white_check_mark: |                    |        |            |        |     |       |
