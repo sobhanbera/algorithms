@@ -289,7 +289,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Naive Search                              |                    |                    |                    |                    |                    |        |     |                       |
 | Quick Sort                                |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
 | Radix Sort                                |                    |                    |                    |                    |                    |        |     |                       |
-| Selection Sort                            |                    | :white_check_mark: |                    |                    |                    |        |     |                       |
+| Selection Sort                            |                    | :white_check_mark: |                    | :white_check_mark: |                    |        |     |                       |
 | Sieve of Eratosthenes                     |                    | :white_check_mark: |                    |                    |                    |        |     |                       |
 | Suffix Array                              |                    |                    |                    |                    |                    |        |     |                       |
 | Shell Sort                                |                    |                    |                    |                    |                    |        |     |                       |
