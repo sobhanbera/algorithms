@@ -260,39 +260,39 @@ You can contribute to any open source project hosted on Github.com and contribut
 
 ## Implemented Algorithms
 
-| Algorithm                                 |         C          |        CPP         |        Java        |       Python       |     JavaScript     | Golang | C#  |         Other         |
-| :---------------------------------------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----- | :-: | :-------------------: |
-| Binary Search                             | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
-| Bogo Sort                                 |                    | :white_check_mark: |                    | :white_check_mark: |                    |        |     | TS :white_check_mark: |
-| Breadth First Search                      |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
-| Breadth First Traversal                   |                    |                    |                    | :white_check_mark: |                    |        |     |                       |
-| Bubble sort                               | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |        |     |                       |
-| Counting Sort                             |                    |                    | :white_check_mark: |                    | :white_check_mark: |        |     | TS :white_check_mark: |
-| Depth First Search                        |                    |                    | :white_check_mark: |                    |                    |        |     |                       |
-| Depth First Traversal                     |                    | :white_check_mark: |                    |                    |                    |        |     |                       |
-| Dijkstra Algorithm                        |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
-| Finite Automata                           |                    |                    |                    |                    |                    |        |     |                       |
-| Heap Sort                                 |                    | :white_check_mark: |                    | :white_check_mark: |                    |        |     |                       |
-| Huffman Coding                            |                    |                    | :white_check_mark: |                    |                    |        |     |                       |
-| Insertion Sort                            | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
-| Interpolation Search                      |                    |                    | :white_check_mark: |                    |                    |        |     |                       |
-| K-NN                                      |                    |                    |                    |                    |                    |        |     |                       |
-| K Centers Problem                         |                    |                    |                    |                    |                    |        |     |                       |
-| Kadane's Algorithms                       |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
-| KMP Algorithm                             |                    |                    |                    |                    |                    |        |     |                       |
-| Kruskal’s Minimum Spanning Tree Algorithm |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
-| Linear Search                             |                    | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |        |     |                       |
-| Longest Common Subsequence                |                    |                    |                    |                    |                    |        |     |                       |
-| Longest Increasing Subsequence            |                    | :white_check_mark: |                    |                    |                    |        |     |                       |
-| Longest Palindromic Substring             |                    | :white_check_mark: |                    |                    |                    |        |     |                       |
-| Merge Sort                                | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: |                    |        |     | TS :white_check_mark: |
-| Naive Search                              |                    |                    |                    |                    |                    |        |     |                       |
-| Quick Sort                                |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
-| Radix Sort                                |                    |                    |                    |                    |                    |        |     |                       |
-| Selection Sort                            |                    | :white_check_mark: |                    | :white_check_mark: |                    |        |     |                       |
-| Sieve of Eratosthenes                     |                    | :white_check_mark: |                    |                    |                    |        |     |                       |
-| Suffix Array                              |                    |                    |                    |                    |                    |        |     |                       |
-| Shell Sort                                |                    |                    |                    |                    |                    |        |     |                       |
+| Algorithm                                 |         C          |        CPP         |        Java        |       Python       |     JavaScript     | Golang            | C#                 |         Other                               |
+| :---------------------------------------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :---------------: | :----------------: | :------------------------------------------:|
+| Binary Search                             | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark:  | :white_check_mark:| :white_check_mark: | TS :white_check_mark: KT :white_check_mark: |
+| Bogo Sort                                 |                    | :white_check_mark: |                    | :white_check_mark: |                    |                   |                    | TS :white_check_mark:                       |
+| Breadth First Search                      |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                   |                    |                                             |
+| Breadth First Traversal                   |                    |                    |                    | :white_check_mark: |                    |                   |                    |                                             |
+| Bubble sort                               | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                   |                    |                                             |
+| Counting Sort                             |                    |                    | :white_check_mark: |                    | :white_check_mark: |                   |                    | TS :white_check_mark:                       |
+| Depth First Search                        |                    |                    | :white_check_mark: |                    |                    |                   |                    |                                             |
+| Depth First Traversal                     |                    | :white_check_mark: |                    |                    |                    |                   |                    |                                             |
+| Dijkstra Algorithm                        |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                   |                    |                                             |
+| Finite Automata                           |                    |                    |                    |                    |                    |                   |                    |                                             |
+| Heap Sort                                 |                    | :white_check_mark: |                    | :white_check_mark: |                    |                   |                    |                                             |
+| Huffman Coding                            |                    |                    | :white_check_mark: |                    |                    |                   |                    |                                             |
+| Insertion Sort                            | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                   |                    |                                             |
+| Interpolation Search                      |                    |                    | :white_check_mark: |                    |                    |                   |                    |                                             |
+| K-NN                                      |                    |                    |                    |                    |                    |                   |                    |                                             |
+| K Centers Problem                         |                    |                    |                    |                    |                    |                   |                    |                                             |
+| Kadane's Algorithms                       |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                   |                    |                                             |
+| KMP Algorithm                             |                    |                    |                    |                    |                    |                   |                    |                                             |
+| Kruskal’s Minimum Spanning Tree Algorithm |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                   |                    |                                             |
+| Linear Search                             |                    | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |                   |                    |                                             |
+| Longest Common Subsequence                |                    |                    |                    |                    |                    |                   |                    |                                             |
+| Longest Increasing Subsequence            |                    | :white_check_mark: |                    |                    |                    |                   |                    |                                             |
+| Longest Palindromic Substring             |                    | :white_check_mark: |                    |                    |                    |                   |                    |                                             |
+| Merge Sort                                | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: |                    |                   |                    | TS :white_check_mark:                       |
+| Naive Search                              |                    |                    |                    |                    |                    |                   |                    |                                             |
+| Quick Sort                                |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                   |                    |                                             |
+| Radix Sort                                |                    |                    |                    |                    |                    |                   |                    |                                             |
+| Selection Sort                            |                    | :white_check_mark: |                    | :white_check_mark: |                    |                   |                    |                                             |
+| Sieve of Eratosthenes                     |                    | :white_check_mark: |                    |                    |                    |                   |                    |                                             |
+| Suffix Array                              |                    |                    |                    |                    |                    |                   |                    |                                             |
+| Shell Sort                                |                    | :white_check_mark: |                    |                    |                    |                   |                    |                                             |
 
 ## Some CP Question
 
