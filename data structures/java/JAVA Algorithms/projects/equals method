@@ -1,0 +1,33 @@
+
+
+//remember in this programe i not used funcation for the equal
+class hardik
+{
+    String car;
+    int speed;
+
+    hardik(String a,int b)
+    {
+        this.car=a;
+        this.speed=b;
+    }
+
+}
+public class equals {
+
+    public static void main(String[] args)
+    {
+        //this statement give the default false value because we are take object within the same class
+
+        //all the value are the same
+//        hardik obj1= new hardik("charger",230);
+//        hardik obj2= new hardik("charger",230);
+
+        //value is different
+
+        hardik obj1= new hardik("mustang",230);
+        hardik obj2= new hardik("charger",230);
+
+        System.out.println(obj1.equals(obj2));
+    }
+}

@@ -1,0 +1,23 @@
+
+//if return type same and signature is different means that overloading method
+class b
+{
+    void k(int j)
+    {
+
+    }
+}
+class a extends b{
+    void k(double i)
+    {
+        System.out.println(i);
+    }
+}
+public class ridlod {
+
+    public static void main(String[] args)
+    {
+        a obj1=new a();
+        obj1.k(12.2);
+    }
+}

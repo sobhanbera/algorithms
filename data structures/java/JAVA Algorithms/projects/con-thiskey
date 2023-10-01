@@ -1,0 +1,67 @@
+class cars
+{
+    public int a;
+    public String b;
+    public double c;
+
+    public cars()
+    {
+        this(12,"Ajitkumar",23.5);
+    }
+
+    public cars(int c)
+    {
+        this(c,"vaghela",12.5);
+    }
+
+    public cars(int c,String h)
+    {
+        this(c,h,65.2);
+    }
+
+    public cars(int x,String y,double z)
+    {
+        this.a=x;
+        this.b=y;
+        this.c=z;
+    }
+}
+public class conthis {
+
+    public static void main(String[] args)
+    {
+         cars obj1=new cars();
+
+         System.out.println("\nfirst constructor is call\n");
+         System.out.println(obj1.a);
+        System.out.println(obj1.b);
+        System.out.println(obj1.c);
+
+        System.out.println("\nsecond constructor is call\n");
+
+        cars obj2=new cars(14);
+
+        System.out.println(obj2.a);
+        System.out.println(obj2.b);
+        System.out.println(obj2.c);
+
+        System.out.println("\nthird constructor is call\n");
+
+        cars obj3=new cars(14,"Annex4u");
+
+        System.out.println(obj3.a);
+        System.out.println(obj3.b);
+        System.out.println(obj3.c);
+
+        System.out.println("\nfourth constructor is call\n");
+
+        cars obj4=new cars(160,"hardik",20.20);
+
+        System.out.println(obj4.a);
+        System.out.println(obj4.b);
+        System.out.println(obj4.c);
+
+
+    }
+
+}

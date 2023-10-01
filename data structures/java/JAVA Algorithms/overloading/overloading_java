@@ -1,0 +1,48 @@
+
+
+class i1
+{
+     void hello(String s)
+    {
+        System.out.println(s);
+    }
+}
+
+class j1 extends i1{
+     void hello(String s)
+    {
+        super.hello(s);
+        System.out.println(s);
+    }
+}
+
+class k1 extends j1{
+     void hello(String s)
+    {
+        super.hello(s);
+        System.out.println(s);
+    }
+}
+
+public class overload {
+
+    public static void main(String[] args)
+    {
+        //referance and instace both are same i1
+
+        i1 obj1=new i1();
+       // obj1.hello("vaghela ajitkumar");
+
+        //object same just change the  instance is j1
+
+        //obj1=new j1();
+       // obj1.hello("vaghela ajitkumar");
+
+        //object same just change the instance is k1
+
+        obj1=new k1();
+        obj1.hello("goverment engineering collage rajkot");
+
+
+    }
+}

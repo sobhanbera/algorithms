@@ -1,0 +1,23 @@
+
+//in this we can store the value in the wrapper class
+public class wrapperstr {
+
+    public static void main(String[] args)
+    {
+        Integer obj=5;
+        System.out.println("the Integer obj value it is ="+obj);
+
+        System.out.println("max value is the = "+Integer.MAX_VALUE);
+        System.out.println("the min value is the =  "+Integer.MIN_VALUE);
+
+        int i=Integer.parseInt("11");
+        System.out.println("parse int is = "+i);
+        System.out.println("to binary value is = "+Integer.toBinaryString(i));
+        Integer obj2=Integer.valueOf("123");
+        System.out.println("value of the obj2 ="+obj2);
+
+        Float j=obj2.floatValue();
+        System.out.println("j = "+j);
+
+    }
+}

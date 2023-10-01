@@ -1,0 +1,27 @@
+import java.util.Scanner;
+public class practice {
+
+     public static int aj(int b)
+    {
+        if(b>=1) {
+            return b * aj(b - 1);
+        }
+        else
+        {
+            return 1;
+        }
+    }
+
+    public static void main(String[] args)
+    {
+        Scanner sc=new Scanner(System.in);
+        int a;
+        System.out.println("enter the number");
+        a=sc.nextInt();
+       int t=aj(a);
+       System.out.println(t);
+        }
+
+
+
+    }

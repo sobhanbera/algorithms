@@ -1,0 +1,49 @@
+
+//programme for how to use the toString method in java class
+//in this we use directly use public string tostring method or we can use object string and integer
+class hostel
+{
+    String name;
+    int no;
+
+    hostel(String a,int b)
+    {
+        this.name=a;
+        this.no=b;
+    }
+
+   public String toString()
+    {
+        return "your name is this "+name+" your roll number is this "+no;
+    }
+
+
+}
+
+public class Tostri {
+
+    public static void main(String[] args)
+    {
+
+        hostel obj1= new hostel("vaghela Ajitkumar",45);
+
+        System.out.println(obj1);
+        
+        //when we don't specify the string method its gives output like
+//        its output like com.company.hostel@65ab7765
+        
+//        after the specify the method its gives correct output
+        System.out.println(obj1);
+        //or
+//       System.out.println(obj1.toString());
+       
+       //wrapper class through
+        String s1= new String("suffer is good but there is one confaction from my side");
+
+        System.out.println(s1);
+
+     Integer k1 =new Integer(13);
+//
+        System.out.println(k1);
+    }
+}

@@ -1,0 +1,235 @@
+
+class simplegeo
+{
+    private String colour="white";
+  //  private java.util.Date dlcrated;
+    private boolean filled;
+
+
+    public simplegeo(boolean f){
+
+        this.filled=true;
+
+    }
+
+
+   /* public simplegeo(String k)
+    {
+        this.colour=k;
+    }*/
+
+    public boolean getbol()
+    {
+        return filled;
+    }
+
+    public void setbol(boolean s)
+    {
+        this.filled=s;
+    }
+
+    public String getString()
+    {
+        return colour;
+    }
+    public void setstring(String s)
+    {
+        this.colour=s;
+    }
+
+
+   /* public void setdate(java.util.Date d)
+    {
+        this.dlcrated=d;
+    }
+   public java.util.Date getdate()
+    {
+        return dlcrated;
+    }*/
+
+}
+
+class circle extends simplegeo
+{
+
+    private double radius;
+
+    public circle(boolean f,int r){
+        super(f);
+        this.radius=r;
+
+    }
+
+    public double getrad()
+    {
+        return radius;
+    }
+
+    public void setrad(double a)
+    {
+        this.radius=a;
+    }
+
+    public double rarea()
+    {
+        return (radius*radius)*3.14;
+    }
+
+    public double rperi()
+    {
+        return 2*radius;
+    }
+}
+
+class rectangle extends simplegeo
+{
+    private int length;
+    private int width;
+
+    public rectangle(boolean f,int l,int w)
+    {
+        super(f);
+        this.length=l;
+        this.width=w;
+
+    }
+
+    public int getlength()
+    {
+        return length;
+    }
+
+    public void setlength(int x)
+    {
+        this.length=x;
+    }
+
+    public int getwidth()
+    {
+        return width;
+    }
+
+    public void setwidth(int y)
+    {
+        this.width=y;
+    }
+
+    public int getarea()
+    {
+        return (length*width);
+    }
+
+    public int getperirec()
+    {
+        return 2*(length+width);
+    }
+
+}
+
+class square extends simplegeo
+{
+    private int edge;
+
+    public square(boolean f,int ed)
+    {
+        super(f);
+        this.edge=ed;
+    }
+
+    public int getedge()
+    {
+        return edge;
+    }
+    public void setedeg(int t)
+    {
+        this.edge=t;
+    }
+    public int getsarea()
+    {
+        return edge*edge;
+    }
+    public int getsperi()
+    {
+        return 4*edge;
+    }
+}
+
+
+ class inheritance
+ {
+
+     public static void main(String[] args)
+     {
+         //the main object is call name is simplegeo
+
+         System.out.println("the main class simplegeo \n");
+
+         simplegeo obj1=new simplegeo(false);
+         //obj1.setstring("white");
+         System.out.println("the now colour is "+obj1.getString());
+         //obj1.setdate(31/3/15);
+         //System.out.println("the new date is right now "+obj1.getdate());
+
+        // obj1.setbol(true);
+         System.out.println("now,check the value of the it's filled or not and at least last we get our result "+obj1.getbol());
+
+         System.out.println("\n");
+
+        // --------------------------------
+
+         //the next object is call name is circle
+         System.out.println("the second class circle \n");
+
+         circle obj2=new circle(true,12);
+         //obj2.setrad(5.3);
+         System.out.println("the radius value is currently is "+obj2.getrad());
+         System.out.println("the area of the circle is "+obj2.rarea());
+         System.out.println("the prime is that is "+obj2.rperi());
+
+
+         //obj2.setbol(true);
+         System.out.println("your object is filled or not "+obj2.getbol());
+         obj2.setstring("blue");
+         System.out.println("now, your object is filled with the colour "+obj2.getString());
+
+
+
+         System.out.println("\n");
+
+         //-----------------------------------
+         System.out.println("the third class rectangle \n");
+
+         rectangle obj3 = new rectangle(false,12,14);
+        // obj3.setlength(12);
+         //obj3.setwidth(14);
+
+         System.out.println("the value of the length is "+obj3.getlength());
+         System.out.println("the value of the width is "+obj3.getwidth());
+         System.out.println("the area of this rectangle is "+obj3.getarea());
+         System.out.println("the peri of this rectangle is "+obj3.getperirec());
+
+         obj3.setbol(false);
+         System.out.println("your object is filled or not "+obj3.getbol());
+         //obj2.setstring("blue");
+         System.out.println("now, your object is filled with the colour "+obj3.getString());
+
+         System.out.println("\n");
+         //-----------------------------------
+         System.out.println("the third class rectangle \n");
+
+         square obj4 = new square(false,18);
+        // obj4.setedeg(10);
+         System.out.println("the value of the edge is "+obj4.getedge());
+         System.out.println("the area of this rectangle is "+obj4.getsarea());
+         System.out.println("the peri of this rectangle is "+obj4.getsperi());
+
+         //obj4.setbol(true);
+         System.out.println("your object is filled or not "+obj4.getbol());
+        obj4.setstring("red");
+         System.out.println("now, your object is filled with the colour "+obj4.getString());
+
+
+         System.out.println("\n");
+     }
+}
+
