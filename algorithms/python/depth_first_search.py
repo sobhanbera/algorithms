@@ -28,8 +28,12 @@ def main():
     # Assuming nodes are numbered from 0 to n-1
     # Input edges and add them to the graph.
     for edge in range(m):
-        start, end = map(int, input().split())
-        addEdges(graph, start, end)
+        a=int(input("Enter first node of the edge: "))
+        b=int(input("Enter second node of the edge: "))
+        if (a<0 or a>=n) or (b<0 or b>=n):
+            print("Invalid Input!")
+            return
+        addEdges(graph, a, b)
     
     # Create a set to keep track of visited nodes.
     visited = set()
