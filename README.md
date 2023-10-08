@@ -310,7 +310,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Knapsack Problem                     | :white_check_mark: |                    |                    |            |        |     |       |
 | Largest Sum Contiguous Subarray      |                    |                    |                    |            |        |     |       |
 | m Coloring Problem                   |                    |                    |                    |            |        |     |       |
-| Pascal’s Triangle                    |                    |                    |                    |            |        |     |       |
+| Pascal’s Triangle                    | :white_check_mark: |                    |                    |            |        |     |       |
 | Matrix Chain Multiplication          | :white_check_mark: |                    |                    |            |        |     |       |
 | Maximum sum rectangle in a 2D matrix |                    |                    |                    |            |        |     |       |
 | Min Cost Path                        |                    |                    |                    |            |        |     |       |
