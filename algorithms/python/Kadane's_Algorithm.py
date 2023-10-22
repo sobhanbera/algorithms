@@ -2,7 +2,7 @@
 
 # Given an integer array nums, we find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 
-def maxSubArray(nums: List[int]) -> int:
+def maxSubArray(nums: list[int]) -> int:
     if not nums:
         return 0
     if len(nums)==1:
