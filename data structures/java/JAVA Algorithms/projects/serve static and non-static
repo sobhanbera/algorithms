@@ -1,0 +1,23 @@
+public class oop1 {
+
+    static void raman()
+    {
+        System.out.println("hello world");
+    }
+
+    public void ajit()
+    {
+        System.out.println("my name is khan");
+    }
+
+    public static void main(String[] args)
+    {
+        
+       //to serve static we dont require object
+            raman();
+            // to serve non-static file we require object
+            oop1 obj12=new oop1();
+            obj12.ajit();
+
+    }
+}

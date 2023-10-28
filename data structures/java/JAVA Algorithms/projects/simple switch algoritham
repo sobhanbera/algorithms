@@ -1,0 +1,38 @@
+import java.util.Scanner;
+
+public class test1 {
+    public static void main(String[] args)
+    {
+      while(true)
+     {
+       int x;
+
+          System.out.println("enter the number between 1 to 4");
+          Scanner sc=new Scanner(System.in);
+          x=sc.nextInt();
+
+
+   switch (x)
+   {
+          case 1:
+              System.out.println("sunday");
+              break;
+          case 2:
+              System.out.println("monday");
+              break;
+          case 3:
+              System.out.println("tuseday");
+              break;
+          case 4:
+              System.out.println("wensday");
+              break;
+          default:
+              System.exit(0);
+
+
+   }
+  }
+
+
+    }
+}

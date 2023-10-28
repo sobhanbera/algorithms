@@ -1,0 +1,41 @@
+
+ class person
+{
+    public person()
+    {
+        System.out.println("1. now the time for the person");
+    }
+}
+ class employee extends person{
+
+
+
+     public employee(String c)
+     {
+         System.out.println(c);
+     }
+     public employee()
+     {
+         this("2.uses overloded construction of employee");
+         System.out.println("3. perform duties for employee");
+     }
+
+}
+class faculty extends employee
+{
+    public faculty()
+    {
+        super();
+        System.out.println("4.performs the task for the faculty");
+    }
+}
+
+
+public class conchain {
+
+    public static void main(String[] args)
+    {
+        faculty obj1=new faculty();
+        System.out.println(obj1);
+    }
+}

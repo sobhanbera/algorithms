@@ -1,0 +1,34 @@
+
+//in the string buffer is allow to permission to change its size and content of it
+public class strbuffer {
+
+    public static void main(String[] args)
+    {
+        StringBuffer sb1=new StringBuffer();
+        System.out.println("sb1 capacity is ="+sb1.capacity());
+        StringBuffer sb2=new StringBuffer("test string");
+        System.out.println("the capacity of sb2 is ="+sb2.capacity());
+
+        StringBuffer sb3= new StringBuffer(11);
+        System.out.println("the capacity of the sb3 is "+sb3.capacity());
+
+        sb1.append("another string it is");
+        System.out.println("sb1 is ="+sb1);
+        System.out.println("the sb2 is ="+sb2.append(sb1));
+
+        System.out.println("the length of the sb1 is ="+sb1.length());
+        System.out.println("the length of the sb2 is ="+sb2.length());
+
+        System.out.println("sb1 insert at index at 3 ="+sb1.insert(3,false));
+        System.out.println("sb1 capacity is ="+sb1.capacity());
+        System.out.println("the reverse of the sb1 is =" +sb1.reverse());
+        System.out.println("the original sb1 is = "+sb1.reverse());
+
+        sb1.setCharAt(3,'A');
+
+        System.out.println("sb1 set char at index 3 = "+sb1);
+        sb3.setLength(27);
+
+        System.out.println("now the capacity of the sb1 is ="+sb1.capacity());
+    }
+}

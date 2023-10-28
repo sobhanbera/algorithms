@@ -1,0 +1,23 @@
+//basic constructor programme
+//it is use to define the value
+
+
+
+
+public class oop1 {
+
+    int x;
+
+    public oop1(int y)
+    {
+        x=y;
+    }
+
+    public static void main(String[] args)
+    {
+
+        oop1 obj13=new oop1(45);
+        System.out.println(obj13.x);
+
+    }
+}

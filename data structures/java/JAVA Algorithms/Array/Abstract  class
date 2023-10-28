@@ -1,0 +1,44 @@
+
+//the abstract class can not become a object it is features of it.
+abstract class shape
+{
+    void display()
+    {
+
+    }
+}
+
+class cir extends shape{
+    void display()
+    {
+        System.out.println("shape is circle is right now");
+    }
+}
+
+class rectan extends shape{
+    void display()
+    {
+        System.out.println("the shape is rectangle");
+    }
+}
+public class abstaract {
+
+    public static void main(String[] args)
+    {
+
+        ///abstract class object
+        //error like this:'shape' is abstract; cannot be instantiated
+        //shape s=new shape();
+       // s.display();
+
+
+        //instance is cir
+        shape s =new cir();
+        s.display();
+
+        //instance is rectan
+
+        s=new rectan();
+        s.display();
+    }
+}
