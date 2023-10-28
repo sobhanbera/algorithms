@@ -287,7 +287,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Longest Common Subsequence                |                    |                    |                    |                    |                    |                    |                    |      |        |
 | Longest Increasing Subsequence            |                    | :white_check_mark: |                    |                    |                    |                    |                    |      |        |
 | Longest Palindromic Substring             |                    | :white_check_mark: |                    |                    |                    |                    |                    |      |        |
-| Merge Sort                                | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: |                    |                    |                    |      |   TS   |
+| Merge Sort                                | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                    |                    |      |   TS   |
 | Naive Search                              |                    |                    |                    |                    |                    |                    |                    |      |        |
 | Quick Sort                                |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                    |                    |      |        |
 | Radix Sort                                |                    |                    |                    |                    |                    |                    |                    |      |        |
