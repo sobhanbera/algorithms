@@ -323,6 +323,7 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Two Sum                              | :white_check_mark: | :white_check_mark: |                    |            |        |     |       |
 | Variations of LIS                    |                    |                    |                    |            |        |     |       |
 | Word Wrap Problem                    |                    |                    |                    |            |        |     |       |
+| Strobogrammatic number               |                    | :white_check_mark: |                    |            |        |     |       |
 
 ## Data Structures Implementations.
 
