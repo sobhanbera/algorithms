@@ -1,22 +1,26 @@
 #include <iostream>
-using namespace std;
 int main()
 {
     int n;
-    cout << "Enter the number of terms" << endl;
-    cin >> n;
+    std::cout << "Enter the number of terms" << std::endl;
+    std::cin >> n;
     int a = 0, b = 1, sum = 0;
-
-    cout << a << " " << b << " ";
-
-    for (int i = 0; i < n - 2; i++)
+    if (n > 0)
     {
-        sum = a + b;
-        a = b;
-        b = sum;
-        cout << sum << " ";
+        std::cout << a << " " << b << " ";
+        for (int i = 0; i < n - 2; i++)
+        {
+            sum = a + b;
+            a = b;
+            b = sum;
+            std::cout << sum << " ";
+        }
+        std::cout << endl;
     }
-    cout << endl;
+    else
+    {
+        std::cout << "Number should be greater than 0" << std::endl;
+    }
     return 0;
 }
 
