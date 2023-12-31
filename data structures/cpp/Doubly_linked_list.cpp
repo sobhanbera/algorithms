@@ -8,24 +8,22 @@ public:
     int data;
     struct node *prev;
     struct node *next;
+    node(int d1, node* p = nullptr, node* n = nullptr) : 
+        data(d1),
+        prev(p),
+        next(n) {}
 };
 //functionto create ll
 struct node *create_dll(struct node *head)
 {
-    struct node *newnode = new struct node;
-    newnode->next = NULL;
-    newnode->prev = NULL;
-    cin >> newnode->data;
-    tail = newnode;
-    if (head == NULL)
-    {
+    int input;
+    cin >> input;
+    struct node *newnode = new struct node(input);
+    if (head == nullptr) {
         return newnode;
-    }
-    else
-    {
-        struct node *p = head;
-        while (p->next != NULL)
-        {
+    } else {
+        node *p = head;
+        while (p->next != nullptr) {
             p = p->next;
         }
         newnode->prev = p;
@@ -36,21 +34,19 @@ struct node *create_dll(struct node *head)
 //function to insert  node at head
 struct node *insert_at_beg_in_dll(struct node *head)
 {
-    struct node *newnode = new struct node;
-    newnode->next = NULL;
-    newnode->prev = NULL;
-    cin >> newnode->data;
-    if (head == NULL)
-    {
+    int input_data;
+    cin >> input_data;
+
+    // Creating a new node with input data using the constructor
+    node *newnode = new node(input_data);
+
+    if (head == nullptr) {
         return newnode;
-    }
-    else
-    {
+    } else {
         head->prev = newnode;
         newnode->next = head;
         head = newnode;
         return head;
-    }
 }
 //function to to insert element at end
 struct node *insert_at_end_in_dll(struct node *head)
